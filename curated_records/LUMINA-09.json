@@ -1,0 +1,145 @@
+{
+  "project_id": "LUMINA-09",
+  "brand_name": "TOONG",
+  "client_name": "Nguyen Dat",
+  "client_phone": "0900300300",
+  "client_email": "nguyendat@gmail.com",
+  "industry": "Khác",
+  "target_audience": "TOONG chuyên cung cấp giáo trình dạy học, yêu cầu biểu tượng tổ ong cách điệu kết hợp chữ TOONG, màu sắc vàng cam",
+  "logo_format": "Mascot / Illustrative",
+  "color_tone": "Warm & Vibrant (Đỏ ấm, cam san hô, vàng nắng)",
+  "style_vibes": [
+    "Minimalist",
+    "Rustic"
+  ],
+  "submitted_at": "2026-11-07T09:55:45.630Z",
+  "status": "Pending",
+  "order_tier": "standard",
+  "logo_options": [
+    {
+      "id": "opt_1",
+      "title": "Option 1: Lục Giác Tổ Ong Kiến Tạo Tri Thức (Honeycomb Hexagon)",
+      "concept_note": "Biểu tượng tổ ong hình học cách điệu màu vàng cam lồng ghép chữ T âm bản, tượng trưng cho sự gắn kết tri thức và sáng tạo.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.18em; fill: #1E293B; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #D97706; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #1E293B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#FFFBEB\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Precision Honeycomb Hexagon Architecture (Dành cho TOONG / Tổ Ong Tri Thức) -->\n    <g transform=\"translate(0, 0)\">\n      <!-- Lớp vỏ Lục giác ngoài cùng (Outer Golden Hexagon Frame) -->\n      <polygon points=\"0,-82 71,-41 71,41 0,82 -71,41 -71,-41\" \n               fill=\"none\" stroke=\"#D97706\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/>\n      \n      <!-- Khung lục giác đệm phát quang (Aura Layer) -->\n      <polygon points=\"0,-72 62,-36 62,36 0,72 -62,36 -62,-36\" \n               fill=\"#F59E0B\" fill-opacity=\"0.08\" stroke=\"#F59E0B\" stroke-width=\"0.8\" stroke-dasharray=\"6 3\"/>\n\n      <!-- MẠNG LƯỚI TỔ ONG HÌNH HỌC (3 Ô Tổ ong liên kết tạo hình âm bản chữ T) -->\n      <!-- Ô tổ ong 1 (Đỉnh trên trung tâm) -->\n      <polygon points=\"0,-56 26,-41 26,-11 0,4 -26,-11 -26,-41\" \n               fill=\"#D97706\" fill-opacity=\"0.9\" stroke=\"#1E293B\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n               \n      <!-- Ô tổ ong 2 (Dưới bên trái) -->\n      <polygon points=\"-30,-4 -4,11 -4,41 -30,56 -56,41 -56,11\" \n               fill=\"#F59E0B\" fill-opacity=\"0.85\" stroke=\"#1E293B\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n\n      <!-- Ô tổ ong 3 (Dưới bên phải) -->\n      <polygon points=\"30,-4 56,11 56,41 30,56 4,41 4,11\" \n               fill=\"#1E293B\" fill-opacity=\"0.9\" stroke=\"#D97706\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n\n      <!-- KHỐI CHỮ T CÁCH ĐIỆU TRUNG TÂM (T-Emblem for TOONG) -->\n      <path d=\"M -22,-20 L 22,-20 L 22,-8 L 6,-8 L 6,34 L -6,34 L -6,-8 L -22,-8 Z\" \n            fill=\"#FFFFFF\" filter=\"drop-shadow(0px 2px 4px rgba(0,0,0,0.25))\"/>\n\n      <!-- 6 Hạt ngọc lục giác định vị tỷ lệ vàng tại 6 đỉnh -->\n      <circle cx=\"0\" cy=\"-82\" r=\"3.5\" fill=\"#F59E0B\"/>\n      <circle cx=\"71\" cy=\"-41\" r=\"3.5\" fill=\"#D97706\"/>\n      <circle cx=\"71\" cy=\"41\" r=\"3.5\" fill=\"#F59E0B\"/>\n      <circle cx=\"0\" cy=\"82\" r=\"3.5\" fill=\"#D97706\"/>\n      <circle cx=\"-71\" cy=\"41\" r=\"3.5\" fill=\"#F59E0B\"/>\n      <circle cx=\"-71\" cy=\"-41\" r=\"3.5\" fill=\"#D97706\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">TOONG</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">HONEYCOMB KNOWLEDGE ARCHITECTURE</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F59E0B\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO TRI THỨC, KHƠI NGUỒN SÁNG TẠO</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#D97706\" letter-spacing=\"0.25em\">LEARNING &amp; CO-WORKING ECOSYSTEM</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "tech",
+        "letterSpacing": 0.18,
+        "primaryColor": "#D97706",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_2",
+      "title": "Option 2: Khối Chữ T Nối Liền Liền Mạch (Bold T-Ligature Architecture)",
+      "concept_note": "Khối monogram chữ T & G dũng mãnh với vệt góc nghiêng động học, mang phong thái vững chãi của nền tảng đào tạo hàng đầu.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.18em; fill: #1E293B; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #D97706; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #1E293B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#FFFBEB\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#1E293B\" stroke-width=\"0.8\" stroke-opacity=\"0.25\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Bold Geometric Duo-Ligature Monogram [TG] -->\n    <g transform=\"translate(0, -5)\">\n      <!-- Khung bảo vệ tỷ lệ vàng mờ -->\n      <rect x=\"-75\" y=\"-75\" width=\"150\" height=\"150\" rx=\"32\" fill=\"none\" stroke=\"#1E293B\" stroke-width=\"1.2\" stroke-opacity=\"0.35\"/>\n      \n      <!-- Ký tự 1: Thân đứng / thân chéo khối đặc hình học 18px -->\n      <path d=\"M -52,-52 L -24,-52 L -24,52 L -52,52 Z\" fill=\"#D97706\"/>\n      <path d=\"M -24,-52 C 10,-52 24,-30 24,-6 C 24,18 10,40 -24,40 L -24,20 C -2,20 6,8 6,-6 C 6,-20 -2,-32 -24,-32 Z\" fill=\"#D97706\"/>\n\n      <!-- Ký tự 2: Cung uốn lồng móc xích hoặc nét đối xứng -->\n      <path d=\"M 0,-10 C 18,-24 44,-24 54,-8 C 62,6 58,22 42,34 C 28,44 14,48 14,54 L 56,54 L 56,38 C 50,42 42,42 36,42 C 28,42 24,36 30,30 C 44,18 64,8 54,-18 C 42,-34 16,-34 -4,-22 Z\" fill=\"#1E293B\"/>\n      \n      <!-- Vệt nhấn chéo góc sắc bén (Dynamic Accent Slash) -->\n      <polygon points=\"36,-58 72,-58 54,-34 18,-34\" fill=\"#F59E0B\"/>\n      \n      <!-- Hạt định vị quang học tỷ lệ vàng -->\n      <circle cx=\"0\" cy=\"58\" r=\"3\" fill=\"#F59E0B\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">TOONG</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">BOLD T-LIGATURE MONOGRAM</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F59E0B\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO TRI THỨC, KHƠI NGUỒN SÁNG TẠO</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "luxury",
+        "letterSpacing": 0.18,
+        "primaryColor": "#D97706",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_3",
+      "title": "Option 3: Dòng Chảy Vô Cực Phát Triển (Continuous Infinity Knowledge Flow)",
+      "concept_note": "Dải ruy băng vô cực uốn lượn liên hoàn không đứt đoạn qua các ký tự T-O-O-N-G, biểu trưng cho sự tiến bộ và mở rộng không giới hạn.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.18em; fill: #1E293B; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #D97706; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #1E293B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#FFFBEB\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Continuous Infinity Flow Ribbon (Phong cách Reference 3) -->\n    <!-- Dải nét đơn uốn lượn tuần hoàn vô tận qua 4 vòng lặp chữ c-o-c-o -->\n    <g transform=\"translate(0, 5)\">\n      <!-- Vòng C thứ nhất: X = -96 -->\n      <path d=\"M -70,-28 C -92,-40 -124,-24 -124,0 C -124,24 -92,40 -70,28\" \n            fill=\"none\" stroke=\"#D97706\" stroke-width=\"13\" stroke-linecap=\"round\"/>\n\n      <!-- Nối mượt mà sang vòng O thứ nhất: X = -32 -->\n      <circle cx=\"-32\" cy=\"0\" r=\"28\" fill=\"none\" stroke=\"#1E293B\" stroke-width=\"13\"/>\n\n      <!-- Nối mượt mà sang vòng C thứ hai: X = 32 -->\n      <path d=\"M 58,-28 C 36,-40 4,-24 4,0 C 4,24 36,40 58,28\" \n            fill=\"none\" stroke=\"#D97706\" stroke-width=\"13\" stroke-linecap=\"round\"/>\n\n      <!-- Nối sang vòng O thứ hai: X = 96 -->\n      <circle cx=\"96\" cy=\"0\" r=\"28\" fill=\"none\" stroke=\"#1E293B\" stroke-width=\"13\"/>\n\n      <!-- Đường phản chiếu gương nhẹ nhàng phía dưới (Ambient Horizon Line) -->\n      <line x1=\"-125\" y1=\"48\" x2=\"125\" y2=\"48\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.35\"/>\n      <circle cx=\"0\" cy=\"48\" r=\"2.5\" fill=\"#F59E0B\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">TOONG</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">CONTINUOUS INFINITY FLOW LIGATURE</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F59E0B\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO TRI THỨC, KHƠI NGUỒN SÁNG TẠO</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "luxury",
+        "letterSpacing": 0.18,
+        "primaryColor": "#D97706",
+        "layout": "stacked"
+      }
+    }
+  ],
+  "selected_logo_id": "opt_1",
+  "delivery_mode": "client_choice",
+  "delivery_time": "24h",
+  "logo_options_count": 1,
+  "revision_rounds": 1,
+  "current_revision": 1,
+  "review_status": "Pending_Review",
+  "brand_story": "TOONG là tổ ấm của những ý tưởng đột phá và cộng đồng tri thức không ngừng học hỏi. Lấy cảm hứng từ cấu trúc tổ ong hoàn hảo của tự nhiên, chúng tôi kiến tạo môi trường học tập và làm việc đa chiều, nơi mỗi cá nhân đều tìm thấy động lực phát triển và kết nối giá trị bền vững.",
+  "tagline": "Chạm chất mộc, lắng tiếng gió reo",
+  "tagline_options": [
+    "Chạm chất mộc, lắng tiếng gió reo",
+    "Awaken Your Pure Frequency",
+    "Hương vị nguyên bản từ triền đồi bazan",
+    "Giao hòa tĩnh lặng giữa cà phê và thiên nhiên"
+  ],
+  "palette": [
+    {
+      "role": "Primary",
+      "name": "Amber Honey (Hổ Phách Tổ Ong)",
+      "hex": "#D97706",
+      "rgb": "rgb(217, 119, 6)"
+    },
+    {
+      "role": "Secondary",
+      "name": "Architectural Slate (Xám Đen Đô Thị)",
+      "hex": "#1E293B",
+      "rgb": "rgb(30, 41, 59)"
+    },
+    {
+      "role": "Accent",
+      "name": "Solar Orange (Cam Năng Động)",
+      "hex": "#F59E0B",
+      "rgb": "rgb(245, 158, 11)"
+    },
+    {
+      "role": "Neutral",
+      "name": "Warm Parchment (Giấy Thức Ấm)",
+      "hex": "#FFFBEB",
+      "rgb": "rgb(255, 251, 235)"
+    }
+  ],
+  "typography": {
+    "heading": "Space Grotesk",
+    "body": "Plus Jakarta Sans",
+    "pairing_rationale": "Bộ font hình học hiện đại thể hiện cấu trúc tổ ong và tính kiến tạo không gian tri thức cấp tiến.",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap"
+  },
+  "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.18em; fill: #1E293B; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #D97706; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #1E293B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#FFFBEB\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Precision Honeycomb Hexagon Architecture (Dành cho TOONG / Tổ Ong Tri Thức) -->\n    <g transform=\"translate(0, 0)\">\n      <!-- Lớp vỏ Lục giác ngoài cùng (Outer Golden Hexagon Frame) -->\n      <polygon points=\"0,-82 71,-41 71,41 0,82 -71,41 -71,-41\" \n               fill=\"none\" stroke=\"#D97706\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/>\n      \n      <!-- Khung lục giác đệm phát quang (Aura Layer) -->\n      <polygon points=\"0,-72 62,-36 62,36 0,72 -62,36 -62,-36\" \n               fill=\"#F59E0B\" fill-opacity=\"0.08\" stroke=\"#F59E0B\" stroke-width=\"0.8\" stroke-dasharray=\"6 3\"/>\n\n      <!-- MẠNG LƯỚI TỔ ONG HÌNH HỌC (3 Ô Tổ ong liên kết tạo hình âm bản chữ T) -->\n      <!-- Ô tổ ong 1 (Đỉnh trên trung tâm) -->\n      <polygon points=\"0,-56 26,-41 26,-11 0,4 -26,-11 -26,-41\" \n               fill=\"#D97706\" fill-opacity=\"0.9\" stroke=\"#1E293B\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n               \n      <!-- Ô tổ ong 2 (Dưới bên trái) -->\n      <polygon points=\"-30,-4 -4,11 -4,41 -30,56 -56,41 -56,11\" \n               fill=\"#F59E0B\" fill-opacity=\"0.85\" stroke=\"#1E293B\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n\n      <!-- Ô tổ ong 3 (Dưới bên phải) -->\n      <polygon points=\"30,-4 56,11 56,41 30,56 4,41 4,11\" \n               fill=\"#1E293B\" fill-opacity=\"0.9\" stroke=\"#D97706\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n\n      <!-- KHỐI CHỮ T CÁCH ĐIỆU TRUNG TÂM (T-Emblem for TOONG) -->\n      <path d=\"M -22,-20 L 22,-20 L 22,-8 L 6,-8 L 6,34 L -6,34 L -6,-8 L -22,-8 Z\" \n            fill=\"#FFFFFF\" filter=\"drop-shadow(0px 2px 4px rgba(0,0,0,0.25))\"/>\n\n      <!-- 6 Hạt ngọc lục giác định vị tỷ lệ vàng tại 6 đỉnh -->\n      <circle cx=\"0\" cy=\"-82\" r=\"3.5\" fill=\"#F59E0B\"/>\n      <circle cx=\"71\" cy=\"-41\" r=\"3.5\" fill=\"#D97706\"/>\n      <circle cx=\"71\" cy=\"41\" r=\"3.5\" fill=\"#F59E0B\"/>\n      <circle cx=\"0\" cy=\"82\" r=\"3.5\" fill=\"#D97706\"/>\n      <circle cx=\"-71\" cy=\"41\" r=\"3.5\" fill=\"#F59E0B\"/>\n      <circle cx=\"-71\" cy=\"-41\" r=\"3.5\" fill=\"#D97706\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">TOONG</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">HONEYCOMB KNOWLEDGE ARCHITECTURE</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F59E0B\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#D97706\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO TRI THỨC, KHƠI NGUỒN SÁNG TẠO</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#D97706\" letter-spacing=\"0.25em\">LEARNING &amp; CO-WORKING ECOSYSTEM</text>\n  </g>\n</svg>",
+  "original_logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');\n      .brand-title { font-family: 'Fraunces', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #9E6B55; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #3D2B1F; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #3D2B1F; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F4EFEA\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n<g id=\"logo-emblem\" transform=\"translate(250, 185)\"><path d=\"M -50 0 C -50 -45 45 -50 50 0 C 55 45 -40 55 -45 5\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.6\" stroke-linecap=\"round\"/><path d=\"M -25 -5 C -25 -28 20 -28 20 -2 C 20 22 -15 22 -12 2\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"-45\" r=\"3.5\" fill=\"#5B7065\"/><circle cx=\"-42\" cy=\"38\" r=\"2.5\" fill=\"#5B7065\"/></g>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">TOONG</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">ĐƯỜNG CONG HỮU CƠ & TINH THẦN WABI-SABI</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-12\" y2=\"0\" stroke=\"#3D2B1F\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#5B7065\"/>\n      <line x1=\"12\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#3D2B1F\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">CHẠM CHẤT MỘC, LẮNG TIẾNG GIÓ REO</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#3D2B1F\" letter-spacing=\"0.25em\">ARCHETYPE ORGANIC_ARTISANAL</text>\n  </g>\n</svg>",
+  "logo_layout": {
+    "layout": "stacked",
+    "iconScale": 1,
+    "letterSpacing": 0.18,
+    "iconColor": "#3D2B1F",
+    "titleColor": "#3D2B1F",
+    "taglineColor": "#9E6B55",
+    "bgColor": "#5B7065"
+  },
+  "mockups": {
+    "namecard": {
+      "front": "Mặt trước dập nổi hình khối lục giác tổ ong trên nền Xám Đen Đô Thị sang trọng.",
+      "back": "Mặt sau nền Hổ Phách với thông tin thành viên và mã QR thẻ cộng đồng tri thức."
+    },
+    "packaging": {
+      "type": "Bộ giáo trình cao cấp đóng gáy xoắn bìa cứng ép nhũ vàng cam.",
+      "description": "Túi vải canvas đa dụng in logo cách điệu sắc sảo."
+    },
+    "signage": {
+      "type": "Biển hiệu khối lục giác inox vàng xước hairline hắt đèn LED vàng 3000K.",
+      "description": "Không gian sảnh lễ tân co-working & trung tâm đào tạo sáng tạo."
+    }
+  },
+  "moodboard_url": "/generated/LUMINA-09/moodboard_pollinations.jpg",
+  "mockup_url": "/api/generate-mockup?projectId=LUMINA-09",
+  "export_links": {
+    "svg_url": "/downloads/LUMINA-09/logo_master.svg",
+    "png_url": "/downloads/LUMINA-09/logo_transparent.png",
+    "pdf_url": "/downloads/LUMINA-09/brand_guideline.pdf",
+    "client_proposal_url": "/p/toong"
+  }
+}

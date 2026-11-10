@@ -1,0 +1,6 @@
+hãy đóng vai là 1 user thật (không có kiến thức IT, low tếch, khó tính, để ý chi tiết, cực kỳ ghét sự phức tạp và xấu, thích cái đẹp) trải nghiệm web này từ đầu đến cuối và cho tôi 1 bản gap analysis chi tiết những lỗ hổng về UI/UX của web này và 1 bản deep proposal để hoàn thiện web này.
+Only fix the item having issue. Do not change any app functions that I already approved. Always crosscheck if the changes affect the functions indirectly to ensure the web can operate smoothly. no hallucination, no lazy, keep the current skills design system.
+
+
+Only fix the item having issue. Do not change any app functions that I already approved. Always crosscheck if the changes affect the functions indirectly to ensure the web can operate smoothly. no hallucination, no lazy, keep the current skills design system.
+=>phần này nhập vào cuối câu lệnh e6u cầu AI khắc phục sU KHI NÓ GIẢ LÀM KHÁCH TIMlỗ hỗng của web

@@ -1,0 +1,145 @@
+{
+  "project_id": "LUMINA-08",
+  "brand_name": "GREEN FARM",
+  "client_name": "Nguyen Van B",
+  "client_phone": "0900346346",
+  "client_email": "vanb@gmail.com",
+  "industry": "F&B / Ẩm thực",
+  "target_audience": "Ưu tiên biểu tượng kết hợp  chữ, biểu tương nghiên về thực phẩm sạch:rau củ , nông trai,  màu sắc chủ đạo: xanh lá, sử dụng hình tròn bao bọc biểu tượng lẫn test GREEN FARM. Đáp ứng nhu cầu khác hàng từ 20-65 tuổi.",
+  "logo_format": "Mascot / Illustrative",
+  "color_tone": "AI Optimal Suggestion (AI tự do đề xuất bảng màu tối ưu theo ngành hàng)",
+  "style_vibes": [
+    "Minimalist",
+    "Rustic"
+  ],
+  "submitted_at": "2026-11-07T08:40:30.154Z",
+  "status": "Pending",
+  "order_tier": "standard",
+  "logo_options": [
+    {
+      "id": "opt_1",
+      "title": "Option 1: Vòng Tròn Sinh Thái Mầm Xanh (Botanical Circle Shield)",
+      "concept_note": "Biểu tượng hình tròn bảo hộ bao bọc mầm lá sinh thái vươn cao đón ánh dương, đúng chuẩn yêu cầu thực phẩm sạch.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');\n      .brand-title { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.16em; fill: #059669; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #10B981; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F59E0B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F0FDF4\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.25\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Botanical Circular Harvest Emblem (Dành riêng cho GREEN FARM) -->\n    <g transform=\"translate(0, 0)\">\n      <!-- Vòng tròn bảo hộ kép (Double Concentric Green Shield) -->\n      <circle cx=\"0\" cy=\"0\" r=\"82\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2.8\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"74\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"1.2\" stroke-dasharray=\"6 3\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"68\" fill=\"#059669\" fill-opacity=\"0.06\"/>\n\n      <!-- MẦM LÁ VÀ CHỒI NON SINH THÁI (Đường cong Bezier mượt mà thuần túy) -->\n      <!-- Lá lớn bên phải vươn cao -->\n      <path d=\"M 0,44 C 15,25 48,15 42,-28 C 22,-24 8,-6 0,12\" \n            fill=\"#059669\" fill-opacity=\"0.95\"/>\n      <path d=\"M 0,44 C 20,30 42,0 42,-28\" \n            fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"1.6\" stroke-linecap=\"round\"/>\n\n      <!-- Lá nhỏ bên trái xòe búp -->\n      <path d=\"M 0,34 C -12,20 -38,12 -34,-18 C -18,-15 -6,-2 0,14\" \n            fill=\"#10B981\" fill-opacity=\"0.95\"/>\n      <path d=\"M 0,34 C -15,22 -32,2 -34,-18\" \n            fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"1.4\" stroke-linecap=\"round\"/>\n\n      <!-- HẠT MẦM VÀ ÁNH DƯƠNG TỎA SÁNG TRUNG TÂM -->\n      <circle cx=\"0\" cy=\"-36\" r=\"7\" fill=\"#F59E0B\"/>\n      <circle cx=\"0\" cy=\"-36\" r=\"11\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"1\" stroke-dasharray=\"2 3\"/>\n\n      <!-- TIA NẮNG HÌNH HỌC TỶ LỆ VÀNG -->\n      <line x1=\"0\" y1=\"-50\" x2=\"0\" y2=\"-55\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n      <line x1=\"12\" y1=\"-46\" x2=\"16\" y2=\"-50\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n      <line x1=\"-12\" y1=\"-46\" x2=\"-16\" y2=\"-50\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n\n      <!-- Đỉnh sao tinh khiết 4 cánh -->\n      <polygon points=\"0,-72 3,-68 0,-64 -3,-68\" fill=\"#F59E0B\"/>\n      <polygon points=\"0,72 3,68 0,64 -3,68\" fill=\"#059669\"/>\n      <polygon points=\"-72,0 -68,3 -64,0 -68,-3\" fill=\"#10B981\"/>\n      <polygon points=\"72,0 68,3 64,0 68,-3\" fill=\"#10B981\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GREEN FARM</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">ORGANIC BOTANICAL &amp; PURE HARVEST</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F59E0B\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">HƯƠNG XANH - CHẤT SẠCH</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#059669\" letter-spacing=\"0.25em\">FARM-TO-TABLE FRESHNESS</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "circle",
+        "letterSpacing": 0.16,
+        "primaryColor": "#059669",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_2",
+      "title": "Option 2: Khối Chữ Ghép Ligature Hiện Đại (GF Ligature)",
+      "concept_note": "Nghệ thuật chữ lồng G & F khối đặc với vệt góc nghiêng động học, tạo diện mạo thương hiệu nông nghiệp thế hệ mới.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');\n      .brand-title { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.16em; fill: #059669; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #10B981; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F59E0B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F0FDF4\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#059669\" stroke-width=\"0.8\" stroke-opacity=\"0.25\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Bold Geometric Duo-Ligature Monogram [GF] -->\n    <g transform=\"translate(0, -5)\">\n      <!-- Khung bảo vệ tỷ lệ vàng mờ -->\n      <rect x=\"-75\" y=\"-75\" width=\"150\" height=\"150\" rx=\"32\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"1.2\" stroke-opacity=\"0.35\"/>\n      \n      <!-- Ký tự 1: Thân đứng / thân chéo khối đặc hình học 18px -->\n      <path d=\"M -52,-52 L -24,-52 L -24,52 L -52,52 Z\" fill=\"#059669\"/>\n      <path d=\"M -24,-52 C 10,-52 24,-30 24,-6 C 24,18 10,40 -24,40 L -24,20 C -2,20 6,8 6,-6 C 6,-20 -2,-32 -24,-32 Z\" fill=\"#059669\"/>\n\n      <!-- Ký tự 2: Cung uốn lồng móc xích hoặc nét đối xứng -->\n      <path d=\"M 0,-10 C 18,-24 44,-24 54,-8 C 62,6 58,22 42,34 C 28,44 14,48 14,54 L 56,54 L 56,38 C 50,42 42,42 36,42 C 28,42 24,36 30,30 C 44,18 64,8 54,-18 C 42,-34 16,-34 -4,-22 Z\" fill=\"#10B981\"/>\n      \n      <!-- Vệt nhấn chéo góc sắc bén (Dynamic Accent Slash) -->\n      <polygon points=\"36,-58 72,-58 54,-34 18,-34\" fill=\"#F59E0B\"/>\n      \n      <!-- Hạt định vị quang học tỷ lệ vàng -->\n      <circle cx=\"0\" cy=\"58\" r=\"3\" fill=\"#F59E0B\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GREEN FARM</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">GEOMETRIC DUO LIGATURE [GF]</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F59E0B\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">HƯƠNG XANH - CHẤT SẠCH</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "luxury",
+        "letterSpacing": 0.16,
+        "primaryColor": "#059669",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_3",
+      "title": "Option 3: Vành Đai Đồng Tâm Mùa Vụ (Golden Harvest Labyrinth)",
+      "concept_note": "Hệ cung tròn đồng tâm tỷ lệ vàng tượng trưng cho vòng tuần hoàn mùa vụ màu mỡ và hạt ngọc phù sa.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');\n      .brand-title { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.16em; fill: #059669; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #10B981; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F59E0B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F0FDF4\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Concentric Labyrinth & Golden Ratio Arcs (Phong cách Reference 4) -->\n    <!-- Vành đai 4 (Ngoài cùng): R=74, độ dày 7px -->\n    <path d=\"M 38,-63 A 74 74 0 1 0 38,63\" fill=\"none\" stroke=\"#059669\" stroke-width=\"7.5\" stroke-linecap=\"round\"/>\n\n    <!-- Vành đai 3 (Giữa ngoài): R=54, độ dày 7px -->\n    <path d=\"M 28,-46 A 54 54 0 1 0 28,46\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n\n    <!-- Vành đai 2 (Giữa trong): R=35, độ dày 6.5px -->\n    <path d=\"M 18,-30 A 35 35 0 1 0 18,30\" fill=\"none\" stroke=\"#059669\" stroke-width=\"6.5\" stroke-linecap=\"round\"/>\n\n    <!-- Vành đai 1 (Tâm lõi): R=18, độ dày 6px -->\n    <path d=\"M 9,-15 A 18 18 0 1 0 9,15\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n    <!-- Điểm hội tụ hạt ngọc trung tâm (Central Focal Point) -->\n    <circle cx=\"0\" cy=\"0\" r=\"4.5\" fill=\"#F59E0B\"/>\n\n    <!-- Khung viền mờ tỷ lệ phụ trợ -->\n    <circle cx=\"0\" cy=\"0\" r=\"88\" fill=\"none\" stroke=\"#059669\" stroke-width=\"0.8\" stroke-dasharray=\"3 4\" stroke-opacity=\"0.3\"/>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GREEN FARM</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">GOLDEN HARVEST CONCENTRIC LABYRINTH</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#059669\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">HƯƠNG XANH - CHẤT SẠCH</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "circle",
+        "letterSpacing": 0.16,
+        "primaryColor": "#059669",
+        "layout": "stacked"
+      }
+    }
+  ],
+  "selected_logo_id": "opt_1",
+  "delivery_mode": "client_choice",
+  "delivery_time": "24h",
+  "logo_options_count": 1,
+  "revision_rounds": 2,
+  "current_revision": 1,
+  "review_status": "Pending_Review",
+  "brand_story": "GREEN FARM là hành trình tìm về những giá trị thuần khiết nhất từ thiên nhiên. Chúng tôi kết nối quy trình canh tác sinh thái bền vững với bàn tay chăm sóc tận tâm, mang nguồn thực phẩm sạch, tươi ngon và tràn đầy năng lượng đất trời đến từng bữa ăn gia đình.",
+  "tagline": "Hương xanh -Chất sạch",
+  "tagline_options": [
+    "Hương xanh -Chất sạch",
+    "Awaken Your Pure Frequency",
+    "Hương vị nguyên bản từ triền đồi bazan",
+    "Giao hòa tĩnh lặng giữa cà phê và thiên nhiên"
+  ],
+  "palette": [
+    {
+      "role": "Primary",
+      "name": "Emerald Forest (Xanh Ngọc Sinh Thái)",
+      "hex": "#059669",
+      "rgb": "rgb(5, 150, 105)"
+    },
+    {
+      "role": "Secondary",
+      "name": "Sprout Green (Xanh Mầm Lá)",
+      "hex": "#10B981",
+      "rgb": "rgb(16, 185, 129)"
+    },
+    {
+      "role": "Accent",
+      "name": "Sunlight Gold (Vàng Nắng Phù Sa)",
+      "hex": "#F59E0B",
+      "rgb": "rgb(245, 158, 11)"
+    },
+    {
+      "role": "Neutral",
+      "name": "Clean Pearl (Trắng Tinh Khiết)",
+      "hex": "#F0FDF4",
+      "rgb": "rgb(240, 253, 244)"
+    }
+  ],
+  "typography": {
+    "heading": "Plus Jakarta Sans",
+    "body": "Be Vietnam Pro",
+    "pairing_rationale": "Font chữ hiện đại, khỏe khoắn kết hợp sự trong lành thuần khiết của nông nghiệp hữu cơ chuẩn quốc tế.",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
+  },
+  "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');\n      .brand-title { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.16em; fill: #059669; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #10B981; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F59E0B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F0FDF4\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.25\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Botanical Circular Harvest Emblem (Dành riêng cho GREEN FARM) -->\n    <g transform=\"translate(0, 0)\">\n      <!-- Vòng tròn bảo hộ kép (Double Concentric Green Shield) -->\n      <circle cx=\"0\" cy=\"0\" r=\"82\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2.8\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"74\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"1.2\" stroke-dasharray=\"6 3\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"68\" fill=\"#059669\" fill-opacity=\"0.06\"/>\n\n      <!-- MẦM LÁ VÀ CHỒI NON SINH THÁI (Đường cong Bezier mượt mà thuần túy) -->\n      <!-- Lá lớn bên phải vươn cao -->\n      <path d=\"M 0,44 C 15,25 48,15 42,-28 C 22,-24 8,-6 0,12\" \n            fill=\"#059669\" fill-opacity=\"0.95\"/>\n      <path d=\"M 0,44 C 20,30 42,0 42,-28\" \n            fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"1.6\" stroke-linecap=\"round\"/>\n\n      <!-- Lá nhỏ bên trái xòe búp -->\n      <path d=\"M 0,34 C -12,20 -38,12 -34,-18 C -18,-15 -6,-2 0,14\" \n            fill=\"#10B981\" fill-opacity=\"0.95\"/>\n      <path d=\"M 0,34 C -15,22 -32,2 -34,-18\" \n            fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"1.4\" stroke-linecap=\"round\"/>\n\n      <!-- HẠT MẦM VÀ ÁNH DƯƠNG TỎA SÁNG TRUNG TÂM -->\n      <circle cx=\"0\" cy=\"-36\" r=\"7\" fill=\"#F59E0B\"/>\n      <circle cx=\"0\" cy=\"-36\" r=\"11\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"1\" stroke-dasharray=\"2 3\"/>\n\n      <!-- TIA NẮNG HÌNH HỌC TỶ LỆ VÀNG -->\n      <line x1=\"0\" y1=\"-50\" x2=\"0\" y2=\"-55\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n      <line x1=\"12\" y1=\"-46\" x2=\"16\" y2=\"-50\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n      <line x1=\"-12\" y1=\"-46\" x2=\"-16\" y2=\"-50\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n\n      <!-- Đỉnh sao tinh khiết 4 cánh -->\n      <polygon points=\"0,-72 3,-68 0,-64 -3,-68\" fill=\"#F59E0B\"/>\n      <polygon points=\"0,72 3,68 0,64 -3,68\" fill=\"#059669\"/>\n      <polygon points=\"-72,0 -68,3 -64,0 -68,-3\" fill=\"#10B981\"/>\n      <polygon points=\"72,0 68,3 64,0 68,-3\" fill=\"#10B981\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GREEN FARM</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">ORGANIC BOTANICAL &amp; PURE HARVEST</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F59E0B\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#10B981\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">HƯƠNG XANH - CHẤT SẠCH</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#059669\" letter-spacing=\"0.25em\">FARM-TO-TABLE FRESHNESS</text>\n  </g>\n</svg>",
+  "original_logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');\n      .brand-title { font-family: 'Fraunces', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #9E6B55; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #3D2B1F; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #3D2B1F; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F4EFEA\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n<g id=\"logo-emblem\" transform=\"translate(250, 185)\"><path d=\"M -50 0 C -50 -45 45 -50 50 0 C 55 45 -40 55 -45 5\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.6\" stroke-linecap=\"round\"/><path d=\"M -25 -5 C -25 -28 20 -28 20 -2 C 20 22 -15 22 -12 2\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"-45\" r=\"3.5\" fill=\"#5B7065\"/><circle cx=\"-42\" cy=\"38\" r=\"2.5\" fill=\"#5B7065\"/></g>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GREEN FARM</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">ĐƯỜNG CONG HỮU CƠ & TINH THẦN WABI-SABI</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-12\" y2=\"0\" stroke=\"#3D2B1F\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#5B7065\"/>\n      <line x1=\"12\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#3D2B1F\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">HƯƠNG XANH -CHẤT SẠCH</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#3D2B1F\" letter-spacing=\"0.25em\">ARCHETYPE ORGANIC_ARTISANAL</text>\n  </g>\n</svg>",
+  "logo_layout": {
+    "layout": "stacked",
+    "iconScale": 1,
+    "letterSpacing": 0.18,
+    "iconColor": "#3D2B1F",
+    "titleColor": "#3D2B1F",
+    "taglineColor": "#9E6B55",
+    "bgColor": "#5B7065"
+  },
+  "mockups": {
+    "namecard": {
+      "front": "Mặt trước chất liệu giấy sinh học kraft trắng in UV biểu tượng mầm lá xanh tươi.",
+      "back": "Mặt sau nền Xanh Ngọc Sinh Thái với thông tin truy xuất nguồn gốc nông trại."
+    },
+    "packaging": {
+      "type": "Bao bì hộp giấy tự hủy sinh học & tem niêm phong hữu cơ.",
+      "description": "Tem dán đạt chuẩn Organic với dấu chứng nhận xanh mát."
+    },
+    "signage": {
+      "type": "Biển hiệu gỗ tần bì sáng màu cắt CNC biểu tượng xanh lá hắt LED ấm.",
+      "description": "Không gian trưng bày nông sản sạch văn minh, hiện đại."
+    }
+  },
+  "moodboard_url": "/generated/LUMINA-08/moodboard_pollinations.jpg",
+  "mockup_url": "/api/generate-mockup?projectId=LUMINA-08",
+  "export_links": {
+    "svg_url": "/downloads/LUMINA-08/logo_master.svg",
+    "png_url": "/downloads/LUMINA-08/logo_transparent.png",
+    "pdf_url": "/downloads/LUMINA-08/brand_guideline.pdf",
+    "client_proposal_url": "/p/green-farm"
+  }
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <style>
+      .brand-title { font-family: 'Times New Roman', serif; font-weight: 700; font-size: 30px; letter-spacing: 0.16em; fill: #141415; }
+      .brand-sub { font-family: sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.32em; fill: #C2A676; }
+    </style>
+  </defs>
+  <rect width="500" height="500" fill="#FAF9F6" rx="28"/>
+  <rect x="24" y="24" width="452" height="452" fill="none" stroke="#C2A676" stroke-width="0.8" stroke-opacity="0.3" rx="20"/>
+  <circle cx="250" cy="180" r="65" fill="none" stroke="#141415" stroke-width="3.5" stroke-dasharray="240 16" />
+  <circle cx="250" cy="180" r="45" fill="none" stroke="#C2A676" stroke-width="2" />
+  <circle cx="250" cy="180" r="10" fill="#141415" />
+  <text x="250" y="325" text-anchor="middle" class="brand-title">L&apos;ATELIER SILENCE</text>
+  <text x="250" y="360" text-anchor="middle" class="brand-sub">THE POWER OF PURE FORM</text>
+  <text x="250" y="420" text-anchor="middle" font-family="monospace" font-size="8" fill="#141415" opacity="0.6">LUMINA MASTER ASSET • 2026</text>
+</svg>

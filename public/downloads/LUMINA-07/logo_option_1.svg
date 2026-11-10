@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');
+      .brand-title { font-family: 'Fraunces', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #9E6B55; }
+      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #3D2B1F; }
+      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #3D2B1F; }
+    </style>
+  </defs>
+  <rect width="500" height="500" fill="#F4EFEA" rx="28"/>
+  <rect x="22" y="22" width="456" height="456" fill="none" stroke="#3D2B1F" stroke-width="0.8" stroke-opacity="0.3" rx="20"/>
+  <g id="logo-emblem" transform="translate(250, 185) scale(1)">
+<g id="logo-emblem" transform="translate(250, 185)"><path d="M -50 0 C -50 -45 45 -50 50 0 C 55 45 -40 55 -45 5" fill="none" stroke="#3D2B1F" stroke-width="2.6" stroke-linecap="round"/><path d="M -25 -5 C -25 -28 20 -28 20 -2 C 20 22 -15 22 -12 2" fill="none" stroke="#3D2B1F" stroke-width="1.8" stroke-linecap="round"/><circle cx="35" cy="-45" r="3.5" fill="#5B7065"/><circle cx="-42" cy="38" r="2.5" fill="#5B7065"/></g>
+  </g>
+  <g id="logo-typography">
+    <text x="250" y="336" text-anchor="middle" class="brand-title">AUTOFINE</text>
+    <text x="250" y="368" text-anchor="middle" class="brand-sub">ĐƯỜNG CONG HỮU CƠ & TINH THẦN WABI-SABI</text>
+    <g transform="translate(250, 388)">
+      <line x1="-70" y1="0" x2="-12" y2="0" stroke="#3D2B1F" stroke-width="1" stroke-opacity="0.4"/>
+      <circle cx="0" cy="0" r="2.5" fill="#5B7065"/>
+      <line x1="12" y1="0" x2="70" y2="0" stroke="#3D2B1F" stroke-width="1" stroke-opacity="0.4"/>
+    </g>
+    <text x="250" y="414" text-anchor="middle" class="brand-tagline">CHẠM CHẤT MỘC, LẮNG TIẾNG GIÓ REO</text>
+    <text x="250" y="433" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="500" font-size="8" fill="#3D2B1F" letter-spacing="0.25em">ARCHETYPE ORGANIC_ARTISANAL</text>
+  </g>
+</svg>

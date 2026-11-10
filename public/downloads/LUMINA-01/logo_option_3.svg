@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');
+      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 31px; letter-spacing: 0.22em; fill: #3D2B1F; }
+      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.42em; fill: #9E6B55; }
+      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 8.8px; letter-spacing: 0.26em; fill: #F4EFEA; }
+    </style>
+  </defs>
+  <rect width="500" height="500" fill="#5B7065" rx="28"/>
+  <rect x="22" y="22" width="456" height="456" fill="none" stroke="#9E6B55" stroke-width="0.7" stroke-opacity="0.3" rx="20"/>
+  <g id="logo-emblem" transform="translate(250, 185)">
+    <!-- Vòng tròn tỷ lệ vàng ngoài cùng -->
+    <circle cx="0" cy="0" r="82" fill="none" stroke="#3D2B1F" stroke-width="1.2" stroke-dasharray="6 4" stroke-opacity="0.5"/>
+    <circle cx="0" cy="0" r="68" fill="none" stroke="#9E6B55" stroke-width="2.2"/>
+    <circle cx="0" cy="0" r="42" fill="none" stroke="#F4EFEA" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <!-- Mặt trời mọc đỉnh núi -->
+    <circle cx="0" cy="-22" r="16" fill="#9E6B55" opacity="0.85"/>
+    <!-- Đỉnh núi cao nguyên đối xứng -->
+    <path d="M -55 42 L 0 -22 L 55 42 Z" fill="none" stroke="#3D2B1F" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M -28 42 L 0 8 L 28 42" fill="none" stroke="#F4EFEA" stroke-width="1.8" stroke-linejoin="round"/>
+    <!-- Thung lũng & sóng gió ngang -->
+    <line x1="-68" y1="42" x2="68" y2="42" stroke="#3D2B1F" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="-45" y1="52" x2="45" y2="52" stroke="#9E6B55" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="-20" y1="60" x2="20" y2="60" stroke="#F4EFEA" stroke-width="1.2" stroke-linecap="round"/>
+    <circle cx="0" cy="-62" r="2.5" fill="#3D2B1F"/>
+  </g>
+  <g id="logo-typography">
+    <text x="250" y="336" text-anchor="middle" class="brand-title">AURA ROASTERS</text>
+    <text x="250" y="368" text-anchor="middle" class="brand-sub">HIGHLAND SPECIALTY ROASTERS</text>
+    <g transform="translate(250, 388)">
+      <line x1="-50" y1="0" x2="-8" y2="0" stroke="#9E6B55" stroke-width="0.8" stroke-opacity="0.5"/>
+      <circle cx="0" cy="0" r="2" fill="#F4EFEA"/>
+      <line x1="8" y1="0" x2="50" y2="0" stroke="#9E6B55" stroke-width="0.8" stroke-opacity="0.5"/>
+    </g>
+    <text x="250" y="414" text-anchor="middle" class="brand-tagline">CHẠM CHẤT MỘC, LẮNG TIẾNG GIÓ REO</text>
+    <text x="250" y="433" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="500" font-size="8" fill="#9E6B55" letter-spacing="0.30em">SACRED GEOMETRY</text>
+  </g>
+</svg>

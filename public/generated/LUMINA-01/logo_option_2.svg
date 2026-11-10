@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');
+      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 30px; letter-spacing: 0.20em; fill: #3D2B1F; }
+      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10.5px; letter-spacing: 0.35em; fill: #9E6B55; }
+      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F4EFEA; }
+    </style>
+  </defs>
+  <rect width="500" height="500" fill="#5B7065" rx="28"/>
+  <rect x="22" y="22" width="456" height="456" fill="none" stroke="#3D2B1F" stroke-width="0.7" stroke-opacity="0.25" rx="20"/>
+  <circle cx="250" cy="40" r="2" fill="#9E6B55"/>
+  <circle cx="250" cy="460" r="2" fill="#9E6B55"/>
+  <g id="logo-emblem" transform="translate(250, 185)">
+    <!-- Vòng cung hữu cơ bảo bọc -->
+    <path d="M -80 -15 C -95 30 -70 75 -25 90 C 25 105 75 80 90 35 C 102 -5 85 -55 50 -80 C 15 -100 -40 -95 -68 -60" fill="none" stroke="#9E6B55" stroke-width="1.8" stroke-dasharray="260 18" stroke-linecap="round"/>
+    <!-- Thân mầm vươn cao -->
+    <path d="M 0 65 C -5 20 -2 -25 35 -65" fill="none" stroke="#3D2B1F" stroke-width="2.6" stroke-linecap="round"/>
+    <!-- Lá mầm trái mềm mại -->
+    <path d="M 0 15 C -25 -5 -50 -10 -65 -35 C -45 -45 -15 -35 0 -5" fill="none" stroke="#F4EFEA" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- Lá mầm phải vươn mở -->
+    <path d="M 12 -15 C 35 -30 65 -30 80 -10 C 65 10 35 12 12 -5" fill="none" stroke="#9E6B55" stroke-width="2.0" stroke-linecap="round"/>
+    <!-- Hạt Arabica mộc tại gốc -->
+    <path d="M -16 65 C -18 50 -5 40 8 48 C 22 55 18 72 2 78 C -12 82 -18 75 -16 65 Z" fill="#3D2B1F"/>
+    <path d="M -6 52 C 2 58 2 68 -4 74" fill="none" stroke="#5B7065" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- Giọt sương sớm đồi thông -->
+    <circle cx="35" cy="-70" r="3" fill="#F4EFEA"/>
+    <circle cx="-65" cy="-40" r="2.5" fill="#9E6B55"/>
+    <circle cx="82" cy="-12" r="2" fill="#3D2B1F"/>
+  </g>
+  <g id="logo-typography">
+    <text x="250" y="336" text-anchor="middle" class="brand-title">AURA ROASTERS</text>
+    <text x="250" y="368" text-anchor="middle" class="brand-sub">ARTISANAL BOTANICAL &amp; COFFEE</text>
+    <g transform="translate(250, 388)">
+      <line x1="-60" y1="0" x2="-10" y2="0" stroke="#9E6B55" stroke-width="0.8" stroke-opacity="0.4"/>
+      <circle cx="0" cy="0" r="2.2" fill="#3D2B1F"/>
+      <line x1="10" y1="0" x2="60" y2="0" stroke="#9E6B55" stroke-width="0.8" stroke-opacity="0.4"/>
+    </g>
+    <text x="250" y="414" text-anchor="middle" class="brand-tagline">CHẠM CHẤT MỘC, LẮNG TIẾNG GIÓ REO</text>
+    <text x="250" y="433" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="500" font-size="8" fill="#9E6B55" letter-spacing="0.25em">NATURE • ORIGIN</text>
+  </g>
+</svg>

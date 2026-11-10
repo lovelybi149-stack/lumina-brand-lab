@@ -1,0 +1,165 @@
+{
+  "project_id": "LUMINA-04",
+  "brand_name": "Morphic Studio",
+  "client_name": "Nguyễn Anh Kim",
+  "client_phone": "0933696333",
+  "client_email": "morphicstudio@gmail.com",
+  "industry": "Công nghệ & Phần mềm",
+  "target_audience": "MORPHIC STUDIO -Ai Film-Từ hình ảnh tạo nên câu chuyện-xưởng sản xuất phim AI (4 phân loại: 1. lịch sử-truyền thuyết , 2. Ngụ ngôn-cổ tich-thần thoại, 3. Kiến trúc- Quảng cáo sản phẩm, 4.Điện ảnh- Ngôn tình)\nLứa tuổi:16-45 tuổi, sinh viên-học sinh, những người đi làm, những người thành đạt",
+  "logo_format": "Combination Mark",
+  "color_tone": "Cool & Tech (Electric Blue, Cyan Laser & Xám Chì)",
+  "style_vibes": [
+    "Modern",
+    "Định dạng: Combination Mark",
+    "Tông màu: Cool & Tech (Xanh dương đậm",
+    "xanh ngọc",
+    "xám chì)"
+  ],
+  "submitted_at": "2026-10-31T22:30:00Z",
+  "status": "Awaiting_Payment",
+  "order_tier": "pro",
+  "logo_options": [
+    {
+      "id": "opt_1",
+      "title": "Option 1: Khối Đa Giác / Vi Mạch Số (AI Refined)",
+      "concept_note": "Biểu tượng mạng lưới hình học đối xứng thể hiện tính chuẩn xác của mã code và sức mạnh xử lý số.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #1C1C1E; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #0A84FF; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #0A84FF; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F5F5F7\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Khối Lập Phương 3D Công Nghệ -->\n    <polygon points=\"0,-75 62,-40 0,-5 -62,-40\" fill=\"#0A84FF\" opacity=\"0.25\" stroke=\"#0A84FF\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n    <polygon points=\"-62,-40 0,-5 0,65 -62,30\" fill=\"#1C1C1E\" opacity=\"0.2\" stroke=\"#1C1C1E\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n    <polygon points=\"0,-5 62,-40 62,30 0,65\" fill=\"#00F2FE\" opacity=\"0.35\" stroke=\"#00F2FE\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n    <circle cx=\"0\" cy=\"-5\" r=\"9\" fill=\"#0A84FF\"/>\n    <line x1=\"0\" y1=\"-5\" x2=\"0\" y2=\"-75\" stroke=\"#00F2FE\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n    <line x1=\"0\" y1=\"-5\" x2=\"62\" y2=\"30\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n    <line x1=\"0\" y1=\"-5\" x2=\"-62\" y2=\"30\" stroke=\"#1C1C1E\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n    <circle cx=\"0\" cy=\"-75\" r=\"4\" fill=\"#00F2FE\"/>\n    <circle cx=\"62\" cy=\"30\" r=\"4\" fill=\"#0A84FF\"/>\n    <circle cx=\"-62\" cy=\"30\" r=\"4\" fill=\"#1C1C1E\"/>\n    \n</g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">MORPHIC STUDIO</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">AI &amp; DIGITAL VISUAL LAB</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-12\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#00F2FE\"/>\n      <line x1=\"12\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO CẤU TRÚC SỐ TƯƠNG LAI</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#0A84FF\" letter-spacing=\"0.25em\">NEXT-GEN STUDIO</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "tech",
+        "letterSpacing": 0.18,
+        "primaryColor": "#0A84FF",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_2",
+      "title": "Option 2: Chữ Cái Đầu Cách Điệu (Tech Monogram)",
+      "concept_note": "Monogram 'M' đóng khung vi mạch, cô đọng bản sắc thương hiệu trong biểu tượng nhận diện tối giản.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #1C1C1E; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 10.5px; letter-spacing: 0.35em; fill: #0A84FF; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #0A84FF; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F5F5F7\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#1C1C1E\" stroke-width=\"0.8\" stroke-opacity=\"0.2\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n    <circle cx=\"0\" cy=\"0\" r=\"76\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"1.8\" stroke-opacity=\"0.5\"/>\n    <rect x=\"-56\" y=\"-56\" width=\"112\" height=\"112\" rx=\"16\" fill=\"none\" stroke=\"#1C1C1E\" stroke-width=\"2.5\" stroke-dasharray=\"320 20\"/>\n    <text x=\"0\" y=\"24\" text-anchor=\"middle\" font-family=\"'Space Grotesk', sans-serif\" font-weight=\"800\" font-size=\"64\" fill=\"#0A84FF\" letter-spacing=\"0.05em\">M</text>\n    <circle cx=\"45\" cy=\"-45\" r=\"4.5\" fill=\"#00F2FE\"/>\n    <circle cx=\"-45\" cy=\"45\" r=\"3.5\" fill=\"#0A84FF\"/>\n    <line x1=\"-56\" y1=\"0\" x2=\"-76\" y2=\"0\" stroke=\"#00F2FE\" stroke-width=\"1.8\"/>\n    <line x1=\"56\" y1=\"0\" x2=\"76\" y2=\"0\" stroke=\"#00F2FE\" stroke-width=\"1.8\"/>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">MORPHIC STUDIO</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">CYBER TECH MONOGRAM</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-60\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#1C1C1E\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"60\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO CẤU TRÚC SỐ TƯƠNG LAI</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#0A84FF\" letter-spacing=\"0.25em\">ARTIFICIAL INTELLIGENCE</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "monogram",
+        "letterSpacing": 0.18,
+        "primaryColor": "#0A84FF",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_3",
+      "title": "Option 3: Khối Lập Phương Vô Cực (AI Refined)",
+      "concept_note": "Cấu trúc lập phương không gian đa chiều, tượng trưng cho trí tuệ nhân tạo khai phá thế giới số vô tận.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #1C1C1E; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 10.5px; letter-spacing: 0.35em; fill: #0A84FF; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #0A84FF; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F5F5F7\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#00F2FE\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Khối Đa Giác Công Nghệ / Vi Mạch Số -->\n    <polygon points=\"0,-85 74,-42 74,42 0,85 -74,42 -74,-42\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/>\n    <polygon points=\"0,-60 52,-30 52,30 0,60 -52,30 -52,-30\" fill=\"none\" stroke=\"#1C1C1E\" stroke-width=\"1.8\" stroke-linejoin=\"round\" stroke-dasharray=\"8 4\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"16\" fill=\"#0A84FF\" opacity=\"0.15\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"6\" fill=\"#00F2FE\"/>\n    <line x1=\"0\" y1=\"-85\" x2=\"0\" y2=\"-60\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"74\" y1=\"-42\" x2=\"52\" y2=\"-30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"74\" y1=\"42\" x2=\"52\" y2=\"30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"0\" y1=\"85\" x2=\"0\" y2=\"60\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"-74\" y1=\"42\" x2=\"-52\" y2=\"30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"-74\" y1=\"-42\" x2=\"-52\" y2=\"-30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <circle cx=\"0\" cy=\"-85\" r=\"4\" fill=\"#00F2FE\"/>\n    <circle cx=\"74\" cy=\"-42\" r=\"4\" fill=\"#1C1C1E\"/>\n    <circle cx=\"74\" cy=\"42\" r=\"4\" fill=\"#0A84FF\"/>\n    <circle cx=\"0\" cy=\"85\" r=\"4\" fill=\"#00F2FE\"/>\n    <circle cx=\"-74\" cy=\"42\" r=\"4\" fill=\"#1C1C1E\"/>\n    <circle cx=\"-74\" cy=\"-42\" r=\"4\" fill=\"#0A84FF\"/>\n      \n</g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">MORPHIC STUDIO</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">INFINITE DIMENSION CUBE</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-60\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#00F2FE\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"60\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO CẤU TRÚC SỐ TƯƠNG LAI</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#0A84FF\" letter-spacing=\"0.25em\">QUANTUM &amp; CODE</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "luxury",
+        "letterSpacing": 0.18,
+        "primaryColor": "#0A84FF",
+        "layout": "stacked"
+      }
+    }
+  ],
+  "selected_logo_id": "opt_1",
+  "delivery_mode": "client_choice",
+  "delivery_time": "24h",
+  "logo_options_count": 1,
+  "revision_rounds": 2,
+  "current_revision": 2,
+  "review_status": "Final_Approved",
+  "brand_story": "Được thành lập với sứ mệnh tiên phong kiến tạo tương lai số, Morphic Studio giao thoa giữa tư duy kỹ thuật chuẩn xác và sức sáng tạo không giới hạn. Chúng tôi khai phóng tiềm năng của trí tuệ nhân tạo và công nghệ đồ họa tiên tiến để chuyển hóa những ý tưởng phức tạp thành những câu chuyện thị giác sống động, mang tầm nhìn vượt thời gian.",
+  "tagline": "Kiến tạo cấu trúc số tương lai",
+  "tagline_options": [
+    "Kiến tạo cấu trúc số tương lai",
+    "Đột phá giải pháp, định hình tương lai",
+    "Nơi trí tuệ nhân tạo định hình cảm xúc",
+    "Tái tạo hiện thực qua từng khung hình số"
+  ],
+  "palette": [
+    {
+      "role": "Primary",
+      "name": "Electric Blue (Xanh Điện Tử)",
+      "hex": "#0A84FF",
+      "rgb": "rgb(10, 132, 255)"
+    },
+    {
+      "role": "Secondary",
+      "name": "Space Graphite (Xám Chì)",
+      "hex": "#1C1C1E",
+      "rgb": "rgb(28, 28, 30)"
+    },
+    {
+      "role": "Accent",
+      "name": "Cyan Laser (Xanh Ngọc Số)",
+      "hex": "#00F2FE",
+      "rgb": "rgb(0, 242, 254)"
+    },
+    {
+      "role": "Neutral",
+      "name": "Silver Mist (Trắng Bạc)",
+      "hex": "#F5F5F7",
+      "rgb": "rgb(245, 245, 247)"
+    }
+  ],
+  "typography": {
+    "heading": "Space Grotesk",
+    "body": "Plus Jakarta Sans",
+    "pairing_rationale": "Bộ đôi Sans-serif hình học công nghệ cao, tối ưu tuyệt đối cho hiển thị kỹ thuật số và hỗ trợ tiếng Việt sắc nét.",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
+  },
+  "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #1C1C1E; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #0A84FF; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #0A84FF; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F5F5F7\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Khối Lập Phương 3D Công Nghệ -->\n    <polygon points=\"0,-75 62,-40 0,-5 -62,-40\" fill=\"#0A84FF\" opacity=\"0.25\" stroke=\"#0A84FF\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n    <polygon points=\"-62,-40 0,-5 0,65 -62,30\" fill=\"#1C1C1E\" opacity=\"0.2\" stroke=\"#1C1C1E\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n    <polygon points=\"0,-5 62,-40 62,30 0,65\" fill=\"#00F2FE\" opacity=\"0.35\" stroke=\"#00F2FE\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n    <circle cx=\"0\" cy=\"-5\" r=\"9\" fill=\"#0A84FF\"/>\n    <line x1=\"0\" y1=\"-5\" x2=\"0\" y2=\"-75\" stroke=\"#00F2FE\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n    <line x1=\"0\" y1=\"-5\" x2=\"62\" y2=\"30\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n    <line x1=\"0\" y1=\"-5\" x2=\"-62\" y2=\"30\" stroke=\"#1C1C1E\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n    <circle cx=\"0\" cy=\"-75\" r=\"4\" fill=\"#00F2FE\"/>\n    <circle cx=\"62\" cy=\"30\" r=\"4\" fill=\"#0A84FF\"/>\n    <circle cx=\"-62\" cy=\"30\" r=\"4\" fill=\"#1C1C1E\"/>\n    \n</g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">MORPHIC STUDIO</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">AI &amp; DIGITAL VISUAL LAB</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-12\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#00F2FE\"/>\n      <line x1=\"12\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO CẤU TRÚC SỐ TƯƠNG LAI</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#0A84FF\" letter-spacing=\"0.25em\">NEXT-GEN STUDIO</text>\n  </g>\n</svg>",
+  "original_logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #1C1C1E; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #0A84FF; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #0A84FF; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F5F5F7\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n    <polygon points=\"0,-85 74,-42 74,42 0,85 -74,42 -74,-42\" fill=\"none\" stroke=\"#1C1C1E\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/>\n    <polygon points=\"0,-60 52,-30 52,30 0,60 -52,30 -52,-30\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-dasharray=\"10 4\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"14\" fill=\"#0A84FF\" opacity=\"0.15\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"6\" fill=\"#00F2FE\"/>\n    <line x1=\"0\" y1=\"-85\" x2=\"0\" y2=\"-60\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"74\" y1=\"-42\" x2=\"52\" y2=\"-30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"74\" y1=\"42\" x2=\"52\" y2=\"30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"0\" y1=\"85\" x2=\"0\" y2=\"60\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"-74\" y1=\"42\" x2=\"-52\" y2=\"30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <line x1=\"-74\" y1=\"-42\" x2=\"-52\" y2=\"-30\" stroke=\"#00F2FE\" stroke-width=\"2\"/>\n    <circle cx=\"0\" cy=\"-85\" r=\"4\" fill=\"#0A84FF\"/>\n    <circle cx=\"74\" cy=\"-42\" r=\"4\" fill=\"#00F2FE\"/>\n    <circle cx=\"74\" cy=\"42\" r=\"4\" fill=\"#0A84FF\"/>\n    <circle cx=\"0\" cy=\"85\" r=\"4\" fill=\"#00F2FE\"/>\n    <circle cx=\"-74\" cy=\"42\" r=\"4\" fill=\"#0A84FF\"/>\n    <circle cx=\"-74\" cy=\"-42\" r=\"4\" fill=\"#00F2FE\"/>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">MORPHIC STUDIO</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">AI &amp; DIGITAL VISUAL LAB</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-12\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#00F2FE\"/>\n      <line x1=\"12\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#0A84FF\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">KIẾN TẠO CẤU TRÚC SỐ TƯƠNG LAI</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#0A84FF\" letter-spacing=\"0.25em\">NEXT-GEN STUDIO</text>\n  </g>\n</svg>",
+  "logo_layout": {
+    "layout": "stacked",
+    "iconScale": 1,
+    "iconPosX": 0,
+    "iconPosY": 0,
+    "iconShape": "tech",
+    "letterSpacing": 0.16,
+    "iconColor": "#0A84FF",
+    "titleColor": "#0A84FF",
+    "taglineColor": "#00F2FE",
+    "bgColor": "#F5F5F7"
+  },
+  "mockups": {
+    "namecard": {
+      "front": "Mặt trước phủ màu Đen Graphite #1C1C1E dập kim Hologram biểu tượng vi mạch số, tạo hiệu ứng chuyển sắc tương lai.",
+      "back": "Mặt sau nền Trắng Bạc #F5F5F7 với mã QR truy cập studio và thông tin kỹ sư số in UV nổi sắc sảo."
+    },
+    "packaging": {
+      "type": "Hộp phần cứng & Portfolio kỹ thuật số phủ mờ màng Soft-touch.",
+      "description": "Tem niêm phong bảo mật màu Electric Blue phát quang dưới ánh sáng văn phòng công nghệ."
+    },
+    "signage": {
+      "type": "Biển hiệu Acrylic đen khối nổi khắc laser hắt LED Cyan 4000K.",
+      "description": "Logo phát sáng đường nét vi mạch sắc nét tại sảnh trụ sở studio công nghệ."
+    }
+  },
+  "moodboard_url": "[Chờ khởi tạo moodboard]",
+  "mockup_url": "[Chờ khởi tạo mockup SVG/PNG]",
+  "has_unread_feedback": false,
+  "feedback_history": [
+    {
+      "revision_round": 1,
+      "selected_option_id": "opt_1",
+      "comment": "Lồng ghép chữ M vào khối đa giác, vẽ thêm các vi mạch xanh đậm, nét dày",
+      "submitted_at": "2026-11-01T05:59:58.884Z",
+      "feedback_type": "revision"
+    },
+    {
+      "revision_round": 2,
+      "selected_option_id": "opt_1",
+      "comment": "Khách hàng đồng ý nghiệm thu bản thiết kế.",
+      "submitted_at": "2026-11-01T06:06:03.853Z",
+      "feedback_type": "approve_final"
+    }
+  ],
+  "client_feedback": "Khách hàng đồng ý nghiệm thu bản thiết kế.",
+  "payment_status": "unpaid",
+  "payment_amount": 2500000
+}

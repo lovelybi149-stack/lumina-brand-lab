@@ -1,0 +1,145 @@
+{
+  "project_id": "LUMINA-10",
+  "brand_name": "SMILE",
+  "client_name": "Nguyễn Kim",
+  "client_phone": "0903333333",
+  "client_email": "kimnguyen@gmail.com",
+  "industry": "Khác",
+  "target_audience": "Cung cấp VĂn phòng phẩm và đồ điện tử, logo theo dạng chữ, màu chủ đạo đỏ đô trên nền Giấp Kraft",
+  "logo_format": "Mascot / Illustrative",
+  "color_tone": "Warm & Vibrant (Đỏ ấm, cam san hô, vàng nắng)",
+  "style_vibes": [
+    "Minimalist",
+    "Rustic"
+  ],
+  "submitted_at": "2026-11-07T14:06:04.381Z",
+  "status": "Pending",
+  "order_tier": "standard",
+  "logo_options": [
+    {
+      "id": "opt_1",
+      "title": "Option 1: Nụ Cười Rạng Rỡ Hình Học Tỷ Lệ Vàng (Radiant Geometric Smile)",
+      "concept_note": "Đường cong nụ cười rạng rỡ uốn lượn hình học với tỷ lệ vàng quang học, mang lại cảm giác thân thiện và niềm tin vững chãi.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.18em; fill: #0F172A; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #0284C7; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F43F5E; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F8FAFC\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Radiant Geometric Smile Emblem (Dành riêng cho SMILE) -->\n    <g transform=\"translate(0, -5)\">\n      <!-- Khung Squircle tỷ lệ vàng -->\n      <rect x=\"-74\" y=\"-74\" width=\"148\" height=\"148\" rx=\"36\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"1.5\" stroke-opacity=\"0.45\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"84\" fill=\"none\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-dasharray=\"4 4\" stroke-opacity=\"0.35\"/>\n\n      <!-- ĐƯỜNG CONG NỤ CƯỜI RẠNG RỠ (Bold Dynamic Smile Curve 14px) -->\n      <path d=\"M -52,-5 C -38,42 38,42 52,-5\" \n            fill=\"none\" stroke=\"#0284C7\" stroke-width=\"13\" stroke-linecap=\"round\"/>\n      \n      <!-- Cung phản chiếu ánh sáng bên trong nụ cười -->\n      <path d=\"M -34,4 C -24,30 24,30 34,4\" \n            fill=\"none\" stroke=\"#F43F5E\" stroke-width=\"4.5\" stroke-linecap=\"round\"/>\n\n      <!-- ĐÔI MẮT ÁNH DƯƠNG RẠNG RỠ & TỎA SÁNG -->\n      <!-- Điểm nhấn vòm cong mắt trái -->\n      <path d=\"M -38,-28 C -30,-42 -14,-42 -6,-28\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"6.5\" stroke-linecap=\"round\"/>\n      \n      <!-- Điểm nhấn vòm cong mắt phải -->\n      <path d=\"M 6,-28 C 14,-42 30,-42 38,-28\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"6.5\" stroke-linecap=\"round\"/>\n\n      <!-- Tinh thể ánh sáng rực rỡ ở tâm trán -->\n      <polygon points=\"0,-48 3.5,-41 10,-41 5,-37 7,-30 0,-34 -7,-30 -5,-37 -10,-41 -3.5,-41\" fill=\"#F43F5E\"/>\n      \n      <!-- 4 Tinh thể ngọc tại trục đối xứng -->\n      <circle cx=\"0\" cy=\"-74\" r=\"3\" fill=\"#F43F5E\"/>\n      <circle cx=\"0\" cy=\"74\" r=\"3\" fill=\"#0284C7\"/>\n      <circle cx=\"-74\" cy=\"0\" r=\"3\" fill=\"#0F172A\"/>\n      <circle cx=\"74\" cy=\"0\" r=\"3\" fill=\"#0F172A\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">SMILE</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">DENTAL &amp; AESTHETIC STUDIO</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F43F5E\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">VỮNG CUỘC SỐNG - VỮNG NIỀM TIN</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#0F172A\" letter-spacing=\"0.25em\">CONFIDENCE IN EVERY SMILE</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "circle",
+        "letterSpacing": 0.18,
+        "primaryColor": "#0284C7",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_2",
+      "title": "Option 2: Chữ S Năng Động & Vệt Nhấn Thể Thao (Bold S-Ligature)",
+      "concept_note": "Khối monogram chữ S & M mạnh mẽ với vệt nhấn góc nghiêng san hô, tôn vinh lối sống năng động và nụ cười tự tin.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.18em; fill: #0F172A; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #0284C7; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F43F5E; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F8FAFC\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"0.8\" stroke-opacity=\"0.25\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Bold Geometric Duo-Ligature Monogram [SM] -->\n    <g transform=\"translate(0, -5)\">\n      <!-- Khung bảo vệ tỷ lệ vàng mờ -->\n      <rect x=\"-75\" y=\"-75\" width=\"150\" height=\"150\" rx=\"32\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"1.2\" stroke-opacity=\"0.35\"/>\n      \n      <!-- Ký tự 1: Thân đứng / thân chéo khối đặc hình học 18px -->\n      <path d=\"M -52,-52 L -24,-52 L -24,52 L -52,52 Z\" fill=\"#0284C7\"/>\n      <path d=\"M -24,-52 C 10,-52 24,-30 24,-6 C 24,18 10,40 -24,40 L -24,20 C -2,20 6,8 6,-6 C 6,-20 -2,-32 -24,-32 Z\" fill=\"#0284C7\"/>\n\n      <!-- Ký tự 2: Cung uốn lồng móc xích hoặc nét đối xứng -->\n      <path d=\"M 0,-10 C 18,-24 44,-24 54,-8 C 62,6 58,22 42,34 C 28,44 14,48 14,54 L 56,54 L 56,38 C 50,42 42,42 36,42 C 28,42 24,36 30,30 C 44,18 64,8 54,-18 C 42,-34 16,-34 -4,-22 Z\" fill=\"#0F172A\"/>\n      \n      <!-- Vệt nhấn chéo góc sắc bén (Dynamic Accent Slash) -->\n      <polygon points=\"36,-58 72,-58 54,-34 18,-34\" fill=\"#F43F5E\"/>\n      \n      <!-- Hạt định vị quang học tỷ lệ vàng -->\n      <circle cx=\"0\" cy=\"58\" r=\"3\" fill=\"#F43F5E\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">SMILE</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">BOLD S-LIGATURE ACCENT SLASH</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F43F5E\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">VỮNG CUỘC SỐNG - VỮNG NIỀM TIN</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "luxury",
+        "letterSpacing": 0.18,
+        "primaryColor": "#0284C7",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_3",
+      "title": "Option 3: Vành Đai Đồng Tâm Ánh Dương (Concentric Radiant Joy)",
+      "concept_note": "Hệ cung tròn đồng tâm tỏa sáng như ánh dương ban mai, biểu đạt cho sức khỏe ngập tràn và sự an tâm tuyệt đối.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.18em; fill: #0F172A; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #0284C7; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F43F5E; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F8FAFC\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#F43F5E\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Concentric Labyrinth & Golden Ratio Arcs (Phong cách Reference 4) -->\n    <!-- Vành đai 4 (Ngoài cùng): R=74, độ dày 7px -->\n    <path d=\"M 38,-63 A 74 74 0 1 0 38,63\" fill=\"none\" stroke=\"#0284C7\" stroke-width=\"7.5\" stroke-linecap=\"round\"/>\n\n    <!-- Vành đai 3 (Giữa ngoài): R=54, độ dày 7px -->\n    <path d=\"M 28,-46 A 54 54 0 1 0 28,46\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n\n    <!-- Vành đai 2 (Giữa trong): R=35, độ dày 6.5px -->\n    <path d=\"M 18,-30 A 35 35 0 1 0 18,30\" fill=\"none\" stroke=\"#0284C7\" stroke-width=\"6.5\" stroke-linecap=\"round\"/>\n\n    <!-- Vành đai 1 (Tâm lõi): R=18, độ dày 6px -->\n    <path d=\"M 9,-15 A 18 18 0 1 0 9,15\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n    <!-- Điểm hội tụ hạt ngọc trung tâm (Central Focal Point) -->\n    <circle cx=\"0\" cy=\"0\" r=\"4.5\" fill=\"#F43F5E\"/>\n\n    <!-- Khung viền mờ tỷ lệ phụ trợ -->\n    <circle cx=\"0\" cy=\"0\" r=\"88\" fill=\"none\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-dasharray=\"3 4\" stroke-opacity=\"0.3\"/>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">SMILE</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">CONCENTRIC RADIANT JOY TARGET</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F43F5E\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">VỮNG CUỘC SỐNG - VỮNG NIỀM TIN</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "circle",
+        "letterSpacing": 0.18,
+        "primaryColor": "#0284C7",
+        "layout": "stacked"
+      }
+    }
+  ],
+  "selected_logo_id": "opt_1",
+  "delivery_mode": "client_choice",
+  "delivery_time": "24h",
+  "logo_options_count": 1,
+  "revision_rounds": 1,
+  "current_revision": 1,
+  "review_status": "Pending_Review",
+  "brand_story": "Nụ cười là ngôn ngữ diệu kỳ nhất của sự tự tin. Tại SMILE, chúng tôi dành trọn tâm huyết kiến tạo những nụ cười rạng ngời, khỏe khoắn và tràn đầy sức sống. Bằng công nghệ tiên tiến và thẩm mỹ tinh tế chuẩn mực tỷ lệ vàng, chúng tôi đồng hành cùng bạn trên hành trình khẳng định bản thân.",
+  "tagline": "Vững cuộc sống-Vững niềm tin",
+  "tagline_options": [
+    "Vững cuộc sống-Vững niềm tin",
+    "Awaken Your Pure Frequency",
+    "Hương vị nguyên bản từ triền đồi bazan",
+    "Giao hòa tĩnh lặng giữa cà phê và thiên nhiên"
+  ],
+  "palette": [
+    {
+      "role": "Primary",
+      "name": "Ocean Cerulean (Xanh Lam Biển)",
+      "hex": "#0284C7",
+      "rgb": "rgb(2, 132, 199)"
+    },
+    {
+      "role": "Secondary",
+      "name": "Obsidian Navy (Xanh Đen Quý Phái)",
+      "hex": "#0F172A",
+      "rgb": "rgb(15, 23, 42)"
+    },
+    {
+      "role": "Accent",
+      "name": "Radiant Coral (Hồng San Hô)",
+      "hex": "#F43F5E",
+      "rgb": "rgb(244, 63, 94)"
+    },
+    {
+      "role": "Neutral",
+      "name": "Porcelain Pure (Trắng Sứ Thanh Khiết)",
+      "hex": "#F8FAFC",
+      "rgb": "rgb(248, 250, 252)"
+    }
+  ],
+  "typography": {
+    "heading": "Fraunces",
+    "body": "Be Vietnam Pro",
+    "pairing_rationale": "Đường cong thanh lịch của Fraunces hòa quyện với vẻ đẹp trong trẻo, mang lại cảm giác thân thiện, uy tín và rạng ngời.",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap"
+  },
+  "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.18em; fill: #0F172A; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.35em; fill: #0284C7; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F43F5E; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F8FAFC\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n\n    <!-- Radiant Geometric Smile Emblem (Dành riêng cho SMILE) -->\n    <g transform=\"translate(0, -5)\">\n      <!-- Khung Squircle tỷ lệ vàng -->\n      <rect x=\"-74\" y=\"-74\" width=\"148\" height=\"148\" rx=\"36\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"1.5\" stroke-opacity=\"0.45\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"84\" fill=\"none\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-dasharray=\"4 4\" stroke-opacity=\"0.35\"/>\n\n      <!-- ĐƯỜNG CONG NỤ CƯỜI RẠNG RỠ (Bold Dynamic Smile Curve 14px) -->\n      <path d=\"M -52,-5 C -38,42 38,42 52,-5\" \n            fill=\"none\" stroke=\"#0284C7\" stroke-width=\"13\" stroke-linecap=\"round\"/>\n      \n      <!-- Cung phản chiếu ánh sáng bên trong nụ cười -->\n      <path d=\"M -34,4 C -24,30 24,30 34,4\" \n            fill=\"none\" stroke=\"#F43F5E\" stroke-width=\"4.5\" stroke-linecap=\"round\"/>\n\n      <!-- ĐÔI MẮT ÁNH DƯƠNG RẠNG RỠ & TỎA SÁNG -->\n      <!-- Điểm nhấn vòm cong mắt trái -->\n      <path d=\"M -38,-28 C -30,-42 -14,-42 -6,-28\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"6.5\" stroke-linecap=\"round\"/>\n      \n      <!-- Điểm nhấn vòm cong mắt phải -->\n      <path d=\"M 6,-28 C 14,-42 30,-42 38,-28\" fill=\"none\" stroke=\"#0F172A\" stroke-width=\"6.5\" stroke-linecap=\"round\"/>\n\n      <!-- Tinh thể ánh sáng rực rỡ ở tâm trán -->\n      <polygon points=\"0,-48 3.5,-41 10,-41 5,-37 7,-30 0,-34 -7,-30 -5,-37 -10,-41 -3.5,-41\" fill=\"#F43F5E\"/>\n      \n      <!-- 4 Tinh thể ngọc tại trục đối xứng -->\n      <circle cx=\"0\" cy=\"-74\" r=\"3\" fill=\"#F43F5E\"/>\n      <circle cx=\"0\" cy=\"74\" r=\"3\" fill=\"#0284C7\"/>\n      <circle cx=\"-74\" cy=\"0\" r=\"3\" fill=\"#0F172A\"/>\n      <circle cx=\"74\" cy=\"0\" r=\"3\" fill=\"#0F172A\"/>\n    </g>\n  \n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">SMILE</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">DENTAL &amp; AESTHETIC STUDIO</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#F43F5E\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#0284C7\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">VỮNG CUỘC SỐNG - VỮNG NIỀM TIN</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#0F172A\" letter-spacing=\"0.25em\">CONFIDENCE IN EVERY SMILE</text>\n  </g>\n</svg>",
+  "original_logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');\n      .brand-title { font-family: 'Fraunces', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #9E6B55; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #3D2B1F; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #3D2B1F; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F4EFEA\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n<g id=\"logo-emblem\" transform=\"translate(250, 185)\"><path d=\"M -50 0 C -50 -45 45 -50 50 0 C 55 45 -40 55 -45 5\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.6\" stroke-linecap=\"round\"/><path d=\"M -25 -5 C -25 -28 20 -28 20 -2 C 20 22 -15 22 -12 2\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"-45\" r=\"3.5\" fill=\"#5B7065\"/><circle cx=\"-42\" cy=\"38\" r=\"2.5\" fill=\"#5B7065\"/></g>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">SMILE</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">ĐƯỜNG CONG HỮU CƠ & TINH THẦN WABI-SABI</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-12\" y2=\"0\" stroke=\"#3D2B1F\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#5B7065\"/>\n      <line x1=\"12\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#3D2B1F\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">VỮNG CUỘC SỐNG-VỮNG NIỀM TIN</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#3D2B1F\" letter-spacing=\"0.25em\">ARCHETYPE ORGANIC_ARTISANAL</text>\n  </g>\n</svg>",
+  "logo_layout": {
+    "layout": "stacked",
+    "iconScale": 1,
+    "letterSpacing": 0.18,
+    "iconColor": "#3D2B1F",
+    "titleColor": "#3D2B1F",
+    "taglineColor": "#9E6B55",
+    "bgColor": "#5B7065"
+  },
+  "mockups": {
+    "namecard": {
+      "front": "Mặt trước phủ màu Trắng Sứ Thanh Khiết ép kim bóng nụ cười hình học.",
+      "back": "Mặt sau nền Xanh Lam Biển với thông tin bác sĩ và lịch hẹn chăm sóc."
+    },
+    "packaging": {
+      "type": "Hộp quà tặng chăm sóc nụ cười phủ màng nhung cao cấp.",
+      "description": "Túi đựng mỹ phẩm nha khoa thiết kế tối giản, thanh lịch."
+    },
+    "signage": {
+      "type": "Biển hiệu mica uốn cong phát sáng viền LED dịu nhẹ chuẩn y khoa.",
+      "description": "Mặt tiền phòng khám thẩm mỹ sang trọng, ấm cúng và an tâm."
+    }
+  },
+  "moodboard_url": "/generated/LUMINA-10/moodboard_pollinations.jpg",
+  "mockup_url": "/api/generate-mockup?projectId=LUMINA-10",
+  "export_links": {
+    "svg_url": "/downloads/LUMINA-10/logo_master.svg",
+    "png_url": "/downloads/LUMINA-10/logo_transparent.png",
+    "pdf_url": "/downloads/LUMINA-10/brand_guideline.pdf",
+    "client_proposal_url": "/p/smile"
+  }
+}

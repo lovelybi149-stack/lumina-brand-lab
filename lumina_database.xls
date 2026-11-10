@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Lumina Brand Lab</Author>
+  <Title>LUMINA BRAND LAB — Cơ sở dữ liệu nhận diện thương hiệu</Title>
+ </DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Segoe UI" ss:Size="10" ss:Color="#1D2939"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <!-- Border chung -->
+  <Style ss:ID="BorderBase">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#D0D5DD"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#D0D5DD"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#D0D5DD"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#D0D5DD"/>
+   </Borders>
+  </Style>
+  <!-- Headers 4 khối -->
+  <!-- Khối 1: Brief đầu vào (Navy #1F4E79) -->
+  <Style ss:ID="HeaderBlock1">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#102A43"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#102A43"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#102A43"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#102A43"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="10" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#1F4E79" ss:Pattern="Solid"/>
+  </Style>
+  <!-- Khối 2: AI Đề xuất (Royal Purple #53389E) -->
+  <Style ss:ID="HeaderBlock2">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#2D1A5E"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#2D1A5E"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#2D1A5E"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#2D1A5E"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="10" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#53389E" ss:Pattern="Solid"/>
+  </Style>
+  <!-- Khối 3: Human Curation (Warm Rust / Gold #B54708) -->
+  <Style ss:ID="HeaderBlock3">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#7A2E0E"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#7A2E0E"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#7A2E0E"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#7A2E0E"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="10" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#B54708" ss:Pattern="Solid"/>
+  </Style>
+  <!-- Khối 4: Trạng thái & Bàn giao (Forest Emerald #027A48) -->
+  <Style ss:ID="HeaderBlock4">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#054F31"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#054F31"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#054F31"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#054F31"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="10" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#027A48" ss:Pattern="Solid"/>
+  </Style>
+  <!-- Data Styles -->
+  <Style ss:ID="DataLeft">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="9.5" ss:Color="#344054"/>
+  </Style>
+  <Style ss:ID="DataCenter">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="9.5" ss:Color="#344054" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="StatusPending">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#FCD34D"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#FCD34D"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#FCD34D"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#FCD34D"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="9.5" ss:Color="#B45309" ss:Bold="1"/>
+   <Interior ss:Color="#FEF3C7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="StatusApproved">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#6EE7B7"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#6EE7B7"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#6EE7B7"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#6EE7B7"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="9.5" ss:Color="#065F46" ss:Bold="1"/>
+   <Interior ss:Color="#D1FAE5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="LinkStyle">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#EAECF0"/>
+   </Borders>
+   <Font ss:FontName="Segoe UI" ss:Size="9.5" ss:Color="#175CD3" ss:Underline="Single"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LUMINA_Projects">
+  <Table ss:DefaultRowHeight="18">
+   <!-- Độ rộng 15 cột tương ứng 4 khối -->
+   <Column ss:Index="1" ss:Width="95"/>   <!-- Col A: project_id -->
+   <Column ss:Index="2" ss:Width="110"/>  <!-- Col B: client_name -->
+   <Column ss:Index="3" ss:Width="160"/>  <!-- Col C: client_contact -->
+   <Column ss:Index="4" ss:Width="130"/>  <!-- Col D: brand_name -->
+   <Column ss:Index="5" ss:Width="230"/>  <!-- Col E: industry_target -->
+   <Column ss:Index="6" ss:Width="200"/>  <!-- Col F: style_vibe -->
+   <Column ss:Index="7" ss:Width="260"/>  <!-- Col G: ai_brand_story -->
+   <Column ss:Index="8" ss:Width="220"/>  <!-- Col H: ai_color_palette -->
+   <Column ss:Index="9" ss:Width="220"/>  <!-- Col I: ai_typography -->
+   <Column ss:Index="10" ss:Width="180"/> <!-- Col J: ai_moodboard_url -->
+   <Column ss:Index="11" ss:Width="180"/> <!-- Col K: ai_mockup_url -->
+   <Column ss:Index="12" ss:Width="250"/> <!-- Col L: designer_final_palette_font -->
+   <Column ss:Index="13" ss:Width="260"/> <!-- Col M: designer_final_visual_notes -->
+   <Column ss:Index="14" ss:Width="105"/> <!-- Col N: status -->
+   <Column ss:Index="15" ss:Width="230"/> <!-- Col O: proposal_url -->
+
+   <!-- ROW 1: HEADER (15 CỘT PHÂN BIỆT MÀU NỀN THEO 4 KHỐI) -->
+   <Row ss:Height="40">
+    <Cell ss:StyleID="HeaderBlock1"><Data ss:Type="String">project_id&#10;[Mã Dự Án]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock1"><Data ss:Type="String">client_name&#10;[Tên Khách Hàng]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock1"><Data ss:Type="String">client_contact&#10;[SĐT/Zalo/Email]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock1"><Data ss:Type="String">brand_name&#10;[Tên Thương Hiệu]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock1"><Data ss:Type="String">industry_target&#10;[Ngành Hàng &amp; Target]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock1"><Data ss:Type="String">style_vibe&#10;[Phong Cách/Tính Cách]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock2"><Data ss:Type="String">ai_brand_story&#10;[Story &amp; Slogan AI]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock2"><Data ss:Type="String">ai_color_palette&#10;[Bảng Màu HEX AI]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock2"><Data ss:Type="String">ai_typography&#10;[Cặp Google Fonts AI]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock2"><Data ss:Type="String">ai_moodboard_url&#10;[Moodboard =IMAGE()]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock2"><Data ss:Type="String">ai_mockup_url&#10;[Mockup =IMAGE()]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock3"><Data ss:Type="String">designer_final_palette_font&#10;[Màu &amp; Font Chốt/Chỉnh]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock3"><Data ss:Type="String">designer_final_visual_notes&#10;[Ghi Chú Căn Chỉnh Visual]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock4"><Data ss:Type="String">status&#10;[Trạng Thái]</Data></Cell>
+    <Cell ss:StyleID="HeaderBlock4"><Data ss:Type="String">proposal_url&#10;[Link Pitch Deck Proposal]</Data></Cell>
+   </Row>
+
+   <!-- ROW 2: DỮ LIỆU MẪU 1 - THƯƠNG HIỆU F&B CÀ PHÊ (PENDING) -->
+   <Row ss:Height="95">
+    <Cell ss:StyleID="DataCenter"><Data ss:Type="String">LUMINA-01</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">Lê Tuấn Hưng</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">0912.839.201 / hung.le@auracoffee.vn</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">AURA ROASTERS</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">F&amp;B Specialty Coffee &amp; Trải nghiệm Slow Bar. Target: Giới trẻ 22-38 tuổi, dân sáng tạo &amp; văn phòng cao cấp chuộng cà phê mộc thủ công.</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">Artisanal, Organic Modernism, Warm &amp; Earthy, Tinh tế, Trải nghiệm đa giác quan.</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">AURA ROASTERS tin rằng mỗi tách cà phê là một quãng nghỉ thiền định giữa nhịp sống đô thị. Kết hợp Arabica Cầu Đất nguyên bản cùng kỹ nghệ rang mộc Bắc Âu, Aura đánh thức tần số năng lượng tích cực cho ngày mới. Slogan: &quot;Awaken Your Pure Frequency&quot;.</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">#2E1E1A (Dark Espresso), #9C6644 (Terra Cotta), #DDB892 (Warm Sand), #EDE0D4 (Oat Milk), #588157 (Highland Sage)</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">Header: Syne (Bold Display) | Body: Plus Jakarta Sans (Regular/Medium - hỗ trợ tiếng Việt sắc nét)</Data></Cell>
+    <Cell ss:StyleID="DataLeft" ss:Formula="=IMAGE(&quot;https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)"><Data ss:Type="String">=IMAGE(&quot;https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)</Data></Cell>
+    <Cell ss:StyleID="DataLeft" ss:Formula="=IMAGE(&quot;https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)"><Data ss:Type="String">=IMAGE(&quot;https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">[Chờ Designer duyệt - AI đề xuất 5 mã màu &amp; bộ font Syne / Plus Jakarta Sans]</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">[Chờ Designer duyệt - Cần dựng mockup túi zip màng nhôm giấy kraft van 1 chiều]</Data></Cell>
+    <Cell ss:StyleID="StatusPending"><Data ss:Type="String">Pending</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">[Chưa xuất - Chờ hoàn tất duyệt thẩm mỹ]</Data></Cell>
+   </Row>
+
+   <!-- ROW 3: DỮ LIỆU MẪU 2 - THỜI TRANG TỐI GIẢN (APPROVED & PROPOSAL READY) -->
+   <Row ss:Height="110">
+    <Cell ss:StyleID="DataCenter"><Data ss:Type="String">LUMINA-02</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">Nguyễn Mai Chi</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">0978.112.985 / maichi@noirstudio.com</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">L'ATELIER SILENCE</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">Thời trang thiết kế nữ cao cấp (Ready-to-wear). Target: Phụ nữ 26-42 tuổi, quản lý &amp; doanh nhân độc lập, chuộng lối sống Quiet Luxury, Monochromatic.</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">Quiet Luxury, Minimalist, Architectural, Timeless Elegance, Thanh lịch &amp; Tĩnh lặng.</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">L'ATELIER SILENCE là tuyên ngôn của vẻ đẹp không phô trương. Chúng tôi kiến tạo sự thanh lịch qua phom dáng chuẩn xác, chất liệu tự nhiên thượng hạng và từng đường cắt tối giản, giúp phụ nữ tỏa sáng bằng khí chất tự tại. Slogan: &quot;The Power of Pure Form&quot;.</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">#1A1A1A (Deep Obsidian), #7E7F83 (Mineral Slate), #E7E3DC (Raw Linen), #C2A676 (Brushed Champagne), #FAF9F6 (Chalk White)</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">Header: Cormorant Garamond (SemiBold/Italic) | Body: Montserrat (Light/Regular)</Data></Cell>
+    <Cell ss:StyleID="DataLeft" ss:Formula="=IMAGE(&quot;https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)"><Data ss:Type="String">=IMAGE(&quot;https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)</Data></Cell>
+    <Cell ss:StyleID="DataLeft" ss:Formula="=IMAGE(&quot;https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)"><Data ss:Type="String">=IMAGE(&quot;https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&amp;fit=crop&amp;w=1200&amp;q=80&quot;)</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">ĐÃ DUYỆT &amp; TINH CHỈNH: Giữ tone chủ đạo, chỉnh #1A1A1A thành #141415 (Soft Noir giảm độ gắt trên vải lụa). Font Header: Cormorant Garamond Display (Tracking +150); Font Body: Đổi sang Be Vietnam Pro để tối ưu tiếng Việt trên tag mác quần áo.</Data></Cell>
+    <Cell ss:StyleID="DataLeft"><Data ss:Type="String">HOÀN TẤT CURATION: Monogram 'LS' cách điệu tối giản theo cấu trúc cột thức kiến trúc. Tag mác dùng giấy Colorplan 350gsm màu Raw Linen ép kim mờ Champagne. Mockup hộp cứng dập nổi logo. Visual preview: https://cdn.lumina-brandlab.com/curated/lumina-02-final-brandkit.jpg</Data></Cell>
+    <Cell ss:StyleID="StatusApproved"><Data ss:Type="String">Approved</Data></Cell>
+    <Cell ss:StyleID="LinkStyle"><Data ss:Type="String">https://lumina-brandlab.com/proposals/LUMINA-02-LATELIER-SILENCE.pdf</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

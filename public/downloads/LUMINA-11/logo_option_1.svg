@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;0,700;1,500&display=swap');
+      .brand-title { font-family: 'Playfair Display', serif, serif, serif, serif, serif, serif, serif; font-weight: 700; font-size: 32px; letter-spacing: 0.22em; fill: #111111; }
+      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.40em; fill: #111111; }
+      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.25em; fill: #F3E5AB; }
+    </style>
+  </defs>
+  <rect width="500" height="500" fill="#FAF7F2" rx="28"/>
+  <rect x="22" y="22" width="456" height="456" fill="none" stroke="#D4AF37" stroke-width="0.8" stroke-opacity="0.3" rx="20"/>
+  <g id="logo-emblem" transform="translate(250, 225) scale(0.8)">
+
+    <!-- Concentric Labyrinth & Golden Ratio Arcs (Phong cách Reference 4) -->
+    <!-- Vành đai 4 (Ngoài cùng): R=74, độ dày 7px -->
+    <path d="M 38,-63 A 74 74 0 1 0 38,63" fill="none" stroke="#D4AF37" stroke-width="7.5" stroke-linecap="round"/>
+
+    <!-- Vành đai 3 (Giữa ngoài): R=54, độ dày 7px -->
+    <path d="M 28,-46 A 54 54 0 1 0 28,46" fill="none" stroke="#111111" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- Vành đai 2 (Giữa trong): R=35, độ dày 6.5px -->
+    <path d="M 18,-30 A 35 35 0 1 0 18,30" fill="none" stroke="#D4AF37" stroke-width="6.5" stroke-linecap="round"/>
+
+    <!-- Vành đai 1 (Tâm lõi): R=18, độ dày 6px -->
+    <path d="M 9,-15 A 18 18 0 1 0 9,15" fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+
+    <!-- Điểm hội tụ hạt ngọc trung tâm (Central Focal Point) -->
+    <circle cx="0" cy="0" r="4.5" fill="#F3E5AB"/>
+
+    <!-- Khung viền mờ tỷ lệ phụ trợ -->
+    <circle cx="0" cy="0" r="88" fill="none" stroke="#D4AF37" stroke-width="0.8" stroke-dasharray="3 4" stroke-opacity="0.3"/>
+  
+</g>
+    <g transform="rotate(45)"><path d="M0,0 C-18,-35 -22,-65 0,-80 C22,-65 18,-35 0,0" fill="none" stroke="#111111" stroke-width="1.7" opacity="0.85"/></g>
+    <g transform="rotate(90)"><path d="M0,0 C-18,-35 -22,-65 0,-80 C22,-65 18,-35 0,0" fill="none" stroke="#D4AF37" stroke-width="2.2"/></g>
+    <g transform="rotate(135)"><path d="M0,0 C-18,-35 -22,-65 0,-80 C22,-65 18,-35 0,0" fill="none" stroke="#111111" stroke-width="1.7" opacity="0.85"/></g>
+    <g transform="rotate(180)"><path d="M0,0 C-18,-35 -22,-65 0,-80 C22,-65 18,-35 0,0" fill="none" stroke="#D4AF37" stroke-width="2.2"/></g>
+    <g transform="rotate(225)"><path d="M0,0 C-18,-35 -22,-65 0,-80 C22,-65 18,-35 0,0" fill="none" stroke="#111111" stroke-width="1.7" opacity="0.85"/></g>
+    <g transform="rotate(270)"><path d="M0,0 C-18,-35 -22,-65 0,-80 C22,-65 18,-35 0,0" fill="none" stroke="#D4AF37" stroke-width="2.2"/></g>
+    <g transform="rotate(315)"><path d="M0,0 C-18,-35 -22,-65 0,-80 C22,-65 18,-35 0,0" fill="none" stroke="#111111" stroke-width="1.7" opacity="0.85"/></g>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#F3E5AB" stroke-width="1.8"/>
+    <circle cx="0" cy="0" r="7" fill="#D4AF37"/>
+  
+</g>
+  <g id="logo-typography">
+    <text x="250" y="336" text-anchor="middle" class="brand-title">COCO</text>
+    <text x="250" y="368" text-anchor="middle" class="brand-sub">CONCENTRIC GOLDEN LABYRINTH</text>
+    <g transform="translate(250, 388)">
+      <line x1="-60" y1="0" x2="-12" y2="0" stroke="#D4AF37" stroke-width="0.8" stroke-opacity="0.5"/>
+      <circle cx="0" cy="0" r="2.2" fill="#D4AF37"/>
+      <line x1="12" y1="0" x2="60" y2="0" stroke="#D4AF37" stroke-width="0.8" stroke-opacity="0.5"/>
+    </g>
+    <text x="250" y="414" text-anchor="middle" class="brand-tagline">HƯƠNG THƠM NGỌT NGÀO ĐẾN TỪNG PHÚT GIÂY</text>
+    <text x="250" y="433" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="500" font-size="8" fill="#8C827A" letter-spacing="0.25em">PARIS • MILANO • TOKYO</text>
+  </g>
+</svg>

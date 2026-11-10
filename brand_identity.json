@@ -1,0 +1,60 @@
+{
+  "brand_name": "Gió Mộc Coffee",
+  "taglines": [
+    "Chạm chất mộc, lắng tiếng gió reo",
+    "Khoảng lặng nguyên bản giữa đồi thông Đà Lạt",
+    "Nơi làn gió tìm về với bình yên gỗ mộc"
+  ],
+  "brand_story": "Ẩn mình giữa triền đồi thông lộng gió của Đà Lạt, Gió Mộc Coffee là nơi thời gian chậm lại để tâm hồn tìm về nguyên bản. Giao hòa giữa triết lý Wabi-sabi tôn vinh nét đẹp thô mộc tự nhiên và hồn gỗ Tây Nguyên trầm ấm, từng giọt cà phê đặc sản tại Gió Mộc tựa như làn gió núi lành mát lướt qua thớ gỗ già, mở ra không gian tĩnh lặng nuôi dưỡng sự an yên và khơi nguồn cảm hứng sáng tạo thuần khiết.",
+  "color_palette": [
+    {
+      "role": "Màu chủ đạo / Primary",
+      "name": "Nâu Vỏ Thông Già (Deep Pine Bark)",
+      "hex": "#3D2B1F",
+      "rgb": "rgb(61, 43, 31)",
+      "usage": "Màu nhận diện trung tâm, typography tiêu đề, nét vẽ biểu tượng chính, chất liệu gỗ mộc nội thất và các ấn phẩm tương phản."
+    },
+    {
+      "role": "Màu phụ / Secondary",
+      "name": "Đất Đỏ Bazan Mờ (Earthy Terracotta)",
+      "hex": "#9E6B55",
+      "rgb": "rgb(158, 107, 85)",
+      "usage": "Mảng màu phụ trợ, đường nét làn gió, nhãn thẻ tag sản phẩm, túi giấy kraft thô và menu chi tiết."
+    },
+    {
+      "role": "Màu nền / Neutral Background",
+      "name": "Trắng Giấy Dó Mộc (Washi Fiber Cream)",
+      "hex": "#F4EFEA",
+      "rgb": "rgb(244, 239, 234)",
+      "usage": "Màu nền không gian làm việc, màu nền danh thiếp giấy mỹ thuật, nền canvas logo và các ấn phẩm in ấn tự nhiên."
+    },
+    {
+      "role": "Màu điểm nhấn / Accent",
+      "name": "Xanh Thông Núi Mờ (Mist Pine Sage)",
+      "hex": "#5B7065",
+      "rgb": "rgb(91, 112, 101)",
+      "usage": "Màu điểm xuyết gợi không khí sương mờ Đà Lạt, ứng dụng trên tem niêm phong thủ công, nắp ly và biểu tượng làn gió điểm nhấn."
+    }
+  ],
+  "typography": {
+    "heading_font": "Fraunces",
+    "body_font": "Be Vietnam Pro",
+    "pairing_rationale": "Fraunces sở hữu đường cong hữu cơ mềm mại, biến thiên tự nhiên như thớ gỗ đẽo gọt thủ công, đậm tinh thần Wabi-sabi và chiều sâu nghệ nhân. Kết hợp hài hòa cùng Be Vietnam Pro có hình học thanh mảnh, độ mở chữ rộng và tối ưu hoàn hảo cho hiển thị tiếng Việt, tạo nên sự cân bằng giữa chất thô mộc hoài niệm và trải nghiệm đọc mượt mà, thư thái cho không gian làm việc.",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,400&display=swap"
+  },
+  "logo_design_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.16em; fill: #3D2B1F; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.38em; fill: #9E6B55; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.24em; fill: #5B7065; }\n    </style>\n  </defs>\n\n  <!-- Nền Canvas Washi Paper -->\n  <rect width=\"500\" height=\"500\" fill=\"#F4EFEA\" rx=\"28\"/>\n\n  <!-- Khung viền chỉ mộc tối giản -->\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <circle cx=\"32\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"32\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n\n  <!-- BIỂU TƯỢNG GIAO THOA: GIÓ & VÂN GỖ MỘC (WIND & WOOD GRAIN ENSO) -->\n  <g id=\"logo-emblem\" transform=\"translate(250, 185)\">\n    <!-- Vòng tròn Ensō vân gỗ ngoài cùng -->\n    <path d=\"M -75 -40 C -95 0 -85 55 -45 80 C -5 105 55 95 80 55 C 102 18 90 -45 55 -75 C 22 -100 -35 -95 -65 -65\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-dasharray=\"280 20\"/>\n\n    <!-- Làn gió 1 cuộn qua thớ gỗ -->\n    <path d=\"M -85 20 C -70 -35 -20 -70 40 -65 C 75 -62 82 -25 58 5 C 38 30 -5 25 -20 -5 C -30 -30 -5 -48 18 -42\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\n\n    <!-- Làn gió 2 lượn thanh thoát màu Xanh Thông Núi -->\n    <path d=\"M -60 55 C -25 75 35 70 65 30 C 85 -5 65 -45 25 -52 C -15 -58 -45 -25 -35 15 C -28 42 5 45 22 28\" fill=\"none\" stroke=\"#5B7065\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n\n    <!-- Vòng vân gỗ lõi thứ 3 -->\n    <path d=\"M -25 -10 C -25 -28 5 -35 20 -20 C 32 -8 25 18 5 22 C -10 25 -20 12 -18 -2\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.5\" stroke-linecap=\"round\"/>\n\n    <!-- Tâm mầm hạt cà phê mộc nguyên bản -->\n    <path d=\"M -2 -14 C 12 -18 18 -6 14 8 C 10 20 -4 16 -8 6 C -11 -2 -8 -11 -2 -14 Z\" fill=\"#3D2B1F\"/>\n    <path d=\"M -2 -8 C 4 -2 2 6 -3 10\" fill=\"none\" stroke=\"#F4EFEA\" stroke-width=\"1.2\" stroke-linecap=\"round\"/>\n\n    <!-- Điểm chấm sương gió tự nhiên -->\n    <circle cx=\"88\" cy=\"-15\" r=\"3\" fill=\"#5B7065\"/>\n    <circle cx=\"-70\" cy=\"-60\" r=\"2\" fill=\"#9E6B55\"/>\n    <circle cx=\"45\" cy=\"85\" r=\"2.5\" fill=\"#3D2B1F\" opacity=\"0.6\"/>\n  </g>\n\n  <!-- TYPOGRAPHY BỐ CỤC CÂN ĐỐI -->\n  <g id=\"logo-typography\">\n    <!-- Tên thương hiệu -->\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GIÓ MỘC</text>\n    \n    <!-- Ngành hàng & Không gian -->\n    <text x=\"250\" y=\"370\" text-anchor=\"middle\" class=\"brand-sub\">COFFEE &amp; SLOW WORKSPACE</text>\n    \n    <!-- Đường kẻ mộc phân cách -->\n    <g transform=\"translate(250, 390)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-15\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#5B7065\"/>\n      <line x1=\"15\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n    </g>\n\n    <!-- Định vị nguồn cội & Triết lý -->\n    <text x=\"250\" y=\"415\" text-anchor=\"middle\" class=\"brand-tagline\">ĐÀ LẠT • THIÊN NHIÊN • TĨNH TẠI</text>\n    <text x=\"250\" y=\"434\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#9E6B55\" letter-spacing=\"0.28em\">EST. 2024</text>\n  </g>\n</svg>",
+  "mockup_directions": {
+    "namecard": {
+      "front": "Mặt trước phủ màu Trắng Giấy Dó Mộc (#F4EFEA) trên chất liệu giấy mỹ thuật sợi tự nhiên (Cotton Washi Paper) định lượng 380gsm với mép cắt thủ công xé tự nhiên (deckle edge). Logo Gió Mộc Coffee dập nổi mù không màu (blind emboss) kết hợp tên thương hiệu ép chìm viền màu Nâu Vỏ Thông (#3D2B1F), mang đến trải nghiệm xúc giác thô ráp và thanh nhã.",
+      "back": "Mặt sau dùng nền Nâu Vỏ Thông Già (#3D2B1F) màu gỗ mộc. Thông tin liên hệ, mật khẩu Wifi yên tĩnh và biểu tượng mã QR đặt trang nhã bằng mực in lụa màu Trắng Giấy Dó (#F4EFEA); góc thẻ điểm xuyết một chiếc lá thông nhỏ in màu Xanh Thông Núi (#5B7065) mờ nhẹ."
+    },
+    "packaging": {
+      "type": "Túi đựng cà phê hạt giấy Kraft nâu mộc mạc tráng màng sinh học PLA có van một chiều kết hợp ly giấy hai lớp cách nhiệt dùng tại chỗ.",
+      "description": "Thân túi kraft màu nâu nhạt tự nhiên; mặt trước dập tem nhãn dán thủ công bằng giấy dó in vân gỗ và làn gió xoáy. Tem niêm phong miệng túi dạng dải dài màu Xanh Thông Núi (#5B7065) ghi chú ngày rang mộc và dòng chữ 'Lắng nghe gió kể'. Ly giấy mang tone màu Trắng Giấy Dó (#F4EFEA) đi kèm sleeve bọc lót cách nhiệt bằng sợi bã cà phê ép mộc."
+    },
+    "signage": {
+      "type": "Biển hiệu chính bằng gỗ thông lũa nguyên khối khắc chìm âm bản kết hợp biển vẫy tròn bằng sắt rỉ sét nghệ thuật (Corten Steel).",
+      "description": "Biển hiệu chính sử dụng tấm gỗ thông già tự nhiên được xử lý bề mặt thô nhám theo kỹ thuật Shou Sugi Ban (đốt gỗ mộc Wabi-sabi), tên thương hiệu 'GIÓ MỘC' được khắc chìm trực tiếp vào thớ gỗ và hắt sáng gián tiếp bằng dải đèn LED vàng ấm 2700K ẩn bên dưới. Biển vẫy tròn treo hiên nhà bằng thép Corten rỉ sét tự nhiên cắt laser họa tiết làn gió luồn qua vân gỗ, phát sáng nhẹ như ngọn đèn lồng giữa sương mù cao nguyên."
+    }
+  }
+}

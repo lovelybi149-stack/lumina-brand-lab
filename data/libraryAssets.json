@@ -1,0 +1,396 @@
+[
+  {
+    "id": "design-lumina-01",
+    "type": "mockup",
+    "title": "AURA ROASTERS (LUMINA-01)",
+    "category": "Mẫu do Web thiết kế",
+    "industry": [
+      "F&B Specialty Coffee & Trải nghiệm Slow Bar",
+      "Mẫu do Web thiết kế"
+    ],
+    "preview_url": "/downloads/LUMINA-01/logo_master.svg",
+    "dimensions": "1400 × 1200 px",
+    "file_format": "SVG / PNG 300 DPI",
+    "created_at": "2026-11-01T04:36:53.857Z",
+    "metadata": {
+      "brand_name": "AURA ROASTERS",
+      "tagline": "Chạm chất mộc, lắng tiếng gió reo",
+      "order_tier": "pro",
+      "client_name": "Lê Tuấn Hưng",
+      "download_svg": "/downloads/LUMINA-01/logo_master.svg",
+      "download_png": "/downloads/LUMINA-01/logo_transparent.png",
+      "download_pdf": "/downloads/LUMINA-01/brand_guideline.pdf"
+    }
+  },
+  {
+    "id": "mockup-4481",
+    "type": "mockup",
+    "title": "Phôi Hộp Quà Cao Cấp Dập Kim",
+    "category": "Packaging",
+    "industry": [
+      "Thời trang & May mặc",
+      "Quà tặng"
+    ],
+    "preview_url": "/library/mockups/blank_kraft_bag.png",
+    "dimensions": "1400 × 1200 px",
+    "created_at": "2026-10-31T18:13:24.481Z"
+  },
+  {
+    "id": "mockup-01",
+    "type": "mockup",
+    "title": "Phôi Danh Thiếp Cao Cấp Góc Nghiêng",
+    "category": "Stationery",
+    "industry": [
+      "All",
+      "Thời trang & May mặc",
+      "Doanh nghiệp",
+      "F&B / Ẩm thực"
+    ],
+    "preview_url": "/library/mockups/blank_namecard_modern.png",
+    "dimensions": "1600 × 1000 px",
+    "file_format": "PNG (300 DPI)",
+    "overlay_coordinates": {
+      "x": 370,
+      "y": 250,
+      "width": 860,
+      "height": 500
+    }
+  },
+  {
+    "id": "mockup-02",
+    "type": "mockup",
+    "title": "Phôi Ly Sứ Cà Phê Studio Minimalist",
+    "category": "Packaging",
+    "industry": [
+      "All",
+      "F&B / Ẩm thực",
+      "Phong cách sống"
+    ],
+    "preview_url": "/library/mockups/blank_coffee_cup_ceramic.png",
+    "dimensions": "1600 × 1200 px",
+    "file_format": "PNG (300 DPI)",
+    "overlay_coordinates": {
+      "x": 670,
+      "y": 550,
+      "width": 260,
+      "height": 160
+    }
+  },
+  {
+    "id": "mockup-03",
+    "type": "mockup",
+    "title": "Phôi Túi Giấy Kraft Thô Có Van Thở",
+    "category": "Packaging",
+    "industry": [
+      "All",
+      "F&B / Ẩm thực",
+      "Nông sản sạch",
+      "Hữu cơ"
+    ],
+    "preview_url": "/library/mockups/blank_kraft_bag.png",
+    "dimensions": "1400 × 1200 px",
+    "file_format": "PNG (300 DPI)",
+    "overlay_coordinates": {
+      "x": 520,
+      "y": 470,
+      "width": 360,
+      "height": 420
+    }
+  },
+  {
+    "id": "mockup-04",
+    "type": "mockup",
+    "title": "Phôi Biển Hiệu Acrylic Treo Tường Khung Đồng",
+    "category": "Signage",
+    "industry": [
+      "All",
+      "Thời trang & May mặc",
+      "Công nghệ & Số hóa",
+      "Doanh nghiệp"
+    ],
+    "preview_url": "/library/mockups/blank_acrylic_signage.png",
+    "dimensions": "1600 × 1100 px",
+    "file_format": "PNG (300 DPI)",
+    "overlay_coordinates": {
+      "x": 500,
+      "y": 380,
+      "width": 600,
+      "height": 340
+    }
+  },
+  {
+    "id": "tex-01",
+    "type": "texture",
+    "title": "Chất Liệu Giấy Kraft Nâu Thô Mộc",
+    "category": "Texture",
+    "industry": [
+      "All",
+      "F&B / Ẩm thực",
+      "Bao bì thân thiện"
+    ],
+    "preview_url": "/library/textures/paper_kraft.jpg",
+    "dimensions": "1200 × 1200 px",
+    "file_format": "JPG",
+    "style_tags": [
+      "Organic",
+      "Earthy",
+      "Recycled",
+      "Eco"
+    ]
+  },
+  {
+    "id": "tex-02",
+    "type": "texture",
+    "title": "Chất Liệu Vải Linen Dệt Tự Nhiên",
+    "category": "Texture",
+    "industry": [
+      "All",
+      "Thời trang & May mặc",
+      "Nội thất"
+    ],
+    "preview_url": "/library/textures/linen_fabric.jpg",
+    "dimensions": "1200 × 1200 px",
+    "file_format": "JPG",
+    "style_tags": [
+      "Quiet Luxury",
+      "Woven",
+      "Beige",
+      "Minimalist"
+    ]
+  },
+  {
+    "id": "tex-03",
+    "type": "texture",
+    "title": "Chất Liệu Gỗ Sồi Trầm Tây Nguyên",
+    "category": "Texture",
+    "industry": [
+      "All",
+      "F&B / Ẩm thực",
+      "Kiến trúc & Nội thất"
+    ],
+    "preview_url": "/library/textures/dark_wood.jpg",
+    "dimensions": "1200 × 1200 px",
+    "file_format": "JPG",
+    "style_tags": [
+      "Rustic",
+      "Wabi-sabi",
+      "Warm Timber",
+      "Dark Walnut"
+    ]
+  },
+  {
+    "id": "mood-01",
+    "type": "moodboard",
+    "title": "Cảm hứng Cà phê Mộc Mạc & Gỗ Trầm",
+    "category": "Inspiration",
+    "industry": [
+      "F&B / Ẩm thực"
+    ],
+    "style_tags": [
+      "Rustic",
+      "Wabi-sabi",
+      "Warm Wood"
+    ],
+    "preview_url": "/library/moodboards/fb_coffee/coffee_wood.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-02",
+    "type": "moodboard",
+    "title": "Cảm hứng Nghệ Thuật Rang Mộc Espresso",
+    "category": "Inspiration",
+    "industry": [
+      "F&B / Ẩm thực"
+    ],
+    "style_tags": [
+      "Artisanal",
+      "Barista",
+      "Slow Bar",
+      "Crema"
+    ],
+    "preview_url": "/library/moodboards/fb_coffee/espresso_craft.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-03",
+    "type": "moodboard",
+    "title": "Cảm hứng Gốm Mộc Sáng Ban Mai",
+    "category": "Inspiration",
+    "industry": [
+      "F&B / Ẩm thực"
+    ],
+    "style_tags": [
+      "Organic",
+      "Ceramics",
+      "Zen",
+      "Morning Light"
+    ],
+    "preview_url": "/library/moodboards/fb_coffee/ceramic_morning.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-04",
+    "type": "moodboard",
+    "title": "Cảm hứng Đồi Thông Cao Nguyên & Khí Lành",
+    "category": "Inspiration",
+    "industry": [
+      "F&B / Ẩm thực"
+    ],
+    "style_tags": [
+      "Pine Forest",
+      "Terroir",
+      "Dalat Mist",
+      "Earthy"
+    ],
+    "preview_url": "/library/moodboards/fb_coffee/highland_pine.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-05",
+    "type": "moodboard",
+    "title": "Cảm hứng Lụa Đơn Sắc & Tĩnh Lặng",
+    "category": "Inspiration",
+    "industry": [
+      "Thời trang & May mặc"
+    ],
+    "style_tags": [
+      "Quiet Luxury",
+      "Monochrome",
+      "Silk",
+      "Drape"
+    ],
+    "preview_url": "/library/moodboards/fashion_minimal/silk_drape.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-06",
+    "type": "moodboard",
+    "title": "Cảm hứng Phom Dáng Cắt May Kiến Trúc",
+    "category": "Inspiration",
+    "industry": [
+      "Thời trang & May mặc"
+    ],
+    "style_tags": [
+      "Architectural",
+      "Tailored",
+      "Timeless",
+      "Clean Cut"
+    ],
+    "preview_url": "/library/moodboards/fashion_minimal/minimal_silhouette.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-07",
+    "type": "moodboard",
+    "title": "Cảm hứng Không Gian Triển Lãm Tối Giản",
+    "category": "Inspiration",
+    "industry": [
+      "Thời trang & May mặc"
+    ],
+    "style_tags": [
+      "Negative Space",
+      "Gallery",
+      "Monolith",
+      "Concrete"
+    ],
+    "preview_url": "/library/moodboards/fashion_minimal/architectural_space.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-08",
+    "type": "moodboard",
+    "title": "Cảm hứng Bảng Màu Khoáng Thạch Tự Nhiên",
+    "category": "Inspiration",
+    "industry": [
+      "Thời trang & May mặc"
+    ],
+    "style_tags": [
+      "Champagne",
+      "Slate",
+      "Mineral",
+      "Neutral Swatch"
+    ],
+    "preview_url": "/library/moodboards/fashion_minimal/neutral_palette.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-09",
+    "type": "moodboard",
+    "title": "Cảm hứng Thiết Kế Phần Cứng Tinh Xảo",
+    "category": "Inspiration",
+    "industry": [
+      "Công nghệ & Số hóa"
+    ],
+    "style_tags": [
+      "Hardware",
+      "Anodized Aluminum",
+      "Chamfer",
+      "Sleek"
+    ],
+    "preview_url": "/library/moodboards/tech_modern/sleek_hardware.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-010",
+    "type": "moodboard",
+    "title": "Cảm hứng Khúc Xạ Thủy Tinh Kỹ Thuật Số",
+    "category": "Inspiration",
+    "industry": [
+      "Công nghệ & Số hóa"
+    ],
+    "style_tags": [
+      "Frosted Glass",
+      "Prism",
+      "Optics",
+      "Futuristic"
+    ],
+    "preview_url": "/library/moodboards/tech_modern/abstract_glass.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-011",
+    "type": "moodboard",
+    "title": "Cảm hứng Bàn Làm Việc Studio Công Nghệ",
+    "category": "Inspiration",
+    "industry": [
+      "Công nghệ & Số hóa"
+    ],
+    "style_tags": [
+      "Workspace",
+      "Clean Desk",
+      "Minimalist Tech",
+      "Dark Theme"
+    ],
+    "preview_url": "/library/moodboards/tech_modern/modern_workspace.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  },
+  {
+    "id": "mood-012",
+    "type": "moodboard",
+    "title": "Cảm hứng Tọa Độ Vector & Ma Trận Dữ Liệu",
+    "category": "Inspiration",
+    "industry": [
+      "Công nghệ & Số hóa"
+    ],
+    "style_tags": [
+      "Cyber",
+      "Matrix",
+      "Precision",
+      "Cyan Glow"
+    ],
+    "preview_url": "/library/moodboards/tech_modern/neon_cyber.jpg",
+    "dimensions": "1000 × 800 px",
+    "file_format": "JPG"
+  }
+]

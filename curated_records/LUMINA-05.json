@@ -1,0 +1,168 @@
+{
+  "project_id": "LUMINA-05",
+  "brand_name": "CRESTEC",
+  "client_name": "Nguyễn Anh",
+  "client_phone": "0903 033033",
+  "client_email": "anh@gmail.com",
+  "industry": "In ấn, Bao bì & Xuất bản",
+  "target_audience": "Công ty In ấn, yêu cầu biểu tượng logo sử dụng chũ C cách điệu làm biểu tượng kết hợp với chữ CRESTEC, font Aptima, màu chủ đạo là xanh cyan, slogan màu xám dưới chữ Crestec",
+  "logo_format": "Combination Mark",
+  "color_tone": "Cool & Precision Cyan (Xanh Cyan chủ đạo, Xám chì, Trắng phủ)",
+  "style_vibes": [
+    "Minimalist",
+    "Rustic"
+  ],
+  "submitted_at": "2026-11-01T04:51:43.794Z",
+  "status": "Waiting_Client_Final_Approval",
+  "order_tier": "pro",
+  "logo_options": [
+    {
+      "id": "opt_1",
+      "title": "Option 1: Tối Giản Hình Học Hiện Đại (AI Refined)",
+      "concept_note": "Biểu tượng hình học Đường Cong Hữu Cơ & Tinh Thần Wabi-sabi với tỷ lệ vàng chuẩn xác và nét vẽ tối giản.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Cinzel', serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.02em; fill: #00A8E8; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #1D2A44; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #7E8D9B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F7FAFC\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(130, 250) scale(0.85)\">\n\n    <!-- Chữ Lồng Monogram 'C' Cách Điệu -->\n    <circle cx=\"0\" cy=\"0\" r=\"76\" fill=\"none\" stroke=\"#1D2A44\" stroke-width=\"1.8\" stroke-opacity=\"0.5\"/>\n    <rect x=\"-56\" y=\"-56\" width=\"112\" height=\"112\" rx=\"16\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"3.6\" stroke-dasharray=\"320 20\"/>\n    <text x=\"0\" y=\"24\" text-anchor=\"middle\" font-family=\"'Space Grotesk', 'Playfair Display', sans-serif\" font-weight=\"800\" font-size=\"64\" fill=\"#00A8E8\" letter-spacing=\"0.05em\">C</text>\n    <circle cx=\"45\" cy=\"-45\" r=\"4.5\" fill=\"#7E8D9B\"/>\n    <circle cx=\"-45\" cy=\"45\" r=\"3\" fill=\"#1D2A44\"/>\n      \n</g>\n  </g>\n  \n  <g id=\"logo-typography\" transform=\"translate(325, 205)\">\n    <text x=\"0\" y=\"30\" text-anchor=\"start\" class=\"brand-title\" font-size=\"28\">CRESTEC</text>\n    <text x=\"0\" y=\"60\" text-anchor=\"start\" class=\"brand-sub\" font-size=\"10\">STUDIO &amp; DESIGN LAB</text>\n    <g transform=\"translate(0, 75)\">\n      <line x1=\"0\" y1=\"0\" x2=\"90\" y2=\"0\" stroke=\"#1D2A44\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"98\" cy=\"0\" r=\"2\" fill=\"#7E8D9B\"/>\n      <line x1=\"106\" y1=\"0\" x2=\"160\" y2=\"0\" stroke=\"#1D2A44\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n    </g>\n    <text x=\"0\" y=\"100\" text-anchor=\"start\" class=\"brand-tagline\" font-size=\"9\">CHUẨN XÁC TỪNG ĐIỂM HẠT, SẮC NÉT MỌI ẤN PHẨM</text>\n  </g>\n    \n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "organic",
+        "letterSpacing": 0.16,
+        "primaryColor": "#00A8E8",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_2",
+      "title": "Option 2: Biểu Tượng Cảm Xúc & Ẩn Dụ Ngành Nghề",
+      "concept_note": "Biểu đạt sâu sắc linh hồn ngành In ấn, Bao bì & Xuất bản (Printing & Packaging), khơi gợi cảm xúc qua đường nét mềm mại tinh tế.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.20em; fill: #2B2D42; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #00A8E8; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9.5px; letter-spacing: 0.22em; fill: #6B7280; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F8F9FA\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n    <!-- Vòng cung chữ C cách điệu công nghệ in kẽm -->\n    <path d=\"M 45 -55 C 10 -85 -55 -70 -75 -25 C -95 25 -70 80 -15 85 C 35 90 70 50 65 15\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"12\" stroke-linecap=\"round\"/>\n    <path d=\"M 28 -38 C 5 -60 -40 -48 -55 -15 C -70 20 -50 60 -10 65 C 25 70 50 40 45 15\" fill=\"none\" stroke=\"#2B2D42\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n    <circle cx=\"65\" cy=\"15\" r=\"7\" fill=\"#E63946\"/>\n    <circle cx=\"45\" cy=\"-55\" r=\"5\" fill=\"#00A8E8\"/>\n    <!-- Thước căn chuẩn in CMYK -->\n    <line x1=\"-85\" y1=\"0\" x2=\"-75\" y2=\"0\" stroke=\"#2B2D42\" stroke-width=\"2\"/>\n    <line x1=\"75\" y1=\"0\" x2=\"85\" y2=\"0\" stroke=\"#2B2D42\" stroke-width=\"2\"/>\n    <line x1=\"0\" y1=\"-85\" x2=\"0\" y2=\"-75\" stroke=\"#2B2D42\" stroke-width=\"2\"/>\n    <line x1=\"0\" y1=\"75\" x2=\"0\" y2=\"85\" stroke=\"#2B2D42\" stroke-width=\"2\"/>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">CRESTEC</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">HIGH PRECISION PRINTING</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#00A8E8\" stroke-width=\"1\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#E63946\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#00A8E8\" stroke-width=\"1\" stroke-opacity=\"0.5\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">CHUẨN XÁC TỪNG ĐIỂM HẠT, SẮC NÉT MỌI ẤN PHẨM</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#9CA3AF\" letter-spacing=\"0.25em\">OFFSET • DIGITAL • PACKAGING</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "circle",
+        "letterSpacing": 0.16,
+        "primaryColor": "#00A8E8",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_3",
+      "title": "Option 3: Monogram Chữ Cái Đầu Cách Điệu",
+      "concept_note": "Khắc họa chữ cái 'C' cách điệu lồng ghép trong khung hình học độc quyền của thương hiệu.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.20em; fill: #2B2D42; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #00A8E8; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9.5px; letter-spacing: 0.22em; fill: #6B7280; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F8F9FA\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#2B2D42\" stroke-width=\"0.8\" stroke-opacity=\"0.2\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n    <rect x=\"-60\" y=\"-60\" width=\"120\" height=\"120\" rx=\"14\" fill=\"none\" stroke=\"#2B2D42\" stroke-width=\"2.5\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"42\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"8\" stroke-dasharray=\"190 40\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"16\" fill=\"#E63946\"/>\n    <circle cx=\"-60\" cy=\"-60\" r=\"4\" fill=\"#00A8E8\"/>\n    <circle cx=\"60\" cy=\"-60\" r=\"4\" fill=\"#2B2D42\"/>\n    <circle cx=\"60\" cy=\"60\" r=\"4\" fill=\"#00A8E8\"/>\n    <circle cx=\"-60\" cy=\"60\" r=\"4\" fill=\"#2B2D42\"/>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">CRESTEC</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">COLOR CALIBRATION MATRIX</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-60\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#00A8E8\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#2B2D42\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"60\" y2=\"0\" stroke=\"#00A8E8\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">CHUẨN XÁC TỪNG ĐIỂM HẠT, SẮC NÉT MỌI ẤN PHẨM</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "iconPosX": 0,
+        "iconPosY": 0,
+        "iconShape": "monogram",
+        "letterSpacing": 0.16,
+        "primaryColor": "#00A8E8",
+        "layout": "stacked"
+      }
+    }
+  ],
+  "selected_logo_id": "opt_1",
+  "delivery_mode": "client_choice",
+  "delivery_time": "3d",
+  "logo_options_count": 3,
+  "revision_rounds": 1,
+  "current_revision": 1,
+  "review_status": "Waiting_Client_Final_Approval",
+  "brand_story": "CRESTEC định vị là biểu tượng chuẩn xác trong ngành in ấn và đóng gói bao bì chất lượng cao. Chúng tôi kết hợp độ chính xác vi mô của công nghệ in hiện đại cùng cảm thức thẩm mỹ tinh tế, tạo nên những ấn phẩm chạm đến xúc giác và nâng tầm vị thế thương hiệu đối tác.",
+  "tagline": "Chuẩn xác từng điểm hạt, sắc nét mọi ấn phẩm",
+  "tagline_options": [
+    "Chuẩn xác từng điểm hạt, sắc nét mọi ấn phẩm",
+    "Kỹ nghệ in ấn đỉnh cao cho thương hiệu tinh hoa",
+    "Sắc nét từng chi tiết, trọn vẹn mọi xúc cảm"
+  ],
+  "palette": [
+    {
+      "role": "Primary",
+      "name": "Cyan Precision Blue",
+      "hex": "#00A8E8",
+      "rgb": "rgb(0, 168, 232)",
+      "usage": "60% — Màu nhận diện biểu tượng C và thương hiệu"
+    },
+    {
+      "role": "Secondary",
+      "name": "Deep Charcoal Noir",
+      "hex": "#1D2A44",
+      "rgb": "rgb(29, 42, 68)",
+      "usage": "30% — Tên chữ CRESTEC và mảng đậm"
+    },
+    {
+      "role": "Accent",
+      "name": "Slate Precision Grey",
+      "hex": "#7E8D9B",
+      "rgb": "rgb(126, 141, 155)",
+      "usage": "10% — Slogan và đường viền tinh xảo"
+    },
+    {
+      "role": "Neutral",
+      "name": "Coated Paper White",
+      "hex": "#F7FAFC",
+      "rgb": "rgb(247, 250, 252)",
+      "usage": "Nền giấy in cao cấp"
+    }
+  ],
+  "typography": {
+    "heading": "Cinzel",
+    "body": "Plus Jakarta Sans",
+    "pairing_rationale": "Cinzel mang cấu trúc la mã cổ điển tinh tế tương đồng phom chữ Aptima, kết hợp Plus Jakarta Sans hỗ trợ tiếng Việt sắc nét trên bao bì in ấn.",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+  },
+  "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Cinzel', serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, serif, sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.02em; fill: #00A8E8; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #1D2A44; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif, sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #7E8D9B; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F7FAFC\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(130, 250) scale(0.85)\">\n\n    <!-- Chữ Lồng Monogram 'C' Cách Điệu -->\n    <circle cx=\"0\" cy=\"0\" r=\"76\" fill=\"none\" stroke=\"#1D2A44\" stroke-width=\"1.8\" stroke-opacity=\"0.5\"/>\n    <rect x=\"-56\" y=\"-56\" width=\"112\" height=\"112\" rx=\"16\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"3.6\" stroke-dasharray=\"320 20\"/>\n    <text x=\"0\" y=\"24\" text-anchor=\"middle\" font-family=\"'Space Grotesk', 'Playfair Display', sans-serif\" font-weight=\"800\" font-size=\"64\" fill=\"#00A8E8\" letter-spacing=\"0.05em\">C</text>\n    <circle cx=\"45\" cy=\"-45\" r=\"4.5\" fill=\"#7E8D9B\"/>\n    <circle cx=\"-45\" cy=\"45\" r=\"3\" fill=\"#1D2A44\"/>\n      \n</g>\n  </g>\n  \n  <g id=\"logo-typography\" transform=\"translate(325, 205)\">\n    <text x=\"0\" y=\"30\" text-anchor=\"start\" class=\"brand-title\" font-size=\"28\">CRESTEC</text>\n    <text x=\"0\" y=\"60\" text-anchor=\"start\" class=\"brand-sub\" font-size=\"10\">STUDIO &amp; DESIGN LAB</text>\n    <g transform=\"translate(0, 75)\">\n      <line x1=\"0\" y1=\"0\" x2=\"90\" y2=\"0\" stroke=\"#1D2A44\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"98\" cy=\"0\" r=\"2\" fill=\"#7E8D9B\"/>\n      <line x1=\"106\" y1=\"0\" x2=\"160\" y2=\"0\" stroke=\"#1D2A44\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n    </g>\n    <text x=\"0\" y=\"100\" text-anchor=\"start\" class=\"brand-tagline\" font-size=\"9\">CHUẨN XÁC TỪNG ĐIỂM HẠT, SẮC NÉT MỌI ẤN PHẨM</text>\n  </g>\n    \n</svg>",
+  "original_logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap');\n      .brand-title { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 30px; letter-spacing: 0.18em; fill: #2B2D42; }\n      .brand-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.35em; fill: #00A8E8; }\n      .brand-tagline { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #00A8E8; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#F8F9FA\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185) scale(1)\">\n<g id=\"logo-emblem\" transform=\"translate(250, 185)\"><path d=\"M -50 0 C -50 -45 45 -50 50 0 C 55 45 -40 55 -45 5\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"2.6\" stroke-linecap=\"round\"/><path d=\"M -25 -5 C -25 -28 20 -28 20 -2 C 20 22 -15 22 -12 2\" fill=\"none\" stroke=\"#00A8E8\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"-45\" r=\"3.5\" fill=\"#E63946\"/><circle cx=\"-42\" cy=\"38\" r=\"2.5\" fill=\"#E63946\"/></g>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">CRESTEC</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">ĐƯỜNG CONG HỮU CƠ & TINH THẦN WABI-SABI</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-12\" y2=\"0\" stroke=\"#00A8E8\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#E63946\"/>\n      <line x1=\"12\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#00A8E8\" stroke-width=\"1\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">CHUẨN XÁC TỪNG ĐIỂM HẠT, SẮC NÉT MỌI ẤN PHẨM</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Plus Jakarta Sans', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#00A8E8\" letter-spacing=\"0.25em\">ARCHETYPE ORGANIC_ARTISANAL</text>\n  </g>\n</svg>",
+  "logo_layout": {
+    "layout": "stacked",
+    "iconScale": 1,
+    "iconPosX": 0,
+    "iconPosY": 0,
+    "iconShape": "monogram",
+    "letterSpacing": 0.18,
+    "iconColor": "#00A8E8",
+    "titleColor": "#1D2A44",
+    "taglineColor": "#7E8D9B",
+    "bgColor": "#F7FAFC"
+  },
+  "mockups": [
+    {
+      "type": "Danh thiếp & Namecard",
+      "title": "Bộ nhận diện văn phòng & Namecard giấy mỹ thuật",
+      "description": "In offset màng mờ bồi 2 lớp 600gsm ép nhũ bạc biểu tượng chữ C",
+      "preview_aspect": "3:2"
+    },
+    {
+      "type": "Bao bì hộp cao cấp",
+      "title": "Hộp cứng nắp âm dương dập nổi logo",
+      "description": "Giấy mỹ thuật phủ UV định hình chữ C, tạo hiệu ứng phản quang cao cấp",
+      "preview_aspect": "1:1"
+    },
+    {
+      "type": "Biển hiệu xưởng",
+      "title": "Biển hiệu inox xước khắc laser LED âm bản",
+      "description": "Khung thép đen mờ gắn biểu tượng chữ C mica xanh Cyan hắt sáng",
+      "preview_aspect": "16:9"
+    }
+  ],
+  "moodboard_url": "/generated/LUMINA-05/moodboard_pollinations.jpg",
+  "mockup_url": "/api/generate-mockup?projectId=LUMINA-05",
+  "export_links": {
+    "svg_url": "/downloads/LUMINA-05/logo_master.svg",
+    "png_url": "/downloads/LUMINA-05/logo_transparent.png",
+    "pdf_url": "/downloads/LUMINA-05/brand_guideline.pdf",
+    "client_proposal_url": "/p/crestec"
+  },
+  "feedback_history": [
+    {
+      "revision_round": 1,
+      "selected_option_id": "opt_1",
+      "comment": "Biểu tượng chữ C cách điệu từ hình tròn full nến màu Cyan, khoét rãnh vô 3/4 theo đường chéo để tạo thành chữ C cách điệu, chữ CRESTEC font Aptiama bold nằm bên phải biểu tượng. Hãy điều chỉnh lại",
+      "submitted_at": "2026-11-07T04:26:44.796Z",
+      "feedback_type": "revision"
+    }
+  ],
+  "client_feedback": "Biểu tượng chữ C cách điệu từ hình tròn full nến màu Cyan, khoét rãnh vô 3/4 theo đường chéo để tạo thành chữ C cách điệu, chữ CRESTEC font Aptiama bold nằm bên phải biểu tượng. Hãy điều chỉnh lại",
+  "has_unread_feedback": false
+}

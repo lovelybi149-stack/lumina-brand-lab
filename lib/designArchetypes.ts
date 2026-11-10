@@ -1,0 +1,190 @@
+/**
+ * LUMINA BRAND LAB — VECTOR DESIGN ARCHETYPES (KHO TRI THỨC HÌNH HỌC THIẾT KẾ)
+ * 
+ * Định nghĩa các khuôn mẫu hình học vector chuẩn mực theo từng ngành nghề và phong cách.
+ * Được nạp trực tiếp vào Prompt của Gemini API (gemini-2.5-flash) để hướng dẫn AI
+ * tạo ra các concept logo vector SVG chuẩn in ấn, tỷ lệ vàng, sắc sảo và đúng bản sắc.
+ */
+
+export interface DesignArchetype {
+  styleName: string;
+  targetIndustries: string[];
+  visualMetaphors: string[];
+  geometryRules: {
+    strokeHierarchy: { primary: string; secondary: string; accent: string };
+    recommendedShapes: string[];
+  };
+  sampleSvgSnippet: string;
+}
+
+export const DESIGN_ARCHETYPES: Record<string, DesignArchetype> = {
+  TECH_GEOMETRIC: {
+    styleName: "Cấu Trúc Đa Giác & Vi Mạch Hiện Đại",
+    targetIndustries: ["Công nghệ & Phần mềm", "Trí tuệ nhân tạo", "Fintech", "Kỹ thuật số", "AI Film"],
+    visualMetaphors: ["Khối lập phương không gian", "Vi mạch số", "Góc vát đối xứng", "Cổng logic quang học"],
+    geometryRules: {
+      strokeHierarchy: { primary: "2.8px", secondary: "1.6px", accent: "0.8px" },
+      recommendedShapes: ["polygon", "circle (node)", "polyline", "isometric cubes"]
+    },
+    sampleSvgSnippet: `<polygon points="0,-65 56,-32 56,32 0,65 -56,32 -56,-32" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linejoin="round"/><polygon points="0,-42 36,-21 36,21 0,42 -36,21 -36,-21" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="6 3"/><circle cx="0" cy="0" r="5" fill="currentColor"/><circle cx="0" cy="-65" r="3.5" fill="currentColor"/><circle cx="56" cy="32" r="3.5" fill="currentColor"/><circle cx="-56" cy="32" r="3.5" fill="currentColor"/><line x1="0" y1="-42" x2="0" y2="-65" stroke="currentColor" stroke-width="1.6"/><line x1="36" y1="21" x2="56" y2="32" stroke="currentColor" stroke-width="1.6"/><line x1="-36" y1="21" x2="-56" y2="32" stroke="currentColor" stroke-width="1.6"/>`
+  },
+
+  LUXURY_MONOGRAM: {
+    styleName: "Chữ Lồng Hoàng Gia & Lăng Kính Kim Cương",
+    targetIndustries: ["Thời trang & Phụ kiện", "Mỹ phẩm & Làm đẹp", "Bất động sản", "Trang sức cao cấp", "Quiet Luxury"],
+    visualMetaphors: ["Lăng kính kim cương", "Monogram chữ cái thanh mảnh", "Cung tròn elip", "Khung thức kiến trúc"],
+    geometryRules: {
+      strokeHierarchy: { primary: "1.8px", secondary: "1.2px", accent: "0.6px" },
+      recommendedShapes: ["rhombus", "interlocking arcs", "oval", "serif initial typography"]
+    },
+    sampleSvgSnippet: `<polygon points="0,-60 48,0 0,60 -48,0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="0" cy="0" r="36" fill="none" stroke="currentColor" stroke-width="1.2" stroke-dasharray="2 3"/><circle cx="0" cy="0" r="48" fill="none" stroke="currentColor" stroke-width="0.6" stroke-opacity="0.6"/><circle cx="0" cy="-60" r="2.5" fill="currentColor"/><circle cx="0" cy="60" r="2.5" fill="currentColor"/><circle cx="48" cy="0" r="2.5" fill="currentColor"/><circle cx="-48" cy="0" r="2.5" fill="currentColor"/>`
+  },
+
+  ORGANIC_ARTISANAL: {
+    styleName: "Đường Cong Hữu Cơ & Mầm Lá Sinh Thái",
+    targetIndustries: ["F&B / Ẩm thực", "Nông sản", "Spa & Trà đạo", "Cà phê đặc sản", "Thủ công mỹ nghệ"],
+    visualMetaphors: ["Vòng tròn Ensō", "Mầm lá tự nhiên", "Giọt sương", "Thớ gỗ già", "Làn gió núi"],
+    geometryRules: {
+      strokeHierarchy: { primary: "2.6px", secondary: "1.8px", accent: "1.0px" },
+      recommendedShapes: ["smooth bezier curves", "leaf vectors", "enso rings", "organic droplets"]
+    },
+    sampleSvgSnippet: `<path d="M -50 0 C -50 -45 45 -50 50 0 C 55 45 -40 55 -45 5" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/><path d="M -25 -5 C -25 -28 20 -28 20 -2 C 20 22 -15 22 -12 2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="35" cy="-45" r="3.5" fill="currentColor"/><circle cx="-42" cy="38" r="2.5" fill="currentColor"/>`
+  },
+
+  MINIMAL_CORPORATE: {
+    styleName: "Cấu Trúc Tối Giản Vững Chãi & Trụ Cột Phát Triển",
+    targetIndustries: ["Tài chính - Ngân hàng", "Luật & Tư vấn", "Doanh nghiệp / Corporate", "In ấn & Xuất bản"],
+    visualMetaphors: ["Cột thức kiến trúc", "Khối lập phương đối xứng", "Mũi tên vươn cao", "Vòng tròn liên kết"],
+    geometryRules: {
+      strokeHierarchy: { primary: "3.0px", secondary: "2.0px", accent: "1.0px" },
+      recommendedShapes: ["sharp rects", "orthogonal lines", "golden circles", "symmetry axes"]
+    },
+    sampleSvgSnippet: `<rect x="-45" y="-45" width="90" height="90" rx="8" fill="none" stroke="currentColor" stroke-width="2.8"/><path d="M -45 0 L 45 0 M 0 -45 L 0 45" stroke="currentColor" stroke-width="1.8"/><circle cx="0" cy="0" r="28" fill="none" stroke="currentColor" stroke-width="2.0" stroke-dasharray="4 3"/>`
+  },
+
+  CREATIVE_EDITORIAL: {
+    styleName: "Nghệ Thuật Đương Đại & Hình Học Phá Cách",
+    targetIndustries: ["Truyền thông & Giải trí", "Studio Thiết kế", "Sáng tạo nội dung", "Kiến trúc & Nội thất"],
+    visualMetaphors: ["Giao thoa ánh sáng", "Hình học trừu tượng", "Lăng kính đa sắc", "Khung nhìn điện ảnh"],
+    geometryRules: {
+      strokeHierarchy: { primary: "2.4px", secondary: "1.6px", accent: "0.8px" },
+      recommendedShapes: ["intersecting circles", "dynamic polygons", "abstract curves"]
+    },
+    sampleSvgSnippet: `<circle cx="-22" cy="0" r="45" fill="none" stroke="currentColor" stroke-width="2.2"/><circle cx="22" cy="0" r="45" fill="none" stroke="currentColor" stroke-width="2.2"/><polygon points="0,-35 28,15 -28,15" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="0" cy="0" r="4" fill="currentColor"/>`
+  },
+
+  TWO_LETTER_MONOGRAM: {
+    styleName: "Monogram 2 Chữ Cái Lồng Ghép & Nét Thanh Đậm Hoàng Gia",
+    targetIndustries: ["Thời trang cao cấp", "Tập đoàn đa ngành", "Atelier & Bespoke", "Luật sư & Tài chính VIP", "Khách sạn & Nghỉ dưỡng"],
+    visualMetaphors: ["2 Chữ cái lồng móc xích (Interlocking)", "Chia sẻ nét chung (Shared Stroke)", "Không gian âm (Negative Space)", "Khung hình học bảo vệ"],
+    geometryRules: {
+      strokeHierarchy: { primary: "2.2px", secondary: "1.4px", accent: "0.8px" },
+      recommendedShapes: ["interlocking letterforms", "golden circles", "vertical shared stems", "squircle / diamond frame"]
+    },
+    sampleSvgSnippet: `<rect x="-58" y="-58" width="116" height="116" rx="28" fill="none" stroke="currentColor" stroke-width="2" stroke-opacity="0.8"/><circle cx="-16" cy="0" r="32" fill="none" stroke="currentColor" stroke-width="2.2"/><circle cx="16" cy="0" r="32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-dasharray="8 4"/><path d="M -16 -24 L -16 24 M 16 -24 L 16 24" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/>`
+  }
+};
+
+/**
+ * Tìm kiếm Archetype phù hợp nhất dựa trên Ngành nghề và Phong cách
+ */
+export function getArchetypeForIndustry(
+  industry: string,
+  styleVibes: string[] = []
+): { key: string; archetype: DesignArchetype } {
+  const combined = `${industry} ${styleVibes.join(" ")}`.toLowerCase();
+
+  if (
+    combined.includes("công nghệ") ||
+    combined.includes("phần mềm") ||
+    combined.includes("tech") ||
+    combined.includes("ai film") ||
+    combined.includes("fintech") ||
+    combined.includes("morphic") ||
+    combined.includes("số")
+  ) {
+    return { key: "TECH_GEOMETRIC", archetype: DESIGN_ARCHETYPES.TECH_GEOMETRIC };
+  }
+
+  if (
+    combined.includes("thời trang") ||
+    combined.includes("mỹ phẩm") ||
+    combined.includes("làm đẹp") ||
+    combined.includes("fashion") ||
+    combined.includes("beauty") ||
+    combined.includes("luxury") ||
+    combined.includes("bất động sản")
+  ) {
+    return { key: "LUXURY_MONOGRAM", archetype: DESIGN_ARCHETYPES.LUXURY_MONOGRAM };
+  }
+
+  if (
+    combined.includes("f&b") ||
+    combined.includes("ẩm thực") ||
+    combined.includes("cà phê") ||
+    combined.includes("coffee") ||
+    combined.includes("trà") ||
+    combined.includes("nông sản") ||
+    combined.includes("organic") ||
+    combined.includes("rustic") ||
+    combined.includes("wabi-sabi")
+  ) {
+    return { key: "ORGANIC_ARTISANAL", archetype: DESIGN_ARCHETYPES.ORGANIC_ARTISANAL };
+  }
+
+  if (
+    combined.includes("sáng tạo") ||
+    combined.includes("truyền thông") ||
+    combined.includes("studio") ||
+    combined.includes("nghệ thuật") ||
+    combined.includes("creative")
+  ) {
+    return { key: "CREATIVE_EDITORIAL", archetype: DESIGN_ARCHETYPES.CREATIVE_EDITORIAL };
+  }
+
+  return { key: "MINIMAL_CORPORATE", archetype: DESIGN_ARCHETYPES.MINIMAL_CORPORATE };
+}
+
+/**
+ * Tạo khối hướng dẫn nạp vào System Prompt của Gemini AI
+ */
+export function formatArchetypesForGeminiPrompt(): string {
+  let text = `### PROFESSIONAL LOGO DESIGN & BRAND GUIDELINES CURRICULUM (QUY CHUẨN THIẾT KẾ LOGO & CẨM NANG THƯƠNG HIỆU CHUẨN QUỐC TẾ):
+Đúc kết từ giáo trình và cẩm nang thực chiến của VNSkills, DPI Center, BrandsVietnam, Margram, Solution Group, Vareno Agency, ColorMe, GoldIdea và SDmedia:
+
+1. QUY CHUẨN TỶ LỆ LƯỚI & VÙNG AN TOÀN (GRID CONSTRUCTION & CLEAR SPACE):
+- Đơn vị cơ sở X: Xác định chiều cao của biểu tượng chính hoặc chữ hoa đầu tiên làm đơn vị X.
+- Vùng an toàn (Clear space / Quiet zone): Khoảng cách tối thiểu xung quanh 4 phía của logo bắt buộc phải >= 1X. Không được để bất kỳ yếu tố đồ họa hay chữ nào xâm phạm vùng này.
+- Cân bằng thị giác (Optical Balance): Tâm thị giác (visual center) phải được căn chỉnh mượt mà theo tỷ lệ vàng phi ≈ 1.618.
+
+2. BÍ QUYẾT SÁNG TẠO MONOGRAM 2 CHỮ CÁI (TWO-LETTER MONOGRAM TECHNIQUES - SDMEDIA & DPI CENTER):
+- Khi thiết kế Monogram dạng 2 chữ cái (từ 2 ký tự đầu hoặc tên viết tắt của thương hiệu):
+  + Kỹ thuật Interlocking: Lồng ghép 2 chữ cái xuyên qua nhau như móc xích (ví dụ: Chanel, Gucci).
+  + Kỹ thuật Shared Stroke: Cho nét đứng hoặc nét cong của chữ cái thứ nhất làm điểm xuất phát cho chữ cái thứ hai.
+  + Kỹ thuật Negative Space: Tận dụng khoảng trống âm giữa 2 chữ cái để khắc họa biểu tượng ngành nghề.
+  + Tương phản nét thanh nét đậm: Sử dụng phong cách Modern Serif hoặc High-Contrast Geometric để tạo vẻ uy quyền hoàng gia.
+
+3. HỆ THỐNG 4 BẢNG MÃ MÀU BẮT BUỘC (4-SYSTEM COLOR CODES):
+- Mọi màu sắc trong bảng màu nhận diện phải cung cấp đủ: HEX, RGB, CMYK (in ấn offset) và Pantone PMS (màu pha chuẩn quốc tế).
+
+4. QUY CHUẨN KÍCH THƯỚC TỐI THIỂU & 8 ĐIỀU CẤM KỴ (LOGO DON'TS):
+- Kích thước in ấn tối thiểu: 20mm. Kích thước hiển thị màn hình tối thiểu: 60px (Favicon 16x16px).
+- Tuyệt đối: Không méo tỷ lệ, không đổi màu tùy tiện, không xoay nghiêng, không thêm bóng đổ 3D rườm rà, không vi phạm vùng an toàn 1X.
+
+---
+
+### VECTOR DESIGN ARCHETYPES KNOWLEDGE BASE (KHO TRI THỨC HÌNH HỌC THIẾT KẾ):
+
+`;
+
+  for (const [key, arch] of Object.entries(DESIGN_ARCHETYPES)) {
+    text += `#### [ARCHETYPE: ${key}] - ${arch.styleName}\n`;
+    text += `- Ngành nghề mục tiêu: ${arch.targetIndustries.join(", ")}\n`;
+    text += `- Ẩn dụ thị giác: ${arch.visualMetaphors.join(", ")}\n`;
+    text += `- Phân cấp nét vẽ (Stroke Hierarchy): Nét chính ${arch.geometryRules.strokeHierarchy.primary}, Nét phụ ${arch.geometryRules.strokeHierarchy.secondary}, Nét điểm nhấn ${arch.geometryRules.strokeHierarchy.accent}\n`;
+    text += `- Hình khối khuyên dùng: ${arch.geometryRules.recommendedShapes.join(", ")}\n`;
+    text += `- Đoạn mã SVG mẫu tham chiếu cho #logo-emblem:\n\`\`\`xml\n${arch.sampleSvgSnippet}\n\`\`\`\n\n`;
+  }
+
+  return text;
+}

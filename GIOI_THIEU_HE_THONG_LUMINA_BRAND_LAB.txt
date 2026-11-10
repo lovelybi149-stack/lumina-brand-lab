@@ -1,0 +1,538 @@
+================================================================================
+                    LUMINA BRAND LAB — HỒ SƠ TOÀN DIỆN HỆ THỐNG
+      XƯỞNG SÁNG TẠO BẢN SẮC THƯƠNG HIỆU BÁN TỰ ĐỘNG THẾ HỆ MỚI (HYBRID AI STUDIO)
+================================================================================
+
+Tài liệu: BẢN THUYẾT MINH TOÀN DIỆN VỀ TÍNH NĂNG, VẬN HÀNH VÀ KIẾN TRÚC XÂY DỰNG
+Mục đích: Cung cấp tài liệu thuyết trình đầy đủ, chuyên sâu và thuyết phục nhất 
+          dành cho Khách hàng doanh nghiệp, Đối tác chiến lược và Đội ngũ sáng tạo.
+Đơn vị phát triển: Lumina Brand Lab Architecture & Engineering Team
+Hệ thống vận hành: Next.js 14 App Router / TypeScript / Pure Mathematical Vector / AI Curation Studio
+
+--------------------------------------------------------------------------------
+MỤC LỤC CHI TIẾT
+--------------------------------------------------------------------------------
+CHƯƠNG 1: TỔNG QUAN, TẦM NHÌN & MÔ HÌNH VẬN HÀNH ĐỘT PHÁ (HYBRID AI)
+CHƯƠNG 2: BẢN ĐỒ KIẾN TRÚC TOÀN DIỆN CỦA HỆ THỐNG (SYSTEM ARCHITECTURE)
+CHƯƠNG 3: CHI TIẾT TẤT CẢ TÍNH NĂNG THEO TỪNG PHÂN HỆ
+   3.1. Phân hệ 1: Cổng Khách Hàng & Smart Brief Wizard Đa Bước
+   3.2. Phân hệ 2: Cổng Tra Cứu, Trình Diễn Proposal & Nghiệm Thu Trực Tuyến
+   3.3. Phân hệ 3: Kho Thư Viện Nhận Diện & Quản Trị Tài Sản Số (DAM Library)
+   3.4. Phân hệ 4: Bàn Làm Việc Giám Đốc Sáng Tạo (Admin Curation Workspace)
+   3.5. Phân hệ 5: Động Cơ AI Đồ Họa & Dịch Vụ Phối Cảnh Mockup Thực Tế
+   3.6. Phân hệ 6: Thư Viện Hình Học Vector Toán Học Thuần Túy (9 Archetypes)
+   3.7. Phân hệ 7: Hệ Thống Biên Dịch & Đóng Gói Tự Động (Asset Exporter Engine)
+CHƯƠNG 4: HỆ THỐNG KIỂM ĐỊNH TOÁN HỌC 5 CỔNG CHẤT LƯỢNG (5 POPPER GATES)
+CHƯƠNG 5: QUY TRÌNH VẬN HÀNH ĐẦU-CUỐI TRONG THỰC TẾ (END-TO-END WORKFLOW)
+CHƯƠNG 6: CÁC BƯỚC XÂY DỰNG & CÔNG NGHỆ NỀN TẢNG (CONSTRUCTION & TECH STACK)
+CHƯƠNG 7: BỘ TÀI SẢN BÀN GIAO TRỌN ĐỜI & LỢI THẾ CẠNH TRANH CHO DOANH NGHIỆP
+
+
+================================================================================
+CHƯƠNG 1: TỔNG QUAN, TẦM NHÌN & MÔ HÌNH VẬN HÀNH ĐỘT PHÁ (HYBRID AI)
+================================================================================
+
+1.1. BỐI CẢNH & NỖI ĐAU THỊ TRƯỜNG THIẾT KẾ NHẬN DIỆN THƯƠNG HIỆU:
+Mọi doanh nghiệp khi thành lập hoặc tái định vị đều cần một bộ nhận diện thương 
+hiệu (Logo, Màu sắc, Font chữ, Cẩm nang ứng dụng, Mockup bao bì danh thiếp). 
+Tuy nhiên, họ luôn phải đối mặt với hai thái cực bất cập:
+- Thái cực 1 - Thuê Agency Truyền Thống: Chi phí rất đắt đỏ (từ 20 đến 150 triệu 
+  đồng), thời gian chờ đợi kéo dài 3 - 6 tuần, quy trình trao đổi họp hành phức 
+  tạp, dễ trễ tiến độ ra mắt thị trường.
+- Thái cực 2 - Dùng Công Cụ Tự Động Giá Rẻ (Template Generator / Logo Maker Online): 
+  Mẫu mã rập khuôn từ kho icon có sẵn, hình ảnh vỡ hạt (bitmap/raster), không 
+  đúng bản sắc văn hóa và đặc thù ngành nghề Việt Nam, hoàn toàn không thể dùng 
+  để in ấn bao bì hay thi công biển hiệu khổ lớn.
+
+1.2. ĐỊNH VỊ VÀ GIẢI PHÁP CỦA LUMINA BRAND LAB:
+Lumina Brand Lab định vị là "Xưởng Sáng Tạo Bản Sắc Thương Hiệu Bán Tự Động".
+Mô hình vận hành cốt lõi là HYBRID AI & HUMAN CURATION (Trí tuệ nhân tạo khởi 
+tạo thần tốc kết hợp Giám đốc Sáng tạo tinh tuyển và bảo chứng):
+- Tốc độ vượt trội: Khởi tạo concept và hoàn tất bàn giao trong vòng 24 GIỜ (Gói Hỏa 
+  tốc) hoặc 3 NGÀY (Gói Tiêu chuẩn).
+- Chi phí tối ưu: Tiết kiệm tới 70% ngân sách so với thuê agency lớn.
+- Chất lượng đạt chuẩn quốc tế: 100% hình học vector toán học thuần túy 
+  (không dùng ảnh ghép), tuân thủ tỷ lệ vàng Phi = 1.618, vùng an toàn 1X, 
+  hệ thống 4 bảng mã màu chuyên nghiệp (HEX, RGB, CMYK, Pantone PMS).
+- Tinh tuyển bởi chuyên gia: Mỗi đơn hàng đều được duyệt qua Bàn làm việc của 
+  Giám đốc Sáng tạo (Creative Director Workspace) để đảm bảo chiều sâu thẩm mỹ.
+
+
+================================================================================
+CHƯƠNG 2: BẢN ĐỒ KIẾN TRÚC TOÀN DIỆN CỦA HỆ THỐNG (SYSTEM ARCHITECTURE)
+================================================================================
+
+Hệ thống Lumina Brand Lab được xây dựng theo kiến trúc phân tầng module hóa 
+hiện đại (Modular Service-Oriented Architecture), đảm bảo vận hành ổn định, 
+tốc độ tải tức thì và bảo mật tuyệt đối:
+
++-----------------------------------------------------------------------------+
+|                               NGƯỜI DÙNG                                    |
+|   [Khách Hàng Doanh Nghiệp]                [Giám Đốc Sáng Tạo / Admin]      |
++----------------------+------------------------------------+-----------------+
+                       |                                    |
++----------------------v------------------------------------v-----------------+
+|                         TẦNG GIAO DIỆN (UI LAYER)                           |
+|  - Cổng Khách Hàng (Landing Page, Smart Brief Wizard, Dynamic Pricing)       |
+|  - Cổng Tra Cứu & Nghiệm Thu (Client Review & Interactive Proposal Portal)  |
+|  - Kho Thư Viện Nhận Diện & Tài Sản Số (DAM Asset Library)                  |
+|  - Bàn Làm Việc Admin (Curation Workspace, Live Preview 1:1, AI Command)    |
++-------------------------------------+---------------------------------------+
+                                      |
++-------------------------------------v---------------------------------------+
+|                    TẦNG XỬ LÝ & ĐIỀU HỢP (BACKEND API LAYER)                |
+|  - /api/brief: Tiếp nhận brief, bóc tách ngôn ngữ, sinh mã đơn hàng VIP     |
+|  - /api/projects/[id]/ai-variation: Thực thi biến thể AI thời gian thực     |
+|  - /api/projects/[id]/approve & complete: Nghiệm thu & kích hoạt xuất tệp   |
+|  - /api/review/lookup & submit-feedback: Tra cứu mã & nhận phản hồi khách   |
+|  - /api/admin/auth: Bảo mật phiên làm việc chuyên gia                       |
++-------------------------------------+---------------------------------------+
+                                      |
++-------------------------------------v---------------------------------------+
+|               TẦNG ĐỘNG CƠ CỐT LÕI (CORE ENGINES & SERVICES)                |
+|  - Pure Vector Engine (brandMarkEngines.ts): 9 Archetypes toán học Bezier   |
+|  - Industry Brand Kit (industryBrandKit.ts): Nhận diện 9 nhóm ngành chuyên  |
+|  - AI Designer Service (aiBrandDesignerService.ts): Điều phối Gemini AI     |
+|  - Imagery Service (pollinationsService.ts / imagenHelper.ts): FLUX.1 Studio|
+|  - Mockup Engine 2.0 (mockupService.ts): Ghép vector lên phôi thực tế        |
+|  - Automated Asset Exporter (exportGenerator.ts): SVG, PNG 300DPI, PDFKit   |
+|  - 5 Popper Gates Auditor (opticalAudit.js / svgGenerator.js): Đo quang học |
++-------------------------------------+---------------------------------------+
+                                      |
++-------------------------------------v---------------------------------------+
+|                    TẦNG LƯU TRỮ & DỮ LIỆU (PERSISTENCE)                     |
+|  - Bản ghi hồ sơ dự án JSON (curated_records/*.json)                        |
+|  - Sổ theo dõi Brief CSV thời gian thực (data/briefs.csv)                   |
+|  - Kho tài nguyên Mockups & Template chuẩn (/public/mockups/)               |
+|  - Thư mục xuất bản phẩm bàn giao (/exports/)                               |
++-----------------------------------------------------------------------------+
+
+
+================================================================================
+CHƯƠNG 3: CHI TIẾT TẤT CẢ TÍNH NĂNG THEO TỪNG PHÂN HỆ
+================================================================================
+
+--------------------------------------------------------------------------------
+3.1. PHÂN HỆ 1: CỔNG KHÁCH HÀNG & SMART BRIEF WIZARD ĐA BƯỚC
+--------------------------------------------------------------------------------
+Nơi khách hàng khởi tạo yêu cầu thiết kế một cách mạch lạc, không cần kiến thức 
+chuyên môn đồ họa:
+
+1. TRANG CHỦ & HERO SECTION CAO CẤP (/):
+   - Ngôn ngữ thiết kế Dark & Gold Luxury, hiệu ứng ánh sáng nền Breathing Aura.
+   - Thanh điều hướng Studio Navbar: Giới thiệu, Kho mẫu nhận diện, Tra cứu đơn hàng.
+   - Tiêu đề định vị bản sắc và cam kết bàn giao 24 giờ.
+   - Nút kêu gọi hành động "Bắt đầu Gửi Brief Thiết Kế" cuộn mượt mà xuống biểu mẫu.
+
+2. CASE STUDY ĐIỂN HÌNH (FEATURED CASE STUDY PREVIEW):
+   - Trưng bày dự án mẫu thực tế "Gió Mộc Coffee" để khách hàng trực tiếp kiểm 
+     chứng chất lượng sản phẩm mẫu từ câu chuyện, logo, màu sắc đến mockup.
+
+3. SMART BRIEF STEPPER WIZARD (BIỂU MẪU 5 BƯỚC CHUẨN XÁC):
+   - Thanh tiến trình Stepper trực quan (1 -> 5) hiển thị tiến độ hoàn thành.
+   - Bước 1: Định danh thương hiệu
+     + Nhập Tên thương hiệu (Brand Name).
+     + Nhập Slogan/Tagline (hoặc tích chọn để AI tự sáng tác câu chuyện).
+     + Chọn Ngành nghề kinh doanh (Hệ thống tự động nạp placeholder gợi ý 
+       chân dung khách hàng mẫu tương ứng).
+     + Nhập Khách hàng mục tiêu (Target Audience).
+   - Bước 2: Định dạng Logo (Logo Format)
+     + Trình bày 4 thẻ lựa chọn trực quan có kèm ví dụ minh họa kinh điển:
+       * Wordmark (Kiểu chữ thuần túy như Google, Braun, Sony).
+       * Icon / Symbol (Biểu tượng tối giản như Apple, Twitter, Nike).
+       * Combination Mark (Biểu tượng kết hợp chữ như Adidas, Lacoste, Lumina - Khuyên dùng).
+       * Mascot / Illustrative (Linh vật / Biểu trưng cảm xúc).
+   - Bước 3: Tông màu chủ đạo (Color Swatches)
+     + Bảng thẻ màu hiển thị mã HEX và preview màu sắc thực tế.
+     + Lựa chọn: AI Optimal Suggestion (AI tự do đề xuất bảng màu tối ưu theo 
+       ngành hàng), Warm & Vibrant, Nature Eco Green, Minimalist Black & White, 
+       Royal Luxury Gold, v.v.
+   - Bước 4: Phong cách & Cảm xúc (Style Vibes)
+     + Cho phép chọn tối đa 3 phong cách định hình cá tính thương hiệu: 
+       Minimalist, Modern, Luxury, Tech/Geometric, Organic/Rustic, Editorial.
+   - Bước 5: Thông tin liên hệ & Cấu hình đơn hàng
+     + Nhập Tên người đại diện, Số điện thoại / Zalo nhận tin, Email nhận tệp.
+
+4. BỘ TÍNH BÁO GIÁ ĐỘNG THỜI GIAN THỰC (DYNAMIC PRICING CONFIGURATOR):
+   - Tự động tính toán giá tiền minh bạch dựa trên ma trận tiêu chuẩn:
+     * Thời gian bàn giao: 24 Giờ (Hỏa tốc) hoặc 3 Ngày (Tiêu chuẩn).
+     * Số phương án Logo Master: 1 Option hoặc 3 Options so sánh.
+     * Số vòng chỉnh sửa nghiệm thu: 1 lần hoặc 2 lần.
+   - Hiển thị mức giá niêm yết chính xác bằng VNĐ kèm tên gói dịch vụ (Gói Express 
+     Tiết Kiệm, Gói Express Tiêu Chuẩn, Gói Chuyên Nghiệp Toàn Diện), cam kết không 
+     phát sinh bất kỳ phụ phí ẩn nào.
+
+5. MÀN HÌNH KHỞI TẠO THẦN TỐC (PROCESSING ANIMATION SCREEN):
+   - Mô phỏng quá trình AI tính toán qua 4 cột mốc thời gian thực:
+     (1) Tiếp nhận & Chuẩn hóa thông tin Brief.
+     (2) Phân tích đối tượng mục tiêu & Đề xuất hệ 4 bảng màu.
+     (3) Khởi tạo các concept Logo Vector tỷ lệ vàng.
+     (4) Chuyển hồ sơ đến Bàn làm việc của Giám đốc Sáng tạo.
+
+6. MÀN HÌNH THÀNH CÔNG & THẺ CĂN CƯỚC ĐƠN HÀNG VIP (VIP ORDER PASSCARD):
+   - Cấp ngay Mã đơn hàng độc quyền (Mã tra cứu chính thức, VD: LUMINA-08, LUMINA-11).
+   - Tích hợp nút "Chép mã" 1-chạm và nút "Sao chép toàn bộ thẻ đơn hàng VIP".
+   - Cơ chế phòng vệ chủ động: Tự động gán mã an toàn trong 1.5 giây, tuyệt đối 
+     không bao giờ để khách hàng bị treo chờ "Đang cấp mã...".
+   - Hiển thị đầy đủ thông tin: Thương hiệu, Người đại diện, Gói dịch vụ, Báo giá, 
+     Cam kết thời gian hoàn tất, Nút mở trực tiếp cổng duyệt mẫu online và 
+     Hotline hỗ trợ riêng của Giám đốc Sáng tạo.
+
+--------------------------------------------------------------------------------
+3.2. PHÂN HỆ 2: CỔNG TRA CỨU, TRÌNH DIỄN PROPOSAL & NGHIỆM THU TRỰC TUYẾN
+--------------------------------------------------------------------------------
+Cổng thông tin dành cho khách hàng truy cập độc lập tại (/review) hoặc (/tra-cuu):
+
+1. HỆ THỐNG TRA CỨU KHÔNG CẦN TẠO TÀI KHOẢN (PASSWORDLESS LOOKUP):
+   - Khách hàng chỉ cần nhập Số điện thoại đã đăng ký hoặc Mã đơn hàng VIP.
+   - Hệ thống tự động xác thực và mở ngay hồ sơ dự án tương ứng.
+
+2. BẢN THUYẾT MINH THƯƠNG HIỆU TƯƠNG TÁC (INTERACTIVE BRAND PROPOSAL):
+   - Thiết kế giao diện như một bài Pitch Deck thương hiệu của Agency quốc tế:
+     + Phần 1: Bìa dự án, Tên thương hiệu, Slogan chính thức, Mã dự án và 
+       Thông tin giám sát nghệ thuật.
+     + Phần 2: Câu chuyện thương hiệu độc bản (Brand Story) và Phân tích tính cách.
+     + Phần 3: Hệ thống bảng màu nhận diện trực quan (Hiển thị đầy đủ 4 chuẩn mã: 
+       HEX, RGB, CMYK in ấn offset và Pantone PMS pha sẵn).
+     + Phần 4: Typography & Phân cấp tỷ lệ chữ (Cặp font tiêu đề và nội dung).
+     + Phần 5: Lưới so sánh trực tiếp các phương án Logo Master (Option 1, 2, 3).
+     + Phần 6: Bộ ảnh phối cảnh thực tế (Mockups) trên Danh thiếp, Hộp bao bì, 
+       Ly tách, Biển hiệu phát sáng showroom.
+
+3. CƠ CHẾ SO SÁNH PHƯƠNG ÁN & PHẢN HỒI THỜI GIAN THỰC (FEEDBACK LOOP):
+   - Khách hàng có thể chuyển đổi giữa Option 1, Option 2, Option 3 để đánh giá.
+   - Nút chuyển chế độ nền sáng / nền tối để kiểm tra độ tương phản thực tế.
+   - Khung gửi phản hồi trực tiếp: Khách hàng nhập yêu cầu chỉnh sửa (VD: "Tăng kích 
+     thước icon lên 10%", "Đổi sang màu vàng kim"). Yêu cầu này lập tức bắn thẳng 
+     vào Bàn làm việc của Giám đốc Sáng tạo kèm chuông cảnh báo.
+
+4. NÚT PHÊ DUYỆT & NGHIỆM THU ĐƠN HÀNG 1-CHẠM:
+   - Khi hài lòng, khách hàng bấm "Chốt Nghiệm Thu Mẫu Này".
+   - Hệ thống khóa trạng thái dự án, lưu trữ lựa chọn chính thức và tự động kích 
+     hoạt bộ đóng gói xuất tệp in ấn hoàn chỉnh.
+
+--------------------------------------------------------------------------------
+3.3. PHÂN HỆ 3: KHO THƯ VIỆN NHẬN DIỆN & QUẢN TRỊ TÀI SẢN SỐ (DAM LIBRARY)
+--------------------------------------------------------------------------------
+Không gian lưu trữ và chia sẻ tài sản số thương hiệu chuyên nghiệp tại (/library):
+
+1. BỘ LỌC TÀI NGUYÊN ĐA CHIỀU (MULTI-ASSET FILTER):
+   - Lọc theo loại tài sản: Mockups phối cảnh, Moodboards cảm hứng, Textures chất liệu.
+   - Lọc theo ngành nghề: Công nghệ, Thời trang, F&B, Nông sản, Bất động sản, In ấn.
+   - Lọc theo phong cách thẩm mỹ: Minimalist, Luxury, Brutalist, Organic.
+
+2. CỬA SỔ CHỌN TÀI SẢN TƯƠNG TÁC (ASSET PICKER MODAL):
+   - Tích hợp trực tiếp vào Bàn làm việc Admin, cho phép Giám đốc Sáng tạo duyệt và 
+     gắn nhanh các mockup cao cấp vào hồ sơ dự án của khách hàng.
+
+3. KHO DỰ ÁN MẪU & LƯU TRỮ ẤN PHẨM BÀN GIAO:
+   - Lưu trữ danh mục các dự án đã hoàn tất kèm link Proposal công khai (/p/[slug]).
+   - Cung cấp tính năng tải xuống trực tiếp các gói tệp (Logo vector SVG, PNG 300DPI, 
+     Cẩm nang PDF).
+
+--------------------------------------------------------------------------------
+3.4. PHÂN HỆ 4: BÀN LÀM VIỆC GIÁM ĐỐC SÁNG TẠO (ADMIN CURATION WORKSPACE)
+--------------------------------------------------------------------------------
+Trái tim chuyên môn của Lumina Brand Lab tại (/admin):
+
+1. BẢO MẬT PHIÊN LÀM VIỆC CHUYÊN GIA:
+   - Đăng nhập bảo mật thông qua token mã hóa chuyên dụng (/admin/login).
+   - Tự động kiểm tra quyền hạn (Auth check) trước khi tải dữ liệu nhạy cảm.
+
+2. PIPELINE ĐIỀU HÀNH DỰ ÁN TRỰC QUAN (PROJECTS PIPELINE):
+   - Quản lý toàn bộ danh sách đơn hàng với bộ lọc trạng thái:
+     * Chờ Duyệt Thẩm Mỹ (Mới tiếp nhận từ khách).
+     * Đang Sửa Theo Góp Ý (Khách hàng vừa gửi phản hồi điều chỉnh).
+     * Đợt Duyệt Nghiệm Thu Cuối Cùng.
+     * Đã Hoàn Tất / Đã Nghiệm Thu.
+   - Thẻ dự án hiển thị đầy đủ: Mã đơn hàng, Tên thương hiệu, Ngành nghề, Thời gian 
+     gửi, Gói dịch vụ đã chọn và Huy hiệu trạng thái nổi bật.
+
+3. KHÔNG GIAN THẨM ĐỊNH LIVE PREVIEW 1:1:
+   - Khung xem trước vector thời gian thực với kích thước chuẩn xác.
+   - Công tắc bật/tắt Lưới căn chỉnh tỷ lệ vàng (Alignment Grid) để kiểm tra tâm 
+     thị giác và vùng an toàn 1X.
+   - Công tắc Nền Sáng Mộc (Plain Light) và Khung Pitch Deck 16:9.
+
+4. BỘ CÔNG CỤ ĐIỀU KHIỂN HÌNH HỌC LOGO MASTER:
+   - Can thiệp trực tiếp vị trí X (-100 đến +100 px), vị trí Y (-100 đến +100 px).
+   - Tinh chỉnh tỷ lệ kích thước Icon Scale (0.5x đến 2.0x).
+   - Tinh chỉnh khoảng cách ký tự Letter Spacing.
+   - Chuyển đổi linh hoạt bố cục: Dạng đứng (Stacked) hoặc Dạng ngang (Horizontal).
+   - Chọn nhanh hình dáng bảo trợ: Circle, Tech, Luxury, Monogram, Organic.
+
+5. THANH LỆNH AI THIẾT KẾ SIÊU TỐC (AI COMMAND BAR):
+   - Cho phép Giám đốc Sáng tạo ra lệnh bằng ngôn ngữ tự nhiên để AI thực thi ngay:
+     * Lệnh kích thước: "Tăng icon 10%", "Thu nhỏ icon 15%".
+     * Lệnh phong cách: "Monogram CC lồng ghép", "Vành đai đồng tâm", "Dòng chảy vô cực".
+     * Lệnh bảng màu: "Đổi màu Pink cánh bướm", "Champagne Gold quý tộc", "Xanh ngọc sinh thái".
+     * Lệnh biểu tượng: "Thêm nụ cười rạng rỡ", "Cấu trúc tổ ong vàng", "Mầm lá hữu cơ".
+   - Thanh gợi ý nhanh (Quick Prompt Chips) với các nút bấm 1-chạm giúp thao tác 
+     trong vòng 1 giây.
+
+6. TRÌNH SOẠN THẢO XML / SVG TRỰC TIẾP:
+   - Cho phép chuyên gia đồ họa can thiệp trực tiếp mã nguồn SVG, chỉnh sửa từng 
+     tọa độ Bezier <path>, mặt nạ <mask>, gradient <defs> mà không cần mở Illustrator.
+   - Nút "Áp Dụng Mã SVG Này" cập nhật ngay lập tức vào màn hình xem trước.
+
+7. BỐN TAB BIÊN TẬP CHUYÊN SÂU:
+   - Tab 1 - Brief Info: Xem chi tiết yêu cầu ban đầu, thông tin liên hệ và phản hồi 
+     gần nhất của khách hàng.
+   - Tab 2 - Nội Dung: Tinh chỉnh Slogan, danh sách Taglines gợi ý và viết lại Câu 
+     chuyện thương hiệu (Brand Story) phù hợp với triết lý kinh doanh.
+   - Tab 3 - Bảng Màu & Typography: Thay đổi màu Primary, Secondary, Accent, Neutral; 
+     tự động quy đổi ra 4 chuẩn mã (HEX, RGB, CMYK, Pantone) và lựa chọn cặp font chữ.
+   - Tab 4 - Logo Master (3 Options): Quản lý đồng thời cả 3 phương án thiết kế, 
+     chuyển đổi qua lại để so sánh và lựa chọn phương án mặc định.
+
+8. CẤU HÌNH CHẾ ĐỘ BÀN GIAO CHO KHÁCH:
+   - Gói Tiêu Chuẩn (Bản chốt duy nhất): Chuyên gia chọn 1 Option xuất sắc nhất; 
+     khách mở cổng duyệt mẫu sẽ nhận ngay bản chốt chuẩn mực.
+   - Gói Chuyên Nghiệp (Khách tự chọn 1 trong 3): Proposal hiển thị lưới so sánh cả 
+     3 Option; khách hàng tự do click chọn phương án mình yêu thích nhất trước khi 
+     nhận file.
+
+9. BỘ PHÍM HÀNH ĐỘNG PHÊ DUYỆT & XUẤT TỆP:
+   - "Lưu Bản Nháp": Đồng bộ trạng thái chỉnh sửa vào hệ thống.
+   - "Tải Thử SVG": Tải file vector của option đang chọn để kiểm tra trên máy tính.
+   - "Gửi Bản Thiết Kế / Bản Chốt Cho Khách": Tự động kích hoạt thông báo và gửi 
+     link truy cập tới khách hàng.
+   - "Phê Duyệt & Xuất Bản Trọn Bộ File Bàn Giao": Hoàn tất quy trình, tạo tệp 
+     vector in ấn, ảnh 300DPI và cẩm nang thương hiệu PDF.
+
+--------------------------------------------------------------------------------
+3.5. PHÂN HỆ 5: ĐỘNG CƠ AI ĐỒ HỌA & DỊCH VỤ PHỐI CẢNH MOCKUP THỰC TẾ
+--------------------------------------------------------------------------------
+
+1. ĐỘNG CƠ HÌNH ẢNH FLUX.1 (POLLINATIONS.AI SERVICE):
+   - Tự động sinh ảnh Moodboard chất lượng cao (1200x800 px) theo công thức Studio 
+     Photography 5 thành tố:
+     [Chủ thể sản phẩm] + [Phong cách thương hiệu] + [Chất liệu & Ánh sáng] + 
+     [Bảng màu chuẩn ngành] + [Góc máy & Cảm xúc điện ảnh].
+   - Giúp khách hàng hình dung không gian và cảm xúc thương hiệu sống động.
+
+2. ĐỘNG CƠ PROMPT ENGINEERING GOOGLE IMAGEN 3 (IMAGEN HELPER):
+   - Tự động biên soạn câu lệnh mô tả chuẩn tạp chí nghệ thuật (Kinfolk / Cereal 
+     editorial aesthetics) dựa trên tỷ lệ phối màu 60-30-10 và tính cách thương hiệu.
+
+3. MOCKUP GENERATOR SERVICE 2.0:
+   - Quản lý kho phôi ảnh thực tế (Blank Mockup Templates): Danh thiếp cotton dập nổi, 
+     Bao bì hộp giấy kraft tự nhiên, Ly tách gốm sứ thủ công, Biển hiệu kim loại gắn tường.
+   - Tự động tách nền logo vector, khử viền đục, áp màu thương hiệu và tạo hiệu 
+     ứng dập chìm (deboss/letterpress) quang học chân thực.
+
+--------------------------------------------------------------------------------
+3.6. PHÂN HỆ 6: THƯ VIỆN HÌNH HỌC VECTOR TOÁN HỌC THUẦN TÚY (9 ARCHETYPES)
+--------------------------------------------------------------------------------
+Toàn bộ biểu tượng trong Lumina Brand Lab được sinh ra từ các công thức toán học 
+Bezier chuẩn mực quốc tế (trong file lib/brandMarkEngines.ts), nói không với hình 
+ảnh cắt ghép:
+
+1. HAUTE COUTURE MIRRORED INTERLOCKING TWIN MONOGRAM (CHANEL / COCO CC STYLE):
+   - Kỹ thuật Monogram 2 chữ cái đối xứng gương với độ dày nét 14px chuẩn tỷ lệ vàng.
+   - Tích hợp SVG Mask âm bản (#cc-weave-mask): Cắt khe hở quang học chính xác tại 
+     giao điểm, tạo hiệu ứng 1 nét luồn bên trên, 1 nét luồn bên dưới như móc xích 
+     kim loại quý thực thụ của các nhà mốt Haute Couture Paris.
+
+2. BOLD GEOMETRIC DUO-LIGATURE MONOGRAM (AS CREATIVE ARCHETYPE):
+   - Khối hình học đúc đặc dày dặn (22px), liên kết 2 chữ cái liền mạch qua thân 
+     chung và góc vát sắc sảo (chamfer).
+   - Tích hợp vệt nhấn góc nghiêng động học (Dynamic Angled Parallelogram Accent 
+     Slash) nghiêng 60 độ tạo cảm giác bứt phá, thể thao và công nghệ hiện đại.
+
+3. CONCENTRIC GOLDEN RATIO LABYRINTH TARGET (CONCENTRIC TARGET):
+   - 4 tầng cung tròn Bezier đồng tâm với bán kính R = 74, 54, 35, 18 px và độ dày 
+     nét giảm dần từ 7.5px về 6px.
+   - Khe mở tỷ lệ vàng 60 độ khéo léo tạo hình ký tự mở và hạt ngọc quang học hội 
+     tụ tại tâm điểm, biểu trưng cho chuẩn mực đo lường và điểm tựa vững chãi.
+
+4. CONTINUOUS INFINITY RIBBON LIGATURE:
+   - Dải ruy băng vô cực đơn nét uốn lượn liên hoàn không đứt đoạn qua các ký tự 
+     thương hiệu, đại diện cho vẻ đẹp bất tận và tính tuần hoàn phát triển vĩnh cửu.
+
+5. HONEYCOMB HEXAGON ARCHITECTURE (CHUYÊN CHO GIÁO DỤC, CO-WORKING & TOONG):
+   - Khối lục giác tổ ong 3 tầng liên kết, tạo hình không gian âm bản chữ cái T 
+     vững chãi màu vàng cam hổ phách, tượng trưng cho sự gắn kết tri thức và sáng tạo.
+
+6. BOTANICAL CIRCULAR HARVEST SHIELD (CHUYÊN CHO NÔNG NGHIỆP SẠCH & GREEN FARM):
+   - Khung tròn bảo hộ kép sinh thái bao bọc mầm lá xanh ngọc vươn cao đón ánh dương, 
+     đáp ứng chuẩn mực biểu tượng thực phẩm sạch, an lành từ nông trại đến bàn ăn.
+
+7. RADIANT GEOMETRIC SMILE CRESCENT (CHUYÊN CHO NHA KHOA, SỨC KHỎE & SMILE):
+   - Đường cong nụ cười rạng rỡ 14px tỷ lệ vàng, hòa quyện đôi mắt ánh dương và tinh 
+     thể rực rỡ, mang lại cảm giác thân thiện, uy tín và niềm tin tuyệt đối.
+
+8. ISOMETRIC TECH CUBE & DIGITAL CIRCUIT NODES (CHUYÊN CHO TECH & AI):
+   - Khối lập phương không gian đa giác và mạng lưới vi mạch số sắc sảo dành riêng 
+     cho các tập đoàn công nghệ, phần mềm và AI thế hệ mới.
+
+9. ORGANIC SQUIRCLE & CONCENTRIC CRESCENT:
+   - Khung hình học Squircle bo góc kết hợp các lớp cắt cung tròn hữu cơ và mảng 
+     âm bản trăng khuyết tinh tế.
+
+--------------------------------------------------------------------------------
+3.7. PHÂN HỆ 7: HỆ THỐNG BIÊN DỊCH & ĐÓNG GÓI TỰ ĐỘNG (ASSET EXPORTER ENGINE)
+--------------------------------------------------------------------------------
+Khi nghiệm thu dự án, dịch vụ xuất bản tự động (lib/exportGenerator.ts) tiến hành:
+1. Xuất file vector Master gốc: logo_master.svg chuẩn W3C.
+2. Xuất ảnh độ phân giải cao 300 DPI trong suốt: logo_transparent.png thông qua thư 
+   viện đồ họa Sharp, kích thước siêu nét 4000x4000px.
+3. Xuất Cẩm nang nhận diện thương hiệu PDF 5 trang chuẩn Pitch Deck 16:9 
+   (brand_guideline.pdf) thông qua PDFKit:
+   - Trang 1: Bìa nhận diện thương hiệu chính thức.
+   - Trang 2: Câu chuyện thương hiệu & Định vị chân dung khách hàng.
+   - Trang 3: Bảng màu nhận diện (Mã màu HEX, RGB, CMYK in ấn offset, nguyên lý 60-30-10).
+   - Trang 4: Quy chuẩn tỷ lệ Typography & Bảng chữ cái hoa/thường/số.
+   - Trang 5: Bộ phối cảnh ứng dụng thực tế trên danh thiếp, bao bì và biển hiệu.
+4. Xuất cẩm nang thương hiệu dạng web tương tác độc lập (Brand-Guideline.html).
+
+
+================================================================================
+CHƯƠNG 4: HỆ THỐNG KIỂM ĐỊNH TOÁN HỌC 5 CỔNG CHẤT LƯỢNG (5 POPPER GATES)
+================================================================================
+
+Nhằm loại bỏ hoàn toàn tình trạng logo nghiệp dư, méo hình, lệch tâm hay vỡ nét, 
+Lumina Brand Lab tích hợp bộ kiểm định chất lượng 5 cổng toán học tự động 
+(chứng chỉ Popper Gates):
+
+[CỔNG 1] ĐỘ TINH KHIẾT VECTOR 100% (VECTOR PURITY):
+- Kiểm tra 100% mã nguồn: Toàn bộ cấu trúc bắt buộc phải là toán học vector thuần 
+  túy (<path>, <polygon>, <circle>, <rect>).
+- Nghiêm cấm tuyệt đối: 0% ảnh raster/bitmap (.jpg, .png, base64), 0% thẻ chữ font 
+  thô sơ đóng dấu tạm bợ. Đảm bảo phóng to kích thước tòa nhà vẫn sắc nét tuyệt đối.
+
+[CỔNG 2] ĐA BIẾN THỂ ỨNG DỤNG ĐỒNG BỘ (MULTI-VARIANT BUNDLE):
+- Tự động sinh và kiểm thử 5 biến thể màu bắt buộc cho mọi thiết kế:
+  1. Full Color Master (Bản màu chuẩn đầy đủ trên nền sáng/tối).
+  2. White Inverted (Bản âm bản màu trắng dùng trên nền ảnh hoặc nền tối màu).
+  3. Dark Monochrome (Bản đơn sắc đen dùng cho in ấn 1 màu / khắc dấu / hóa đơn).
+  4. Minimal Outline (Bản nét viền thanh thoát dùng cho thêu dệt / khắc kim loại).
+  5. Favicon & App Icon 16x16px (Tối ưu cho hiển thị siêu nhỏ).
+
+[CỔNG 3] TỐI ƯU HÓA ĐƯỜNG NÉT & DUNG LƯỢNG (PATH SIMPLICITY & FILE SIZE):
+- Giới hạn số lượng điểm nút (nodes) dưới 150 nodes để đảm bảo đường nét thanh thoát, 
+  máy cắt decal và máy in công nghiệp không bị giật lag.
+- Dung lượng tệp siêu nhẹ (dưới 15 KB), giúp website tải nhanh tức thì.
+
+[CỔNG 4] ĐỘ RÕ NÉT QUANG HỌC Ở KÍCH THƯỚC SIÊU NHỎ 16x16px (OPTICAL CLARITY):
+- Thu nhỏ biểu tượng về kích thước 16x16px để kiểm tra độ dày nét, khoảng hở tối 
+  thiểu và độ tương phản quang học. Điểm đánh giá phải đạt từ 95/100 trở lên.
+
+[CỔNG 5] HIỆU NĂNG TẠO TẬP TIN DƯỚI 500MS (PERFORMANCE BENCHMARK):
+- Toàn bộ quá trình tổng hợp vector, sinh màu và đóng gói Brand Kit hoàn tất 
+  trong thời gian dưới 500 mili-giây.
+
+
+================================================================================
+CHƯƠNG 5: QUY TRÌNH VẬN HÀNH ĐẦU-CUỐI TRONG THỰC TẾ (END-TO-END WORKFLOW)
+================================================================================
+
+Một chu trình hoàn chỉnh từ lúc khách hàng phát sinh nhu cầu đến khi nhận trọn 
+bộ file thiết kế diễn ra qua 7 bước chuẩn mực:
+
+- BƯỚC 1: KHÁCH HÀNG GỬI SMART BRIEF (3 - 5 PHÚT)
+  Khách hàng truy cập website, hoàn thành biểu mẫu 5 bước trực quan, lựa chọn thời 
+  gian hoàn tất (24h hoặc 3 ngày) và nhận ngay Thẻ Căn Cước Đơn Hàng VIP với Mã tra 
+  cứu duy nhất (VD: LUMINA-10).
+
+- BƯỚC 2: AI BÓC TÁCH NGÔN NGỮ & THIẾT LẬP CẤU HÌNH ĐẶC THÙ (TỨC THÌ)
+  Hệ thống tự động phân tích tên thương hiệu, nhận diện âm tiết láy, phân loại 
+  ngành nghề chính xác (Nông sản, Giáo dục, Thời trang, v.v.), thiết lập hệ 4 bảng 
+  màu và tạo bản ghi hồ sơ dự án JSON.
+
+- BƯỚC 3: ĐỘNG CƠ VECTOR TỔNG HỢP 3 OPTION LOGO MASTER (DƯỚI 5 GIÂY)
+  Hệ thống tự động ứng dụng các Archetype hình học phù hợp để dựng 3 phương án 
+  Logo Master riêng biệt (Option 1, 2, 3) đạt chuẩn tỷ lệ vàng và vùng an toàn 1X.
+
+- BƯỚC 4: GIÁM ĐỐC SÁNG TẠO THẨM ĐỊNH & TRAU CHUỐT (CURATION STUDIO)
+  Đơn hàng xuất hiện trên Bàn làm việc Admin. Chuyên gia nghệ thuật kiểm tra tâm thị 
+  giác trên Lưới căn chỉnh tỷ lệ vàng, sử dụng thanh lệnh AI Command Bar để cá nhân 
+  hóa màu sắc và hình học theo các yêu cầu riêng biệt của khách hàng.
+
+- BƯỚC 5: XUẤT BẢN CỔNG DUYỆT MẪU TRỰC TUYẾN CHO KHÁCH HÀNG
+  Hệ thống gửi đường link tra cứu riêng biệt (/review). Khách hàng xem bản Proposal 
+  tương tác, chiêm ngưỡng logo hiển thị trên các phối cảnh thực tế (Mockups) và thử 
+  nghiệm các góc nhìn.
+
+- BƯỚC 6: TIẾP NHẬN PHẢN HỒI & HOÀN THIỆN ĐỢT CUỐI (NẾU CÓ)
+  Nếu khách hàng gửi góp ý (VD: "Đổi màu", "Chỉnh nét"), thông báo tức thì hiển 
+  thị trên màn hình Admin. Giám đốc Sáng tạo tinh chỉnh trực tiếp và cập nhật bản 
+  mới cho khách hàng trong vài phút.
+
+- BƯỚC 7: NGHIỆM THU & TỰ ĐỘNG ĐÓNG GÓI TRỌN BỘ TÀI SẢN THƯƠNG HIỆU
+  Khách hàng bấm nút "Chốt Nghiệm Thu". Hệ thống tự động đóng gói toàn bộ tệp 
+  vector gốc (SVG), ảnh độ phân giải cao (PNG 300DPI), Favicon và Cẩm nang Brand 
+  Guidelines PDF 5 trang để bàn giao vĩnh viễn cho khách hàng.
+
+
+================================================================================
+CHƯƠNG 6: CÁC BƯỚC XÂY DỰNG & CÔNG NGHỆ NỀN TẢNG (CONSTRUCTION & TECH STACK)
+================================================================================
+
+Hệ thống Lumina Brand Lab được xây dựng và hoàn thiện qua 7 cột mốc kỹ thuật chuyên sâu:
+
+6.1. TECH STACK (CÔNG NGHỆ NỀN TẢNG):
+- Framework: Next.js 14 với App Router hiện đại, tối ưu hóa Server-Side Rendering 
+  (SSR) và Static Generation.
+- Ngôn ngữ: TypeScript (Strict Type Safety), loại bỏ hoàn toàn lỗi runtime type.
+- Giao diện: Tailwind CSS với bảng màu Dark & Gold Luxury được thiết kế riêng.
+- Bộ icon: Lucide React sắc sảo, nhẹ nhàng.
+- Thư viện đồ họa & xử lý tệp:
+  + Sharp: Xử lý và xuất ảnh PNG 300DPI tốc độ cao từ SVG.
+  + PDFKit: Biên dịch tài liệu Cẩm nang nhận diện thương hiệu PDF chuẩn in ấn.
+  + Canvas: Đo đạc và kiểm định quang học điểm ảnh Favicon 16x16px.
+- Trí tuệ nhân tạo (AI):
+  + Google Gemini AI: Tiếp nhận brief, phân tích ngôn ngữ học và sinh biến thể SVG.
+  + Pollinations.AI (FLUX.1): Sinh ảnh Moodboard không gian nghệ thuật.
+  + Google Imagen 3: Biên soạn concept ảnh thương hiệu tạp chí cao cấp.
+
+6.2. CÁC BƯỚC XÂY DỰNG HỆ THỐNG (DEVELOPMENT MILESTONES):
+- Cột mốc 1: Xây dựng Cổng Khách hàng (Client Portal), Biểu mẫu Smart Brief 5 bước 
+  và Bộ tính báo giá động thời gian thực (Dynamic Pricing Engine).
+- Cột mốc 2: Thiết kế Bàn làm việc Giám đốc Sáng tạo (Admin Curation Workspace), 
+  màn hình Live Preview 1:1, hệ thống thanh lệnh AI Command Bar và trình biên soạn 
+  mã XML/SVG trực tiếp.
+- Cột mốc 3: Xây dựng Cổng duyệt mẫu tương tác (Client Review Portal) và hệ thống 
+  tra cứu đơn hàng không cần mật khẩu.
+- Cột mốc 4: Tích hợp Động cơ sinh ảnh nghệ thuật Pollinations.AI FLUX.1 và hệ 
+  thống phôi phối cảnh Mockup thực tế 2.0 (danh thiếp, bao bì, biển hiệu).
+- Cột mốc 5: Nghiên cứu giáo trình từ 10 agency và học viện đồ họa hàng đầu (DPI 
+  Center, VNSkills, BrandsVietnam, Margram, SDmedia) để tạo lập 9 Archetype Vector 
+  Toán học thuần túy (lib/brandMarkEngines.ts) và giải mã ngôn ngữ học từ láy.
+- Cột mốc 6: Tích hợp hệ thống kiểm định chất lượng 5 cổng toán học (5 Popper Gates), 
+  loại bỏ hoàn toàn ảnh bitmap và đảm bảo 100% tệp đạt chuẩn in ấn khổ lớn.
+- Cột mốc 7: Hoàn thiện bộ biên dịch và xuất bản tự động (lib/exportGenerator.ts), 
+  sinh file SVG vector gốc, PNG 300DPI trong suốt và Cẩm nang Brand Guidelines PDF 
+  chuẩn Pitch Deck 16:9.
+
+
+================================================================================
+CHƯƠNG 7: BỘ TÀI SẢN BÀN GIAO TRỌN ĐỜI & LỢI THẾ CẠNH TRANH CHO DOANH NGHIỆP
+================================================================================
+
+7.1. BỘ TÀI SẢN BÀN GIAO ĐẦY ĐỦ CHO KHÁCH HÀNG:
+Khi nghiệm thu dự án tại Lumina Brand Lab, khách hàng được sở hữu trọn đời:
+1. File Vector Gốc Master (SVG / EPS): Phóng to vô hạn không bao giờ vỡ hạt, 
+   sẵn sàng chuyển cho xưởng in bao bì, thêu đồng phục hoặc thi công biển quảng cáo.
+2. Bộ 5 Biến Thể Màu Ứng Dụng: Bản màu đầy đủ, Bản âm bản trắng trên nền tối, 
+   Bản đơn sắc đen in văn bản, Bản nét viền khắc kim loại và Favicon trình duyệt.
+3. Bộ Ảnh Kỹ Thuật Số Nền Trong Suốt (PNG 300DPI): Kích thước 4000x4000px, dễ dàng 
+   chèn lên website, video TikTok, bài đăng Facebook, ấn phẩm truyền thông.
+4. Cẩm Nang Thương Hiệu Chuẩn Mực (Brand Guidelines PDF 5 Trang & HTML): 
+   Hướng dẫn chi tiết câu chuyện thương hiệu, vùng an toàn 1X, thông số 4 hệ màu 
+   (HEX, RGB, CMYK, Pantone) và quy chuẩn font chữ.
+5. Bộ Ảnh Phối Cảnh Thực Tế (Mockups): Danh thiếp, bao bì hộp, ly tách, biển hiệu showroom.
+
+7.2. TỔNG KẾT 4 LỢI THẾ CẠNH TRANH ĐỘT PHÁ KHI GIỚI THIỆU VỚI KHÁCH HÀNG:
+- (1) TỐC ĐỘ KỶ LỤC: Nhận concept hoàn mỹ trong 24 giờ thay vì chờ đợi 1 tháng.
+- (2) CHẤT LƯỢNG AGENCY CAO CẤP: Thiết kế chuẩn tỷ lệ vàng, 100% vector toán học, 
+      được Giám đốc Sáng tạo bảo chứng thẩm mỹ.
+- (3) CHI PHÍ TỐI ƯU & MINH BẠCH: Tiết kiệm 70% ngân sách, báo giá tự động rõ ràng, 
+      không phát sinh chi phí phụ.
+- (4) TRẢI NGHIỆM ĐẲNG CẤP & AN TÂM: Tra cứu đơn hàng VIP tức thì, xem trước logo 
+      trên phối cảnh thực tế sinh động, sở hữu trọn đời tài sản thương hiệu gốc.
+
+================================================================================
+                LUMINA BRAND LAB — KIẾN TẠO BẢN SẮC TRƯỜNG TỒN
+    Địa chỉ hệ thống: http://localhost:3000 | Hotline Studio: 0912.839.201
+================================================================================

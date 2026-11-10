@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap');
+      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.16em; fill: #3D2B1F; }
+      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.38em; fill: #9E6B55; }
+      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.24em; fill: #5B7065; }
+    </style>
+  </defs>
+  <rect width="500" height="500" fill="#F4EFEA" rx="28"/>
+  <rect x="22" y="22" width="456" height="456" fill="none" stroke="#9E6B55" stroke-width="0.8" stroke-opacity="0.3" rx="20"/>
+  <g id="logo-emblem" transform="translate(250, 185) scale(1)">
+    <path d="M -75 -40 C -95 0 -85 55 -45 80 C -5 105 55 95 80 55 C 102 18 90 -45 55 -75 C 22 -100 -35 -95 -65 -65" fill="none" stroke="#3D2B1F" stroke-width="3" stroke-linecap="round" stroke-dasharray="280 20"/>
+    <path d="M -85 20 C -70 -35 -20 -70 40 -65 C 75 -62 82 -25 58 5 C 38 30 -5 25 -20 -5 C -30 -30 -5 -48 18 -42" fill="none" stroke="#9E6B55" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M -60 55 C -25 75 35 70 65 30 C 85 -5 65 -45 25 -52 C -15 -58 -45 -25 -35 15 C -28 42 5 45 22 28" fill="none" stroke="#5B7065" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="88" cy="-15" r="3" fill="#5B7065"/>
+    <circle cx="-70" cy="-60" r="2" fill="#9E6B55"/>
+  </g>
+  <g id="logo-typography">
+    <text x="250" y="336" text-anchor="middle" class="brand-title">AUTOFINE</text>
+    <text x="250" y="370" text-anchor="middle" class="brand-sub">COFFEE &amp; SLOW WORKSPACE</text>
+    <g transform="translate(250, 390)">
+      <line x1="-70" y1="0" x2="-15" y2="0" stroke="#9E6B55" stroke-width="0.8" stroke-opacity="0.5"/>
+      <circle cx="0" cy="0" r="2.5" fill="#5B7065"/>
+      <line x1="15" y1="0" x2="70" y2="0" stroke="#9E6B55" stroke-width="0.8" stroke-opacity="0.5"/>
+    </g>
+    <text x="250" y="415" text-anchor="middle" class="brand-tagline">CHẠM CHẤT MỘC, LẮNG TIẾNG GIÓ REO</text>
+    <text x="250" y="434" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="500" font-size="8" fill="#9E6B55" letter-spacing="0.28em">EST. 2024</text>
+  </g>
+</svg>

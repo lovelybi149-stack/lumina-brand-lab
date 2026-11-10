@@ -1,0 +1,165 @@
+{
+  "project_id": "LUMINA-01",
+  "brand_name": "AURA ROASTERS",
+  "client_name": "Lê Tuấn Hưng",
+  "client_phone": "0912.839.201",
+  "client_email": "hung.le@auracoffee.vn",
+  "industry": "F&B Specialty Coffee & Trải nghiệm Slow Bar",
+  "target_audience": "Giới trẻ 22-38 tuổi, dân sáng tạo & văn phòng cao cấp chuộng cà phê mộc thủ công.",
+  "logo_format": "Combination Mark",
+  "color_tone": "Màu mộc ấm Wabi-sabi (Đất trầm, Thảo mộc & Kem cát)",
+  "style_vibes": [
+    "Artisanal",
+    "Organic Modernism",
+    "Warm & Earthy",
+    "Tinh tế",
+    "Trải nghiệm đa giác quan."
+  ],
+  "submitted_at": "2026-10-31T22:30:00Z",
+  "status": "Completed",
+  "order_tier": "pro",
+  "logo_options": [
+    {
+      "id": "opt_1",
+      "title": "Option 1: Tối Giản Ensō & Làn Gió Mộc (AI Refined)",
+      "concept_note": "Giao thoa giữa vòng tròn Ensō tinh thần Wabi-sabi và các làn gió cao nguyên lướt nhẹ qua thớ gỗ già trầm ấm.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.16em; fill: #3D2B1F; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.38em; fill: #9E6B55; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.24em; fill: #5B7065; }\n    </style>\n  </defs>\n\n  <!-- Nền Canvas Washi Paper -->\n  <rect width=\"500\" height=\"500\" fill=\"#F4EFEA\" rx=\"28\"/>\n\n  <!-- Khung viền chỉ mộc tối giản -->\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <circle cx=\"32\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"32\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n\n  <!-- BIỂU TƯỢNG GIAO THOA: GIÓ & VÂN GỖ MỘC (WIND & WOOD GRAIN ENSO) -->\n  <g id=\"logo-emblem\" transform=\"translate(250, 185)\">\n    <!-- Vòng tròn Ensō vân gỗ ngoài cùng -->\n    <path d=\"M -75 -40 C -95 0 -85 55 -45 80 C -5 105 55 95 80 55 C 102 18 90 -45 55 -75 C 22 -100 -35 -95 -65 -65\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-dasharray=\"280 20\"/>\n\n    <!-- Làn gió 1 cuộn qua thớ gỗ -->\n    <path d=\"M -85 20 C -70 -35 -20 -70 40 -65 C 75 -62 82 -25 58 5 C 38 30 -5 25 -20 -5 C -30 -30 -5 -48 18 -42\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n\n    <!-- Làn gió 2 lượn thanh thoát màu Xanh Thông Núi -->\n    <path d=\"M -60 55 C -25 75 35 70 65 30 C 85 -5 65 -45 25 -52 C -15 -58 -45 -25 -35 15 C -28 42 5 45 22 28\" fill=\"none\" stroke=\"#5B7065\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n\n    <!-- Vòng vân gỗ lõi thứ 3 -->\n    <path d=\"M -25 -10 C -25 -28 5 -35 20 -20 C 32 -8 25 18 5 22 C -10 25 -20 12 -18 -2\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.5\" stroke-linecap=\"round\"/>\n\n    <!-- Tâm mầm hạt cà phê mộc nguyên bản -->\n    <path d=\"M -2 -14 C 12 -18 18 -6 14 8 C 10 20 -4 16 -8 6 C -11 -2 -8 -11 -2 -14 Z\" fill=\"#3D2B1F\"/>\n    <path d=\"M -2 -8 C 4 -2 2 6 -3 10\" fill=\"none\" stroke=\"#F4EFEA\" stroke-width=\"1.2\" stroke-linecap=\"round\"/>\n\n    <!-- Điểm chấm sương gió tự nhiên -->\n    <circle cx=\"88\" cy=\"-15\" r=\"3\" fill=\"#5B7065\"/>\n    <circle cx=\"-70\" cy=\"-60\" r=\"2\" fill=\"#9E6B55\"/>\n    <circle cx=\"45\" cy=\"85\" r=\"2.5\" fill=\"#3D2B1F\" opacity=\"0.6\"/>\n  </g>\n\n  <!-- TYPOGRAPHY BỐ CỤC CÂN ĐỐI -->\n  <g id=\"logo-typography\">\n    <!-- Tên thương hiệu -->\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GIÓ MỘC</text>\n    \n    <!-- Ngành hàng & Không gian -->\n    <text x=\"250\" y=\"370\" text-anchor=\"middle\" class=\"brand-sub\">COFFEE &amp; SLOW WORKSPACE</text>\n    \n    <!-- Đường kẻ mộc phân cách -->\n    <g transform=\"translate(250, 390)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-15\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#5B7065\"/>\n      <line x1=\"15\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n    </g>\n\n    <!-- Định vị nguồn cội & Triết lý -->\n    <text x=\"250\" y=\"415\" text-anchor=\"middle\" class=\"brand-tagline\">ĐÀ LẠT • THIÊN NHIÊN • TĨNH TẠI</text>\n    <text x=\"250\" y=\"434\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#9E6B55\" letter-spacing=\"0.28em\">EST. 2024</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "letterSpacing": 0.16,
+        "primaryColor": "#3D2B1F",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_2",
+      "title": "Option 2: Mầm Cây Đôi & Hạt Cà Phê Mộc",
+      "concept_note": "Biểu tượng hai lá mầm vươn mở từ hạt Arabica nguyên bản, tượng trưng cho cội nguồn tự nhiên, sức sống mới và hương vị thanh lành.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 30px; letter-spacing: 0.20em; fill: #3D2B1F; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10.5px; letter-spacing: 0.35em; fill: #9E6B55; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.22em; fill: #F4EFEA; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#5B7065\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"0.7\" stroke-opacity=\"0.25\" rx=\"20\"/>\n  <circle cx=\"250\" cy=\"40\" r=\"2\" fill=\"#9E6B55\"/>\n  <circle cx=\"250\" cy=\"460\" r=\"2\" fill=\"#9E6B55\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185)\">\n    <!-- Vòng cung hữu cơ bảo bọc -->\n    <path d=\"M -80 -15 C -95 30 -70 75 -25 90 C 25 105 75 80 90 35 C 102 -5 85 -55 50 -80 C 15 -100 -40 -95 -68 -60\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"1.8\" stroke-dasharray=\"260 18\" stroke-linecap=\"round\"/>\n    <!-- Thân mầm vươn cao -->\n    <path d=\"M 0 65 C -5 20 -2 -25 35 -65\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\n    <!-- Lá mầm trái mềm mại -->\n    <path d=\"M 0 15 C -25 -5 -50 -10 -65 -35 C -45 -45 -15 -35 0 -5\" fill=\"none\" stroke=\"#F4EFEA\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\n    <!-- Lá mầm phải vươn mở -->\n    <path d=\"M 12 -15 C 35 -30 65 -30 80 -10 C 65 10 35 12 12 -5\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"2.0\" stroke-linecap=\"round\"/>\n    <!-- Hạt Arabica mộc tại gốc -->\n    <path d=\"M -16 65 C -18 50 -5 40 8 48 C 22 55 18 72 2 78 C -12 82 -18 75 -16 65 Z\" fill=\"#3D2B1F\"/>\n    <path d=\"M -6 52 C 2 58 2 68 -4 74\" fill=\"none\" stroke=\"#5B7065\" stroke-width=\"1.2\" stroke-linecap=\"round\"/>\n    <!-- Giọt sương sớm đồi thông -->\n    <circle cx=\"35\" cy=\"-70\" r=\"3\" fill=\"#F4EFEA\"/>\n    <circle cx=\"-65\" cy=\"-40\" r=\"2.5\" fill=\"#9E6B55\"/>\n    <circle cx=\"82\" cy=\"-12\" r=\"2\" fill=\"#3D2B1F\"/>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">AURA ROASTERS</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">ARTISANAL BOTANICAL &amp; COFFEE</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-60\" y1=\"0\" x2=\"-10\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.2\" fill=\"#3D2B1F\"/>\n      <line x1=\"10\" y1=\"0\" x2=\"60\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.4\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">CHẠM CHẤT MỘC, LẮNG TIẾNG GIÓ REO</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#9E6B55\" letter-spacing=\"0.25em\">NATURE • ORIGIN</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "letterSpacing": 0.2,
+        "primaryColor": "#3D2B1F",
+        "layout": "stacked"
+      }
+    },
+    {
+      "id": "opt_3",
+      "title": "Option 3: Hình Học Tỷ Lệ Vàng & Đỉnh Núi",
+      "concept_note": "Cấu trúc hình học đối xứng chuẩn tỷ lệ vàng 1:1.618 kết hợp mặt trời mọc đỉnh núi cao nguyên, kiến tạo vẻ sang trọng đương đại.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 31px; letter-spacing: 0.22em; fill: #3D2B1F; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.42em; fill: #9E6B55; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 8.8px; letter-spacing: 0.26em; fill: #F4EFEA; }\n    </style>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"#5B7065\" rx=\"28\"/>\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"0.7\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <g id=\"logo-emblem\" transform=\"translate(250, 185)\">\n    <!-- Vòng tròn tỷ lệ vàng ngoài cùng -->\n    <circle cx=\"0\" cy=\"0\" r=\"82\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"1.2\" stroke-dasharray=\"6 4\" stroke-opacity=\"0.5\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"68\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"2.2\"/>\n    <circle cx=\"0\" cy=\"0\" r=\"42\" fill=\"none\" stroke=\"#F4EFEA\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\"/>\n    <!-- Mặt trời mọc đỉnh núi -->\n    <circle cx=\"0\" cy=\"-22\" r=\"16\" fill=\"#9E6B55\" opacity=\"0.85\"/>\n    <!-- Đỉnh núi cao nguyên đối xứng -->\n    <path d=\"M -55 42 L 0 -22 L 55 42 Z\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n    <path d=\"M -28 42 L 0 8 L 28 42\" fill=\"none\" stroke=\"#F4EFEA\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/>\n    <!-- Thung lũng & sóng gió ngang -->\n    <line x1=\"-68\" y1=\"42\" x2=\"68\" y2=\"42\" stroke=\"#3D2B1F\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\n    <line x1=\"-45\" y1=\"52\" x2=\"45\" y2=\"52\" stroke=\"#9E6B55\" stroke-width=\"1.4\" stroke-linecap=\"round\"/>\n    <line x1=\"-20\" y1=\"60\" x2=\"20\" y2=\"60\" stroke=\"#F4EFEA\" stroke-width=\"1.2\" stroke-linecap=\"round\"/>\n    <circle cx=\"0\" cy=\"-62\" r=\"2.5\" fill=\"#3D2B1F\"/>\n  </g>\n  <g id=\"logo-typography\">\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">AURA ROASTERS</text>\n    <text x=\"250\" y=\"368\" text-anchor=\"middle\" class=\"brand-sub\">HIGHLAND SPECIALTY ROASTERS</text>\n    <g transform=\"translate(250, 388)\">\n      <line x1=\"-50\" y1=\"0\" x2=\"-8\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2\" fill=\"#F4EFEA\"/>\n      <line x1=\"8\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n    </g>\n    <text x=\"250\" y=\"414\" text-anchor=\"middle\" class=\"brand-tagline\">CHẠM CHẤT MỘC, LẮNG TIẾNG GIÓ REO</text>\n    <text x=\"250\" y=\"433\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#9E6B55\" letter-spacing=\"0.30em\">SACRED GEOMETRY</text>\n  </g>\n</svg>",
+      "settings": {
+        "iconScale": 1,
+        "letterSpacing": 0.22,
+        "primaryColor": "#3D2B1F",
+        "layout": "stacked"
+      }
+    }
+  ],
+  "selected_logo_id": "opt_1",
+  "delivery_mode": "client_choice",
+  "delivery_time": "24h",
+  "logo_options_count": 1,
+  "revision_rounds": 2,
+  "current_revision": 2,
+  "review_status": "Completed",
+  "brand_story": "AURA ROASTERS tin rằng mỗi tách cà phê là một quãng nghỉ thiền định giữa nhịp sống đô thị. Kết hợp Arabica Cầu Đất nguyên bản cùng kỹ nghệ rang mộc Bắc Âu, Aura đánh thức tần số năng lượng tích cực cho ngày mới. Slogan: \"Awaken Your Pure Frequency\".",
+  "tagline": "Chạm chất mộc, lắng tiếng gió reo",
+  "tagline_options": [
+    "Chạm chất mộc, lắng tiếng gió reo",
+    "Khoảng lặng nguyên bản giữa đồi thông Đà Lạt",
+    "Nơi làn gió tìm về với bình yên gỗ mộc"
+  ],
+  "palette": [
+    {
+      "role": "Primary",
+      "name": "Nâu Vỏ Thông Già (Deep Pine Bark)",
+      "hex": "#3D2B1F",
+      "rgb": "rgb(61, 43, 31)",
+      "usage": "Màu nhận diện trung tâm, typography tiêu đề, nét vẽ biểu tượng chính, chất liệu gỗ mộc nội thất và các ấn phẩm tương phản."
+    },
+    {
+      "role": "Secondary",
+      "name": "Đất Đỏ Bazan Mờ (Earthy Terracotta)",
+      "hex": "#9E6B55",
+      "rgb": "rgb(158, 107, 85)",
+      "usage": "Mảng màu phụ trợ, đường nét làn gió, nhãn thẻ tag sản phẩm, túi giấy kraft thô và menu chi tiết."
+    },
+    {
+      "role": "Neutral",
+      "name": "Trắng Giấy Dó Mộc (Washi Fiber Cream)",
+      "hex": "#F4EFEA",
+      "rgb": "rgb(244, 239, 234)",
+      "usage": "Màu nền không gian làm việc, màu nền danh thiếp giấy mỹ thuật, nền canvas logo và các ấn phẩm in ấn tự nhiên."
+    },
+    {
+      "role": "Accent",
+      "name": "Xanh Thông Núi Mờ (Mist Pine Sage)",
+      "hex": "#5B7065",
+      "rgb": "rgb(91, 112, 101)",
+      "usage": "Màu điểm xuyết gợi không khí sương mờ Đà Lạt, ứng dụng trên tem niêm phong thủ công, nắp ly và biểu tượng làn gió điểm nhấn."
+    }
+  ],
+  "typography": {
+    "heading": "Fraunces",
+    "body": "Be Vietnam Pro",
+    "pairing_rationale": "Fraunces sở hữu đường cong hữu cơ mềm mại, biến thiên tự nhiên như thớ gỗ đẽo gọt thủ công, đậm tinh thần Wabi-sabi và chiều sâu nghệ nhân. Kết hợp hài hòa cùng Be Vietnam Pro có hình học thanh mảnh, độ mở chữ rộng và tối ưu hoàn hảo cho hiển thị tiếng Việt, tạo nên sự cân bằng giữa chất thô mộc hoài niệm và trải nghiệm đọc mượt mà, thư thái cho không gian làm việc.",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,400&display=swap"
+  },
+  "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.16em; fill: #3D2B1F; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.38em; fill: #9E6B55; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.24em; fill: #5B7065; }\n    </style>\n  </defs>\n\n  <!-- Nền Canvas Washi Paper -->\n  <rect width=\"500\" height=\"500\" fill=\"#F4EFEA\" rx=\"28\"/>\n\n  <!-- Khung viền chỉ mộc tối giản -->\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <circle cx=\"32\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"32\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n\n  <!-- BIỂU TƯỢNG GIAO THOA: GIÓ & VÂN GỖ MỘC (WIND & WOOD GRAIN ENSO) -->\n  <g id=\"logo-emblem\" transform=\"translate(250, 185)\">\n    <!-- Vòng tròn Ensō vân gỗ ngoài cùng -->\n    <path d=\"M -75 -40 C -95 0 -85 55 -45 80 C -5 105 55 95 80 55 C 102 18 90 -45 55 -75 C 22 -100 -35 -95 -65 -65\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-dasharray=\"280 20\"/>\n\n    <!-- Làn gió 1 cuộn qua thớ gỗ -->\n    <path d=\"M -85 20 C -70 -35 -20 -70 40 -65 C 75 -62 82 -25 58 5 C 38 30 -5 25 -20 -5 C -30 -30 -5 -48 18 -42\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n\n    <!-- Làn gió 2 lượn thanh thoát màu Xanh Thông Núi -->\n    <path d=\"M -60 55 C -25 75 35 70 65 30 C 85 -5 65 -45 25 -52 C -15 -58 -45 -25 -35 15 C -28 42 5 45 22 28\" fill=\"none\" stroke=\"#5B7065\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n\n    <!-- Vòng vân gỗ lõi thứ 3 -->\n    <path d=\"M -25 -10 C -25 -28 5 -35 20 -20 C 32 -8 25 18 5 22 C -10 25 -20 12 -18 -2\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.5\" stroke-linecap=\"round\"/>\n\n    <!-- Tâm mầm hạt cà phê mộc nguyên bản -->\n    <path d=\"M -2 -14 C 12 -18 18 -6 14 8 C 10 20 -4 16 -8 6 C -11 -2 -8 -11 -2 -14 Z\" fill=\"#3D2B1F\"/>\n    <path d=\"M -2 -8 C 4 -2 2 6 -3 10\" fill=\"none\" stroke=\"#F4EFEA\" stroke-width=\"1.2\" stroke-linecap=\"round\"/>\n\n    <!-- Điểm chấm sương gió tự nhiên -->\n    <circle cx=\"88\" cy=\"-15\" r=\"3\" fill=\"#5B7065\"/>\n    <circle cx=\"-70\" cy=\"-60\" r=\"2\" fill=\"#9E6B55\"/>\n    <circle cx=\"45\" cy=\"85\" r=\"2.5\" fill=\"#3D2B1F\" opacity=\"0.6\"/>\n  </g>\n\n  <!-- TYPOGRAPHY BỐ CỤC CÂN ĐỐI -->\n  <g id=\"logo-typography\">\n    <!-- Tên thương hiệu -->\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GIÓ MỘC</text>\n    \n    <!-- Ngành hàng & Không gian -->\n    <text x=\"250\" y=\"370\" text-anchor=\"middle\" class=\"brand-sub\">COFFEE &amp; SLOW WORKSPACE</text>\n    \n    <!-- Đường kẻ mộc phân cách -->\n    <g transform=\"translate(250, 390)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-15\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#5B7065\"/>\n      <line x1=\"15\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n    </g>\n\n    <!-- Định vị nguồn cội & Triết lý -->\n    <text x=\"250\" y=\"415\" text-anchor=\"middle\" class=\"brand-tagline\">ĐÀ LẠT • THIÊN NHIÊN • TĨNH TẠI</text>\n    <text x=\"250\" y=\"434\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#9E6B55\" letter-spacing=\"0.28em\">EST. 2024</text>\n  </g>\n</svg>",
+  "original_logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <style>\n      @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&amp;family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&amp;display=swap');\n      .brand-title { font-family: 'Fraunces', serif; font-weight: 700; font-size: 32px; letter-spacing: 0.16em; fill: #3D2B1F; }\n      .brand-sub { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.38em; fill: #9E6B55; }\n      .brand-tagline { font-family: 'Be Vietnam Pro', sans-serif; font-weight: 500; font-size: 9px; letter-spacing: 0.24em; fill: #5B7065; }\n    </style>\n  </defs>\n\n  <!-- Nền Canvas Washi Paper -->\n  <rect width=\"500\" height=\"500\" fill=\"#F4EFEA\" rx=\"28\"/>\n\n  <!-- Khung viền chỉ mộc tối giản -->\n  <rect x=\"22\" y=\"22\" width=\"456\" height=\"456\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.3\" rx=\"20\"/>\n  <circle cx=\"32\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"32\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"32\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n  <circle cx=\"468\" cy=\"468\" r=\"2.5\" fill=\"#5B7065\" opacity=\"0.6\"/>\n\n  <!-- BIỂU TƯỢNG GIAO THOA: GIÓ & VÂN GỖ MỘC (WIND & WOOD GRAIN ENSO) -->\n  <g id=\"logo-emblem\" transform=\"translate(250, 185)\">\n    <!-- Vòng tròn Ensō vân gỗ ngoài cùng -->\n    <path d=\"M -75 -40 C -95 0 -85 55 -45 80 C -5 105 55 95 80 55 C 102 18 90 -45 55 -75 C 22 -100 -35 -95 -65 -65\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-dasharray=\"280 20\"/>\n\n    <!-- Làn gió 1 cuộn qua thớ gỗ -->\n    <path d=\"M -85 20 C -70 -35 -20 -70 40 -65 C 75 -62 82 -25 58 5 C 38 30 -5 25 -20 -5 C -30 -30 -5 -48 18 -42\" fill=\"none\" stroke=\"#9E6B55\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\n\n    <!-- Làn gió 2 lượn thanh thoát màu Xanh Thông Núi -->\n    <path d=\"M -60 55 C -25 75 35 70 65 30 C 85 -5 65 -45 25 -52 C -15 -58 -45 -25 -35 15 C -28 42 5 45 22 28\" fill=\"none\" stroke=\"#5B7065\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n\n    <!-- Vòng vân gỗ lõi thứ 3 -->\n    <path d=\"M -25 -10 C -25 -28 5 -35 20 -20 C 32 -8 25 18 5 22 C -10 25 -20 12 -18 -2\" fill=\"none\" stroke=\"#3D2B1F\" stroke-width=\"2.5\" stroke-linecap=\"round\"/>\n\n    <!-- Tâm mầm hạt cà phê mộc nguyên bản -->\n    <path d=\"M -2 -14 C 12 -18 18 -6 14 8 C 10 20 -4 16 -8 6 C -11 -2 -8 -11 -2 -14 Z\" fill=\"#3D2B1F\"/>\n    <path d=\"M -2 -8 C 4 -2 2 6 -3 10\" fill=\"none\" stroke=\"#F4EFEA\" stroke-width=\"1.2\" stroke-linecap=\"round\"/>\n\n    <!-- Điểm chấm sương gió tự nhiên -->\n    <circle cx=\"88\" cy=\"-15\" r=\"3\" fill=\"#5B7065\"/>\n    <circle cx=\"-70\" cy=\"-60\" r=\"2\" fill=\"#9E6B55\"/>\n    <circle cx=\"45\" cy=\"85\" r=\"2.5\" fill=\"#3D2B1F\" opacity=\"0.6\"/>\n  </g>\n\n  <!-- TYPOGRAPHY BỐ CỤC CÂN ĐỐI -->\n  <g id=\"logo-typography\">\n    <!-- Tên thương hiệu -->\n    <text x=\"250\" y=\"336\" text-anchor=\"middle\" class=\"brand-title\">GIÓ MỘC</text>\n    \n    <!-- Ngành hàng & Không gian -->\n    <text x=\"250\" y=\"370\" text-anchor=\"middle\" class=\"brand-sub\">COFFEE &amp; SLOW WORKSPACE</text>\n    \n    <!-- Đường kẻ mộc phân cách -->\n    <g transform=\"translate(250, 390)\">\n      <line x1=\"-70\" y1=\"0\" x2=\"-15\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n      <circle cx=\"0\" cy=\"0\" r=\"2.5\" fill=\"#5B7065\"/>\n      <line x1=\"15\" y1=\"0\" x2=\"70\" y2=\"0\" stroke=\"#9E6B55\" stroke-width=\"0.8\" stroke-opacity=\"0.5\"/>\n    </g>\n\n    <!-- Định vị nguồn cội & Triết lý -->\n    <text x=\"250\" y=\"415\" text-anchor=\"middle\" class=\"brand-tagline\">ĐÀ LẠT • THIÊN NHIÊN • TĨNH TẠI</text>\n    <text x=\"250\" y=\"434\" text-anchor=\"middle\" font-family=\"'Be Vietnam Pro', sans-serif\" font-weight=\"500\" font-size=\"8\" fill=\"#9E6B55\" letter-spacing=\"0.28em\">EST. 2024</text>\n  </g>\n</svg>",
+  "logo_layout": {
+    "layout": "stacked",
+    "iconScale": 1,
+    "letterSpacing": 0.16,
+    "iconColor": "#3D2B1F",
+    "titleColor": "#3D2B1F",
+    "taglineColor": "#5B7065",
+    "bgColor": "#F4EFEA"
+  },
+  "mockups": {
+    "namecard": {
+      "front": "Mặt trước phủ màu Trắng Giấy Dó Mộc (#F4EFEA) trên chất liệu giấy mỹ thuật sợi tự nhiên (Cotton Washi Paper) định lượng 380gsm với mép cắt thủ công xé tự nhiên (deckle edge). Logo Gió Mộc Coffee dập nổi mù không màu (blind emboss) kết hợp tên thương hiệu ép chìm viền màu Nâu Vỏ Thông (#3D2B1F), mang đến trải nghiệm xúc giác thô ráp và thanh nhã.",
+      "back": "Mặt sau dùng nền Nâu Vỏ Thông Già (#3D2B1F) màu gỗ mộc. Thông tin liên hệ, mật khẩu Wifi yên tĩnh và biểu tượng mã QR đặt trang nhã bằng mực in lụa màu Trắng Giấy Dó (#F4EFEA); góc thẻ điểm xuyết một chiếc lá thông nhỏ in màu Xanh Thông Núi (#5B7065) mờ nhẹ."
+    },
+    "packaging": {
+      "type": "Túi đựng cà phê hạt giấy Kraft nâu mộc mạc tráng màng sinh học PLA có van một chiều kết hợp ly giấy hai lớp cách nhiệt dùng tại chỗ.",
+      "description": "Thân túi kraft màu nâu nhạt tự nhiên; mặt trước dập tem nhãn dán thủ công bằng giấy dó in vân gỗ và làn gió xoáy. Tem niêm phong miệng túi dạng dải dài màu Xanh Thông Núi (#5B7065) ghi chú ngày rang mộc và dòng chữ 'Lắng nghe gió kể'. Ly giấy mang tone màu Trắng Giấy Dó (#F4EFEA) đi kèm sleeve bọc lót cách nhiệt bằng sợi bã cà phê ép mộc."
+    },
+    "signage": {
+      "type": "Biển hiệu chính bằng gỗ thông lũa nguyên khối khắc chìm âm bản kết hợp biển vẫy tròn bằng sắt rỉ sét nghệ thuật (Corten Steel).",
+      "description": "Biển hiệu chính sử dụng tấm gỗ thông già tự nhiên được xử lý bề mặt thô nhám theo kỹ thuật Shou Sugi Ban (đốt gỗ mộc Wabi-sabi), tên thương hiệu 'GIÓ MỘC' được khắc chìm trực tiếp vào thớ gỗ và hắt sáng gián tiếp bằng dải đèn LED vàng ấm 2700K ẩn bên dưới. Biển vẫy tròn treo hiên nhà bằng thép Corten rỉ sét tự nhiên cắt laser họa tiết làn gió luồn qua vân gỗ, phát sáng nhẹ như ngọn đèn lồng giữa sương mù cao nguyên."
+    }
+  },
+  "moodboard_url": "=IMAGE(https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80)",
+  "mockup_url": "=IMAGE(https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1200&q=80)",
+  "has_unread_feedback": false,
+  "feedback_history": [
+    {
+      "revision_round": 1,
+      "selected_option_id": "opt_1",
+      "comment": "Xin chỉnh màu thớ gỗ trầm hơn 10% và tăng icon lên 5%",
+      "submitted_at": "2026-11-01T04:36:53.827Z",
+      "feedback_type": "revision"
+    },
+    {
+      "revision_round": 2,
+      "selected_option_id": "opt_1",
+      "comment": "Bản thiết kế rất đẹp, tôi hoàn toàn đồng ý nghiệm thu!",
+      "submitted_at": "2026-11-01T04:36:53.847Z",
+      "feedback_type": "approve_final"
+    }
+  ],
+  "client_feedback": "Bản thiết kế rất đẹp, tôi hoàn toàn đồng ý nghiệm thu!",
+  "payment_status": "paid",
+  "payment_amount": 2500000,
+  "payment_time": "2026-11-01T04:36:53.857Z",
+  "payment_ref": "MB-TEST-999888",
+  "approved_at": "2026-11-01T04:36:53.857Z",
+  "export_links": {
+    "svg_url": "/downloads/LUMINA-01/logo_master.svg",
+    "png_url": "/downloads/LUMINA-01/logo_transparent.png",
+    "pdf_url": "/downloads/LUMINA-01/brand_guideline.pdf",
+    "client_proposal_url": "/p/aura-roasters"
+  }
+}

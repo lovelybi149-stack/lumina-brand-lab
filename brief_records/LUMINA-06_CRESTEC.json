@@ -1,0 +1,26 @@
+{
+  "client_name": "Nguyễn Anh",
+  "client_phone": "0903 033033",
+  "client_email": "anh@gmail.com",
+  "brand_name": "CRESTEC",
+  "slogan": "Chưa có slogan (AI sáng tạo)",
+  "industry": "Khác",
+  "target_audience": "Công ty In ấn, yêu cầu biểu tượng logo sử dụng chũ C cách điệu làm biểu tượng kết hợp với chữ CRESTEC, font Aptima, màu chủ đạo là xanh cyan, slogan màu xám dưới chữ Crestec",
+  "logo_format": "Combination Mark",
+  "color_tone": "Cool & Tech (Xanh dương đậm, xanh ngọc, xám chì)",
+  "style_vibes": [
+    "Minimalist",
+    "Rustic"
+  ],
+  "status": "Pending",
+  "created_at": "2026-11-01T04:51:43.794Z",
+  "order_config": {
+    "delivery_time": "3d",
+    "logo_options_count": 3,
+    "revision_rounds": 1,
+    "quote_price": 1200000,
+    "currency": "VND",
+    "payment_status": "Quotation_Accepted"
+  },
+  "project_id": "LUMINA-06"
+}
